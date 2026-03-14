@@ -141,6 +141,39 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-03-14T13:39:42.447Z"
+      },
+      {
+        "text": "You think you're too tired for the gym? That's not an excuse, that's your identity. Change it. I did, after 2 months off. Still struggling to get back on track.",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-03-14T13:46:28.285Z"
+      },
+      {
+        "text": "Woke up at 5:30, hated it. Went to the gym anyway. First step to building discipline is showing up, no matter how you feel. Still trying to fix my sleep schedule.",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-03-14T13:46:28.285Z"
+      },
+      {
+        "text": "Discipline is not about being motivated, it's about being consistent. 'You don't have to want to, you just have to show up.'",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-03-14T13:46:28.285Z"
       }
     ],
     "recent_hooks": [],
@@ -166,6 +199,12 @@
       "discipline",
       "gym",
       "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
       "gym"
     ],
     "recent_triggers_used": [
@@ -180,19 +219,22 @@
       "reframe",
       "identity_threat",
       "relatability_gap",
+      "reframe",
+      "identity_threat",
+      "relatability_gap",
       "reframe"
     ],
     "tone_distribution_7d": {
-      "tough-love": 3,
-      "motivational": 4,
-      "empathetic": 3,
+      "tough-love": 4,
+      "motivational": 5,
+      "empathetic": 4,
       "casual": 1,
       "reflective": 1
     },
     "format_distribution_7d": {
-      "micro-lesson": 4,
-      "micro-story": 3,
-      "quote-style": 3,
+      "micro-lesson": 5,
+      "micro-story": 4,
+      "quote-style": 4,
       "question": 1,
       "list": 1
     }

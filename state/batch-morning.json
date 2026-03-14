@@ -1,6 +1,6 @@
 [
   {
-    "text": "Your lack of discipline isn't because you're busy, it's because you're not prioritizing. I've been trying to get back into my gym routine after 2 months off and it's a constant struggle. #discipline",
+    "text": "You think you're too tired for the gym? That's not an excuse, that's your identity. Change it. I did, after 2 months off. Still struggling to get back on track.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -18,21 +18,19 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "discipline"
-    ],
-    "quality_score": 8.1,
+    "hashtags": [],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.6,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8.8,
+      "virality_potential": 8,
+      "audience_fit": 8.2
     },
-    "decision_reason": "Directly addressing the audience's lack of discipline"
+    "decision_reason": "directly addresses the audience's potential excuse"
   },
   {
-    "text": "First workout back at the gym was tough, but I showed up. That's all that mattered. Now it's about building consistency, one rep at a time.",
+    "text": "Woke up at 5:30, hated it. Went to the gym anyway. First step to building discipline is showing up, no matter how you feel. Still trying to fix my sleep schedule.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -42,7 +40,7 @@
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "inconsistent routine",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -53,16 +51,16 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.6,
-      "emotional_impact": 0.7,
-      "virality_potential": 0.5,
-      "audience_fit": 0.8
+      "clarity": 8.2,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 7.8,
+      "audience_fit": 8
     },
-    "decision_reason": "Sharing a personal story of overcoming a challenge"
+    "decision_reason": "shares a personal struggle and a small win"
   },
   {
-    "text": "Discipline is not about being perfect, it's about being persistent. Every sweat drop counts, even when it feels like you're not making progress.",
+    "text": "Discipline is not about being motivated, it's about being consistent. 'You don't have to want to, you just have to show up.'",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -72,8 +70,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "proof discipline pays off"
+      "pain_point": "lacking motivation",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8.8,
+      "originality": 8,
+      "emotional_impact": 8.2,
+      "virality_potential": 8.5,
+      "audience_fit": 8.8
     },
-    "decision_reason": "Offering a unique perspective on discipline"
+    "decision_reason": "offers a new perspective on discipline"
   }
 ]
