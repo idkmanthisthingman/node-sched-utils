@@ -39,6 +39,10 @@ async function main() {
     ? process.argv[process.argv.indexOf('--batch') + 1]
     : 'morning';
 
+  const indexArg = process.argv.includes('--index')
+    ? parseInt(process.argv[process.argv.indexOf('--index') + 1], 10)
+    : null;
+
   const batchFile = join(ROOT, 'state', `batch-${batchArg}.json`);
   if (!existsSync(batchFile)) {
     console.error(`No batch file found: ${batchFile}`);
@@ -46,8 +50,17 @@ async function main() {
     process.exit(1);
   }
 
-  const posts = JSON.parse(readFileSync(batchFile, 'utf-8'));
-  console.log(`Loaded ${posts.length} posts from ${batchArg} batch.`);
+  const allPosts = JSON.parse(readFileSync(batchFile, 'utf-8'));
+
+  // --index N: post only that one tweet (no sleep). Used by per-tweet cron jobs.
+  const posts = indexArg !== null ? [allPosts[indexArg]].filter(Boolean) : allPosts;
+
+  if (indexArg !== null && posts.length === 0) {
+    console.log(`No tweet at index ${indexArg} in ${batchArg} batch (has ${allPosts.length}). Skipping.`);
+    process.exit(0);
+  }
+
+  console.log(`Posting ${posts.length} tweet(s) from ${batchArg} batch${indexArg !== null ? ` (index ${indexArg})` : ''}.`);
 
   if (DRY_RUN) {
     console.log('=== DRY RUN MODE ===');
@@ -61,7 +74,6 @@ async function main() {
   const scraper = await createAuthenticatedScraper();
   const state = loadState();
 
-  // Post with 30-45 min gaps between tweets
   for (let i = 0; i < posts.length; i++) {
     const post = posts[i];
     const includeImage = Math.random() < 0.8; // 80% of posts get images
@@ -77,17 +89,16 @@ async function main() {
       continue;
     }
 
-    // Wait between posts (skip after last one)
-    if (i < posts.length - 1) {
+    // Sleep only when posting all tweets in one run (no --index), skip after last
+    if (indexArg === null && i < posts.length - 1) {
       const waitMs = randomJitter(30 * 60 * 1000, 15 * 60 * 1000); // 30-45 min
       console.log(`Waiting ${Math.round(waitMs / 60000)} minutes before next post...`);
       await sleep(waitMs);
     }
   }
 
-  // Save cookies for next run
   await saveCookies(scraper);
-  console.log('Batch complete.');
+  console.log('Done.');
 }
 
 main().catch((err) => {
