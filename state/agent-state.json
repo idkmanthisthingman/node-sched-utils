@@ -108,6 +108,39 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-03-14T12:17:49.044Z"
+      },
+      {
+        "text": "Your lack of discipline isn't because you're busy, it's because you're not prioritizing. I've been trying to get back into my gym routine after 2 months off and it's a constant struggle. #discipline",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-03-14T13:39:42.447Z"
+      },
+      {
+        "text": "First workout back at the gym was tough, but I showed up. That's all that mattered. Now it's about building consistency, one rep at a time.",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-03-14T13:39:42.447Z"
+      },
+      {
+        "text": "Discipline is not about being perfect, it's about being persistent. Every sweat drop counts, even when it feels like you're not making progress.",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-03-14T13:39:42.447Z"
       }
     ],
     "recent_hooks": [],
@@ -127,6 +160,12 @@
       "discipline",
       "gym",
       "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
       "gym"
     ],
     "recent_triggers_used": [
@@ -138,19 +177,22 @@
       "stakes_escalation",
       "identity_threat",
       "relatability_gap",
+      "reframe",
+      "identity_threat",
+      "relatability_gap",
       "reframe"
     ],
     "tone_distribution_7d": {
-      "tough-love": 2,
-      "motivational": 3,
-      "empathetic": 2,
+      "tough-love": 3,
+      "motivational": 4,
+      "empathetic": 3,
       "casual": 1,
       "reflective": 1
     },
     "format_distribution_7d": {
-      "micro-lesson": 3,
-      "micro-story": 2,
-      "quote-style": 2,
+      "micro-lesson": 4,
+      "micro-story": 3,
+      "quote-style": 3,
       "question": 1,
       "list": 1
     }
@@ -185,7 +227,7 @@
     "retweeted_tweet_ids": [],
     "replied_tweet_ids": [],
     "daily": {
-      "date": null,
+      "date": "2026-03-14",
       "follows": 0,
       "likes": 0,
       "retweets": 0,
