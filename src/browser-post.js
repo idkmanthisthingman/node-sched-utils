@@ -125,12 +125,18 @@ export async function browserSendTweet(text) {
     }
   );
 
+  console.log(`CreateTweet response (${result.status}):`, JSON.stringify(result.data, null, 2));
+
   if (result.status !== 200) {
     throw new Error(`CreateTweet failed (${result.status}): ${JSON.stringify(result.data)}`);
   }
 
-  const tweetId =
-    result.data?.data?.create_tweet?.tweet_results?.result?.rest_id || null;
+  const tweetResult = result.data?.data?.create_tweet?.tweet_results?.result;
+  const tweetId = tweetResult?.rest_id || null;
+
+  if (!tweetId) {
+    throw new Error(`CreateTweet returned 200 but no tweet ID. Response: ${JSON.stringify(result.data)}`);
+  }
 
   return tweetId;
 }
