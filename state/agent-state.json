@@ -196,16 +196,34 @@
         ],
         "trigger": "social_proof_inverse",
         "posted_at": "2026-03-14T14:32:24.813Z"
+      },
+      {
+        "text": "Started with 3 days of gym and sacrificed my morning sleep. Now I'm struggling to wake up at 5:30. The pain is real, but so is the dream of getting back on track.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-03-14T14:51:15.982Z"
+      },
+      {
+        "text": "I see people posting their fitness journeys, but most of them started with a single gym session a week. Not every day, not every morning. Just a start. Now I'm trying to get back on track after 2 months off.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-03-14T14:51:15.982Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "discipline",
-      "discipline",
-      "motivation",
-      "consistency",
-      "motivation",
-      "life",
       "consistency",
       "life",
       "discipline",
@@ -229,6 +247,12 @@
       "sacrifice",
       "pain",
       "sacrifice",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
       "dreams"
     ],
     "recent_triggers_used": [
@@ -248,22 +272,24 @@
       "relatability_gap",
       "reframe",
       "pattern_interrupt",
+      "social_proof_inverse",
+      "pattern_interrupt",
       "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 4,
       "motivational": 5,
-      "empathetic": 5,
+      "empathetic": 6,
       "casual": 1,
-      "reflective": 2
+      "reflective": 3
     },
     "format_distribution_7d": {
       "micro-lesson": 5,
-      "micro-story": 5,
+      "micro-story": 6,
       "quote-style": 4,
       "question": 1,
       "list": 1,
-      "progress-log": 1
+      "progress-log": 2
     }
   },
   "performance": {
@@ -274,7 +300,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-14T14:32:23.146Z"
+    "last_analyzed_at": "2026-03-14T14:51:14.114Z"
   },
   "content_library": {
     "proven_hooks": [],

@@ -1,16 +1,17 @@
 [
   {
-    "text": "Worst part of getting back to the gym? It's not the pain, it's the sacrifice of my mornings. Woke up at 5:30, still trying to fix my sleep schedule. #gym",
+    "text": "Started with 3 days of gym and sacrificed my morning sleep. Now I'm struggling to wake up at 5:30. The pain is real, but so is the dream of getting back on track.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
       "sacrifice",
-      "pain"
+      "pain",
+      "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "struggling with consistency",
+      "pain_point": "feeling stuck",
       "desire": "visible physical progress"
     },
     "goal_alignment": {
@@ -18,32 +19,31 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "gym"
-    ],
-    "quality_score": 8.2,
+    "hashtags": [],
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
       "virality_potential": 0.7,
-      "audience_fit": 0.9
+      "audience_fit": 0.8
     },
-    "decision_reason": "relatable storyline"
+    "decision_reason": "Addresses the struggle of getting back to the gym and making sacrifices, while also referencing the dream of progress."
   },
   {
-    "text": "You're not alone in this struggle. I see people posting their gym progress, but nobody talks about the days they don't want to show up. That's the real sacrifice. Keep going, even when it hurts.",
+    "text": "I see people posting their fitness journeys, but most of them started with a single gym session a week. Not every day, not every morning. Just a start. Now I'm trying to get back on track after 2 months off.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
       "sacrifice",
+      "pain",
       "dreams"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "being someone people notice changed"
+      "pain_point": "comparing to others",
+      "desire": "belonging to a group that gets it"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 7.8,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
-      "emotional_impact": 0.9,
+      "emotional_impact": 0.8,
       "virality_potential": 0.8,
       "audience_fit": 0.9
     },
-    "decision_reason": "authenticity"
+    "decision_reason": "Highlights the realistic approach to fitness and the struggles that come with it, offering an empathetic perspective."
   }
 ]
