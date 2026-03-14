@@ -1,0 +1,95 @@
+{
+  "operational": {
+    "week": 1,
+    "arc_phase": "beginning",
+    "audience_stage": "cold",
+    "phase_start_week": 1,
+    "open_storylines": [
+      "Went back to gym after 2 months off",
+      "Trying to fix sleep schedule"
+    ],
+    "active_ab_test_id": null
+  },
+  "content": {
+    "recent_posts": [
+      {
+        "text": "You think you're not a morning person? That's just an excuse. I've been trying to fix my sleep schedule for weeks and it's still a struggle. #discipline",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-03-14T12:07:44.339Z"
+      },
+      {
+        "text": "2 months off gym and I'm back. My first workout was brutal. But the feeling of pushing through is what gets me going. Consistency is key, even when it's hard.",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "gym",
+          "discipline"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-03-14T12:07:44.340Z"
+      },
+      {
+        "text": "Discipline isn't about being perfect, it's about being persistent. Even when no one is watching, you're still accountable to yourself.",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-03-14T12:07:44.340Z"
+      }
+    ],
+    "recent_hooks": [],
+    "recent_topics": [
+      "discipline",
+      "gym",
+      "discipline",
+      "discipline"
+    ],
+    "recent_triggers_used": [
+      "identity_threat",
+      "relatability_gap",
+      "reframe"
+    ],
+    "tone_distribution_7d": {
+      "tough-love": 1,
+      "motivational": 1,
+      "empathetic": 1,
+      "casual": 0,
+      "reflective": 0
+    },
+    "format_distribution_7d": {
+      "micro-lesson": 1,
+      "micro-story": 1,
+      "quote-style": 1
+    }
+  },
+  "performance": {
+    "engagement_rate_7d": 0,
+    "follower_growth_rate_7d": 0,
+    "avg_quality_score_7d": 0,
+    "top_performing_patterns": [],
+    "weak_patterns": [],
+    "active_ab_tests": []
+  },
+  "content_library": {
+    "proven_hooks": [],
+    "proven_formats": [],
+    "proven_pillar_combinations": [],
+    "high_performing_opening_lines": [],
+    "retired_phrases": [
+      "Rome wasn't built in a day",
+      "every journey starts with a single step",
+      "you got this",
+      "hustle hard",
+      "rise and grind"
+    ],
+    "signature_phrases": [],
+    "audience_response_patterns": []
+  }
+}

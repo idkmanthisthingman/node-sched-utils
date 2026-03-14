@@ -1,0 +1,92 @@
+[
+  {
+    "text": "You think you're not a morning person? That's just an excuse. I've been trying to fix my sleep schedule for weeks and it's still a struggle. #discipline",
+    "tone": "tough-love",
+    "format": "micro-lesson",
+    "pillar": [
+      "discipline"
+    ],
+    "psychological_trigger": "identity_threat",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "feeling stuck",
+      "desire": "visible physical progress"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [
+      "discipline"
+    ],
+    "quality_score": 8,
+    "quality_breakdown": {
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
+    },
+    "decision_reason": "Directly challenging the audience's identity to spark growth"
+  },
+  {
+    "text": "2 months off gym and I'm back. My first workout was brutal. But the feeling of pushing through is what gets me going. Consistency is key, even when it's hard.",
+    "tone": "motivational",
+    "format": "micro-story",
+    "pillar": [
+      "gym",
+      "discipline"
+    ],
+    "psychological_trigger": "relatability_gap",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [],
+    "quality_score": 8.2,
+    "quality_breakdown": {
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
+    },
+    "decision_reason": "Sharing a personal struggle to create a relatable narrative"
+  },
+  {
+    "text": "Discipline isn't about being perfect, it's about being persistent. Even when no one is watching, you're still accountable to yourself.",
+    "tone": "empathetic",
+    "format": "quote-style",
+    "pillar": [
+      "discipline"
+    ],
+    "psychological_trigger": "reframe",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "feeling stuck",
+      "desire": "visible physical progress"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [],
+    "quality_score": 8.5,
+    "quality_breakdown": {
+      "clarity": 0.9,
+      "originality": 0.9,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
+    },
+    "decision_reason": "Reframing discipline to focus on persistence rather than perfection"
+  }
+]

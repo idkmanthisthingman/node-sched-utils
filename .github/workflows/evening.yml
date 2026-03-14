@@ -1,0 +1,55 @@
+name: Evening Posts
+on:
+  schedule:
+    - cron: '30 13 * * *' # 19:00 IST
+  workflow_dispatch: {}
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm ci
+
+      - name: Generate posts
+        run: node src/generate.js --batch evening
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
+      - name: Restore cookies
+        run: |
+          if [ -n "$COOKIES_JSON" ]; then
+            echo "$COOKIES_JSON" > state/cookies.json
+          fi
+        env:
+          COOKIES_JSON: ${{ secrets.X_COOKIES }}
+
+      - name: Post to X
+        run: node src/post.js --batch evening
+        env:
+          X_USERNAME: ${{ secrets.X_USERNAME }}
+          X_PASSWORD: ${{ secrets.X_PASSWORD }}
+          X_EMAIL: ${{ secrets.X_EMAIL }}
+
+      - name: Save cookies to artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cookies-evening
+          path: state/cookies.json
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: Commit state
+        run: |
+          git config user.name "openclaw-bot"
+          git config user.email "bot@openclaw.local"
+          git add state/agent-state.json state/batch-evening.json
+          git diff --cached --quiet || git commit -m "Update state after evening batch"
+          git push

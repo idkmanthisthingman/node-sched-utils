@@ -1,0 +1,18 @@
+{
+  "name": "openclaw-autoposter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "OpenClaw v4.1 autonomous social growth agent — posts to X via GitHub Actions",
+  "scripts": {
+    "generate": "node src/generate.js",
+    "post": "node src/post.js",
+    "dry-run": "DRY_RUN=1 node src/post.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agent-twitter-client": "^0.0.18",
+    "groq-sdk": "^1.1.1"
+  }
+}
