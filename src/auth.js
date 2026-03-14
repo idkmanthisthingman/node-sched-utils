@@ -18,14 +18,24 @@ async function loadCookies(scraper) {
   if (!existsSync(COOKIES_PATH)) return false;
   try {
     const cookies = JSON.parse(readFileSync(COOKIES_PATH, 'utf-8'));
-    await scraper.setCookies(cookies);
-    if (await scraper.isLoggedIn()) {
-      console.log('Restored session from cached cookies.');
-      return true;
-    }
-    console.log('Cached cookies expired, will re-login.');
-    return false;
-  } catch {
+    // Convert stored objects to cookie header strings — setCookies() expects
+    // string | Cookie instances, not plain objects.
+    const cookieStrings = cookies.map((c) => {
+      let s = `${c.key || c.name}=${c.value}`;
+      if (c.domain) s += `; Domain=${c.domain}`;
+      if (c.path)   s += `; Path=${c.path}`;
+      if (c.secure) s += `; Secure`;
+      if (c.httpOnly) s += `; HttpOnly`;
+      if (c.sameSite) s += `; SameSite=${c.sameSite}`;
+      return s;
+    });
+    await scraper.setCookies(cookieStrings);
+    // Skip isLoggedIn() — it makes an extra API call that X blocks from CI IPs.
+    // If cookies are invalid, sendTweet will fail with a clear error.
+    console.log(`Restored session from cached cookies (${cookieStrings.length} cookies).`);
+    return true;
+  } catch (err) {
+    console.log(`Cookie restore failed: ${err.message}. Will re-login.`);
     return false;
   }
 }
