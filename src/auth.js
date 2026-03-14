@@ -20,15 +20,20 @@ async function loadCookies(scraper) {
     const cookies = JSON.parse(readFileSync(COOKIES_PATH, 'utf-8'));
     // Convert stored objects to cookie header strings — setCookies() expects
     // string | Cookie instances, not plain objects.
-    const cookieStrings = cookies.map((c) => {
-      let s = `${c.key || c.name}=${c.value}`;
-      if (c.domain) s += `; Domain=${c.domain}`;
-      if (c.path)   s += `; Path=${c.path}`;
-      if (c.secure) s += `; Secure`;
-      if (c.httpOnly) s += `; HttpOnly`;
-      if (c.sameSite) s += `; SameSite=${c.sameSite}`;
-      return s;
-    });
+    // agent-twitter-client requests hit both x.com AND twitter.com, so we
+    // register each cookie under both domains.
+    const cookieStrings = [];
+    for (const c of cookies) {
+      const name = c.key || c.name;
+      const domains = ['.x.com', '.twitter.com'];
+      for (const domain of domains) {
+        let s = `${name}=${c.value}; Domain=${domain}; Path=${c.path || '/'}`;
+        if (c.secure)   s += `; Secure`;
+        if (c.httpOnly) s += `; HttpOnly`;
+        if (c.sameSite) s += `; SameSite=${c.sameSite}`;
+        cookieStrings.push(s);
+      }
+    }
     await scraper.setCookies(cookieStrings);
     // Skip isLoggedIn() — it makes an extra API call that X blocks from CI IPs.
     // If cookies are invalid, sendTweet will fail with a clear error.
