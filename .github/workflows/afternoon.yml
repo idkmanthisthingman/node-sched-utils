@@ -7,7 +7,7 @@ on:
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 150
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
 
@@ -17,11 +17,6 @@ jobs:
 
       - run: npm ci
 
-      - name: Generate posts
-        run: node src/generate.js --batch afternoon
-        env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-
       - name: Restore cookies
         run: |
           if [ -n "$COOKIES_JSON" ]; then
@@ -30,12 +25,32 @@ jobs:
         env:
           COOKIES_JSON: ${{ secrets.X_COOKIES }}
 
+      - name: Fetch engagement analytics
+        run: node src/analytics.js
+        env:
+          X_USERNAME: ${{ secrets.X_USERNAME }}
+          X_PASSWORD: ${{ secrets.X_PASSWORD }}
+          X_EMAIL: ${{ secrets.X_EMAIL }}
+
+      - name: Generate posts
+        run: node src/generate.js --batch afternoon
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
       - name: Post to X
         run: node src/post.js --batch afternoon
         env:
           X_USERNAME: ${{ secrets.X_USERNAME }}
           X_PASSWORD: ${{ secrets.X_PASSWORD }}
           X_EMAIL: ${{ secrets.X_EMAIL }}
+
+      - name: Engage with niche
+        run: node src/engage.js
+        env:
+          X_USERNAME: ${{ secrets.X_USERNAME }}
+          X_PASSWORD: ${{ secrets.X_PASSWORD }}
+          X_EMAIL: ${{ secrets.X_EMAIL }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
       - name: Save cookies to artifact
         if: always()

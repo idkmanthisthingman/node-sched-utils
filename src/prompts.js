@@ -48,6 +48,15 @@ export function buildBatchPrompt(batchName, agentState) {
   const recentTriggers = (agentState.content.recent_triggers_used || []).slice(-5).join(', ');
   const storylines = (agentState.operational.open_storylines || []).join('\n- ');
 
+  const topPatterns = (agentState.performance?.top_performing_patterns || []).slice(0, 4);
+  const perfContext =
+    topPatterns.length > 0
+      ? '\nPerformance insights (real engagement data — favor these patterns):\n' +
+        topPatterns
+          .map((p) => `- ${p.dimension} "${p.value}": avg ${p.avg_engagement} engagements (n=${p.sample_size})`)
+          .join('\n')
+      : '';
+
   return `Generate ${batch.count} posts for the ${batchName} batch.
 
 Current state:
@@ -76,7 +85,7 @@ Recent hooks used (do not reuse within 7 days): ${recentHooks || '(none)'}
 Recent triggers used (do not use same trigger consecutively): ${recentTriggers || '(none)'}
 
 Retired phrases (never use): ${agentState.content_library.retired_phrases.join(', ')}
-
+${perfContext}
 Output ONLY a JSON array of post objects. Each object must follow this exact schema:
 {
   "text": "the tweet text (max 280 chars)",

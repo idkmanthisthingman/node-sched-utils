@@ -42,6 +42,72 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-03-14T12:07:44.340Z"
+      },
+      {
+        "text": "It's okay to not have it all together. You can start building consistency even when life is chaotic. I'm still trying to fix my sleep schedule, but every small win counts.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-03-14T12:12:44.295Z"
+      },
+      {
+        "text": "What's the smallest habit you can build today that'll move you closer to your goal? For me, it's a 10-minute morning routine. What's yours?",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-03-14T12:12:44.298Z"
+      },
+      {
+        "text": "3 things I've learned about consistency so far: it's hard to start, it's easy to quit, and it's worth it. Still trying to get back into my gym routine after 2 months off.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-03-14T12:12:44.298Z"
+      },
+      {
+        "text": "You're not lazy, you're just not consistent. Discipline is what separates those who reach their goals from those who don't. Been there, still working on it after 2 months off gym.",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-03-14T12:17:49.042Z"
+      },
+      {
+        "text": "First day back at the gym was tough, but the worst part was knowing I had to do it again tomorrow. And the next day. That's where discipline kicks in. Still trying to get back into my routine.",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-03-14T12:17:49.044Z"
+      },
+      {
+        "text": "Discipline is not about achieving perfection, it's about progressing despite imperfection. Every rep, every set, every sweat drop counts.",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-03-14T12:17:49.044Z"
       }
     ],
     "recent_hooks": [],
@@ -49,24 +115,44 @@
       "discipline",
       "gym",
       "discipline",
-      "discipline"
+      "discipline",
+      "motivation",
+      "consistency",
+      "motivation",
+      "life",
+      "consistency",
+      "life",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym"
     ],
     "recent_triggers_used": [
+      "identity_threat",
+      "relatability_gap",
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation",
       "identity_threat",
       "relatability_gap",
       "reframe"
     ],
     "tone_distribution_7d": {
-      "tough-love": 1,
-      "motivational": 1,
-      "empathetic": 1,
-      "casual": 0,
-      "reflective": 0
+      "tough-love": 2,
+      "motivational": 3,
+      "empathetic": 2,
+      "casual": 1,
+      "reflective": 1
     },
     "format_distribution_7d": {
-      "micro-lesson": 1,
-      "micro-story": 1,
-      "quote-style": 1
+      "micro-lesson": 3,
+      "micro-story": 2,
+      "quote-style": 2,
+      "question": 1,
+      "list": 1
     }
   },
   "performance": {
@@ -91,5 +177,19 @@
     ],
     "signature_phrases": [],
     "audience_response_patterns": []
+  },
+  "posted_tweets": [],
+  "engagement": {
+    "followed_users": [],
+    "liked_tweet_ids": [],
+    "retweeted_tweet_ids": [],
+    "replied_tweet_ids": [],
+    "daily": {
+      "date": null,
+      "follows": 0,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0
+    }
   }
 }

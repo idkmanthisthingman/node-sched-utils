@@ -54,3 +54,22 @@ export function recordPosts(state, posts) {
 
   return state;
 }
+
+export function recordPostedTweetId(state, tweetId, post) {
+  if (!state.posted_tweets) state.posted_tweets = [];
+  state.posted_tweets.push({
+    tweet_id: tweetId,
+    text: post.text,
+    tone: post.tone,
+    format: post.format,
+    pillar: post.pillar,
+    trigger: post.psychological_trigger,
+    posted_at: new Date().toISOString(),
+    metrics: { likes: 0, retweets: 0, replies: 0, views: 0, last_fetched_at: null },
+  });
+  state.posted_tweets = state.posted_tweets.slice(-100);
+}
+
+export function updatePerformance(state, performanceData) {
+  state.performance = { ...state.performance, ...performanceData };
+}
