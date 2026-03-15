@@ -1,0 +1,92 @@
+[
+  {
+    "text": "It's okay to not be motivated. It's okay to struggle. You have permission to start small and be consistent. I did, after 2 months off the gym. Still struggling, but showing up.",
+    "tone": "motivational",
+    "format": "micro-lesson",
+    "pillar": [
+      "motivation",
+      "consistency"
+    ],
+    "psychological_trigger": "permission_slip",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "feeling stuck",
+      "desire": "visible physical progress"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [],
+    "quality_score": 7.5,
+    "quality_breakdown": {
+      "clarity": 0.8,
+      "originality": 0.6,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
+    },
+    "decision_reason": "Encourages starting small and being consistent, giving permission to struggle."
+  },
+  {
+    "text": "What's the smallest habit you can build daily to get closer to your goal? For me, it's waking up at 5:30 and getting to the gym, even when I hate it.",
+    "tone": "casual",
+    "format": "question",
+    "pillar": [
+      "life",
+      "consistency"
+    ],
+    "psychological_trigger": "specificity_shock",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [],
+    "quality_score": 7.8,
+    "quality_breakdown": {
+      "clarity": 0.9,
+      "originality": 0.7,
+      "emotional_impact": 0.7,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
+    },
+    "decision_reason": "Asks a question that encourages specificity and daily habit building."
+  },
+  {
+    "text": "3 things I've learned since getting back to the gym: consistency is key, sacrifice is real, and every rep counts. If I don't show up, nothing changes. The stakes are my own growth.",
+    "tone": "reflective",
+    "format": "list",
+    "pillar": [
+      "motivation",
+      "life"
+    ],
+    "psychological_trigger": "stakes_escalation",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "feeling stuck",
+      "desire": "proof discipline pays off"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [],
+    "quality_score": 8,
+    "quality_breakdown": {
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.8
+    },
+    "decision_reason": "Lists lessons learned, escalating the stakes of not taking action for personal growth."
+  }
+]
