@@ -1,6 +1,6 @@
 [
   {
-    "text": "It's okay to not be motivated. It's okay to struggle. You have permission to start small and be consistent. I did, after 2 months off the gym. Still struggling, but showing up.",
+    "text": "You have permission to start small. I did, after 2 months off the gym. Still struggling, but showing up. Every rep counts, even when it feels like a sacrifice.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.6,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8,
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Encourages starting small and being consistent, giving permission to struggle."
+    "decision_reason": "Motivational tone with permission slip trigger to help audience start small"
   },
   {
-    "text": "What's the smallest habit you can build daily to get closer to your goal? For me, it's waking up at 5:30 and getting to the gym, even when I hate it.",
+    "text": "I'm on day 5 of waking up at 5:30am to get back to the gym. The first 3 days I hit the snooze button 5 times. Today I hit it twice. Progress, right? What's your current struggle?",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -49,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.8,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.7,
-      "emotional_impact": 0.7,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8,
+      "originality": 8,
+      "emotional_impact": 8,
+      "virality_potential": 7.5,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Asks a question that encourages specificity and daily habit building."
+    "decision_reason": "Casual tone with specificity shock trigger to show relatable struggle"
   },
   {
-    "text": "3 things I've learned since getting back to the gym: consistency is key, sacrifice is real, and every rep counts. If I don't show up, nothing changes. The stakes are my own growth.",
+    "text": "3 things I'm focusing on to get my life back on track: showing up to the gym consistently, fixing my sleep schedule, and not comparing myself to others. The stakes are my own growth and sanity.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -70,8 +70,8 @@
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "proof discipline pays off"
+      "pain_point": "comparison spirals",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 8,
+      "emotional_impact": 9,
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Lists lessons learned, escalating the stakes of not taking action for personal growth."
+    "decision_reason": "Reflective tone with stakes escalation trigger to emphasize personal growth"
   }
 ]

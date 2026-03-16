@@ -343,16 +343,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-03-16T06:08:51.231Z"
+      },
+      {
+        "text": "You have permission to start small. I did, after 2 months off the gym. Still struggling, but showing up. Every rep counts, even when it feels like a sacrifice.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-03-16T10:40:09.177Z"
+      },
+      {
+        "text": "I'm on day 5 of waking up at 5:30am to get back to the gym. The first 3 days I hit the snooze button 5 times. Today I hit it twice. Progress, right? What's your current struggle?",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-03-16T10:40:09.177Z"
+      },
+      {
+        "text": "3 things I'm focusing on to get my life back on track: showing up to the gym consistently, fixing my sleep schedule, and not comparing myself to others. The stakes are my own growth and sanity.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-03-16T10:40:09.177Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -376,12 +403,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "relatability_gap",
-      "reframe",
-      "identity_threat",
       "relatability_gap",
       "reframe",
       "pattern_interrupt",
@@ -398,21 +428,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 6,
-      "motivational": 8,
+      "motivational": 9,
       "empathetic": 9,
-      "casual": 2,
-      "reflective": 5
+      "casual": 3,
+      "reflective": 6
     },
     "format_distribution_7d": {
-      "micro-lesson": 8,
+      "micro-lesson": 9,
       "micro-story": 9,
       "quote-style": 6,
-      "question": 2,
-      "list": 2,
+      "question": 3,
+      "list": 3,
       "progress-log": 3
     }
   },
@@ -424,7 +457,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-16T06:08:48.855Z"
+    "last_analyzed_at": "2026-03-16T10:40:06.963Z"
   },
   "content_library": {
     "proven_hooks": [],
