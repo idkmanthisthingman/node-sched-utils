@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to start small. I did, after 2 months off the gym. Still struggling, but showing up. Every rep counts, even when it feels like a sacrifice.",
+    "text": "You're allowed to not be motivated yet. Just show up. Consistency will build motivation over time. I'm on week 1 of getting back to the gym after 2 months off and it's a struggle, but I'm showing up.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -27,10 +27,10 @@
       "virality_potential": 8,
       "audience_fit": 8.5
     },
-    "decision_reason": "Motivational tone with permission slip trigger to help audience start small"
+    "decision_reason": "High clarity and emotional impact"
   },
   {
-    "text": "I'm on day 5 of waking up at 5:30am to get back to the gym. The first 3 days I hit the snooze button 5 times. Today I hit it twice. Progress, right? What's your current struggle?",
+    "text": "What's the smallest thing you can do today to move closer to your goal? For me, it's drinking one extra glass of water before my 5:30am gym session. 17 ounces to be exact.",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -40,7 +40,7 @@
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "lack of consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 7.9,
     "quality_breakdown": {
       "clarity": 8,
-      "originality": 8,
-      "emotional_impact": 8,
-      "virality_potential": 7.5,
-      "audience_fit": 8.5
+      "originality": 7.5,
+      "emotional_impact": 7.8,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "Casual tone with specificity shock trigger to show relatable struggle"
+    "decision_reason": "Engaging question with specific example"
   },
   {
-    "text": "3 things I'm focusing on to get my life back on track: showing up to the gym consistently, fixing my sleep schedule, and not comparing myself to others. The stakes are my own growth and sanity.",
+    "text": "3 things I've learned in the past week: showing up to the gym is harder than the workout itself, every small win counts, and inaction has real consequences on my mental health.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -70,8 +70,8 @@
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparison spirals",
-      "desire": "being someone people notice changed"
+      "pain_point": "feeling stuck",
+      "desire": "proof discipline pays off"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
+      "clarity": 8.8,
       "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.2,
       "audience_fit": 8.5
     },
-    "decision_reason": "Reflective tone with stakes escalation trigger to emphasize personal growth"
+    "decision_reason": "High emotional impact and clarity"
   }
 ]

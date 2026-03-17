@@ -433,16 +433,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-03-17T05:25:40.937Z"
+      },
+      {
+        "text": "You're allowed to not be motivated yet. Just show up. Consistency will build motivation over time. I'm on week 1 of getting back to the gym after 2 months off and it's a struggle, but I'm showing up.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-03-17T10:12:31.766Z"
+      },
+      {
+        "text": "What's the smallest thing you can do today to move closer to your goal? For me, it's drinking one extra glass of water before my 5:30am gym session. 17 ounces to be exact.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-03-17T10:12:31.766Z"
+      },
+      {
+        "text": "3 things I've learned in the past week: showing up to the gym is harder than the workout itself, every small win counts, and inaction has real consequences on my mental health.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-03-17T10:12:31.766Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -466,12 +493,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -488,21 +518,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 7,
-      "motivational": 10,
+      "motivational": 11,
       "empathetic": 11,
-      "casual": 3,
-      "reflective": 7
+      "casual": 4,
+      "reflective": 8
     },
     "format_distribution_7d": {
-      "micro-lesson": 10,
+      "micro-lesson": 11,
       "micro-story": 11,
       "quote-style": 7,
-      "question": 3,
-      "list": 3,
+      "question": 4,
+      "list": 4,
       "progress-log": 4
     }
   },
@@ -514,7 +547,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-17T05:25:38.710Z"
+    "last_analyzed_at": "2026-03-17T10:12:29.541Z"
   },
   "content_library": {
     "proven_hooks": [],
