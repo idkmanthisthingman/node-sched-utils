@@ -400,16 +400,43 @@
         ],
         "trigger": "social_proof_inverse",
         "posted_at": "2026-03-16T16:46:34.724Z"
+      },
+      {
+        "text": "Being out of shape isn't what holds you back, it's the identity you've built around being out of shape. I'm 2 months back in the gym and still learning to show up.",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-03-17T05:25:40.937Z"
+      },
+      {
+        "text": "Every rep counts, even when you don't want to show up. I'm on week 1 of getting back to the gym after 2 months off and it's a struggle, but I'm showing up.",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-03-17T05:25:40.937Z"
+      },
+      {
+        "text": "Discipline isn't about the gym, it's about who you become when you show up, even on the days you don't want to. Still figuring that out myself.",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-03-17T05:25:40.937Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "consistency",
-      "life",
-      "consistency",
-      "motivation",
-      "life",
       "sacrifice",
       "pain",
       "dreams",
@@ -433,12 +460,15 @@
       "dreams",
       "sacrifice",
       "pain",
-      "dreams"
+      "dreams",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym"
     ],
     "recent_triggers_used": [
-      "pattern_interrupt",
-      "social_proof_inverse",
-      "pattern_interrupt",
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
@@ -455,19 +485,22 @@
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
-      "social_proof_inverse"
+      "social_proof_inverse",
+      "identity_threat",
+      "relatability_gap",
+      "reframe"
     ],
     "tone_distribution_7d": {
-      "tough-love": 6,
-      "motivational": 9,
-      "empathetic": 10,
+      "tough-love": 7,
+      "motivational": 10,
+      "empathetic": 11,
       "casual": 3,
       "reflective": 7
     },
     "format_distribution_7d": {
-      "micro-lesson": 9,
-      "micro-story": 10,
-      "quote-style": 6,
+      "micro-lesson": 10,
+      "micro-story": 11,
+      "quote-style": 7,
       "question": 3,
       "list": 3,
       "progress-log": 4
@@ -481,7 +514,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-16T16:46:30.885Z"
+    "last_analyzed_at": "2026-03-17T05:25:38.710Z"
   },
   "content_library": {
     "proven_hooks": [],
@@ -525,7 +558,7 @@
     "retweeted_tweet_ids": [],
     "replied_tweet_ids": [],
     "daily": {
-      "date": "2026-03-16",
+      "date": "2026-03-17",
       "follows": 0,
       "likes": 0,
       "retweets": 0,

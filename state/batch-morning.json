@@ -1,6 +1,6 @@
 [
   {
-    "text": "Woke up at 5:30, hated it. But showed up to the gym anyway. That's what discipline looks like when you're trying to get back on track after 2 months off. Still struggling, but every rep counts.",
+    "text": "Being out of shape isn't what holds you back, it's the identity you've built around being out of shape. I'm 2 months back in the gym and still learning to show up.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -18,20 +18,22 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 7.8,
+    "hashtags": [
+      "discipline"
+    ],
+    "quality_score": 8.5,
     "quality_breakdown": {
       "clarity": 0.9,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Starting with a relatable, tough-love post to grab attention"
+    "decision_reason": "Directly challenges the reader's self-image"
   },
   {
-    "text": "I see people posting their fitness journeys, but most of them don't show the days they don't want to show up. I'm guilty of that too. But the truth is, every day is a struggle. And every day is a chance to build discipline.",
-    "tone": "empathetic",
+    "text": "Every rep counts, even when you don't want to show up. I'm on week 1 of getting back to the gym after 2 months off and it's a struggle, but I'm showing up.",
+    "tone": "motivational",
     "format": "micro-story",
     "pillar": [
       "discipline",
@@ -40,37 +42,7 @@
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparison spirals",
-      "desire": "being someone people notice changed"
-    },
-    "goal_alignment": {
-      "stage": "cold",
-      "objective": "follower_growth"
-    },
-    "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.1,
-    "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.8
-    },
-    "decision_reason": "Sharing a personal, empathetic story to create connection"
-  },
-  {
-    "text": "Discipline isn't about being perfect, it's about being consistent. Every rep, every set, every sweat drop. It's about who you become when you show up, not just at the gym, but in life.",
-    "tone": "motivational",
-    "format": "quote-style",
-    "pillar": [
-      "discipline",
-      "gym"
-    ],
-    "psychological_trigger": "reframe",
-    "hook_template_id": null,
-    "audience_fit": {
-      "pain_point": "inconsistency",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -79,14 +51,44 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.3,
+    "quality_score": 8,
+    "quality_breakdown": {
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
+    },
+    "decision_reason": "Shares a personal struggle to motivate"
+  },
+  {
+    "text": "Discipline isn't about the gym, it's about who you become when you show up, even on the days you don't want to. Still figuring that out myself.",
+    "tone": "empathetic",
+    "format": "quote-style",
+    "pillar": [
+      "discipline",
+      "gym"
+    ],
+    "psychological_trigger": "reframe",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "comparing to others",
+      "desire": "being someone people notice changed"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [],
+    "quality_score": 8.2,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Ending with a motivational, quote-style post to inspire action"
+    "decision_reason": "Reframes discipline in a broader context"
   }
 ]
