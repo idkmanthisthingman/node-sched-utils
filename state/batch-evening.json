@@ -1,6 +1,6 @@
 [
   {
-    "text": "Day 7 back at the gym. Still waking up at 5:30am, still hating it. But the pain is becoming familiar, a reminder I'm working towards my dreams. Sacrifice isn't easy, but it's necessary.",
+    "text": "Started back at the gym after 2 months off. The pain is real, but so are my dreams. Sacrificing comfort for progress, one rep at a time.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
@@ -19,19 +19,21 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.5,
+    "hashtags": [
+      "fitnessjourney"
+    ],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
+      "clarity": 0.8,
+      "originality": 0.7,
       "emotional_impact": 0.9,
       "virality_potential": 0.8,
       "audience_fit": 0.9
     },
-    "decision_reason": "Meets all requirements and has a high quality score."
+    "decision_reason": "meets requirements, unique perspective"
   },
   {
-    "text": "I see people posting their fitness journeys, but most don't show the struggle. I'm guilty of that too. Truth is, every day is a battle. But showing up, even when you don't want to, is what builds discipline. You're not alone in this.",
+    "text": "It's okay to not be motivated. I'm not. But I'm showing up to the gym anyway. Because the only way to get closer to my dreams is to take the first step, no matter how hard it is.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -42,8 +44,8 @@
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "being someone people notice changed"
+      "pain_point": "lack of motivation",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +53,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
       "clarity": 0.9,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.8,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.9,
       "audience_fit": 0.9
     },
-    "decision_reason": "Meets all requirements and has a high quality score."
+    "decision_reason": "relatable, honest, and encouraging"
   }
 ]

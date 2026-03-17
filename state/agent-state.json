@@ -466,16 +466,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-03-17T10:12:31.766Z"
+      },
+      {
+        "text": "Started back at the gym after 2 months off. The pain is real, but so are my dreams. Sacrificing comfort for progress, one rep at a time.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-03-17T16:50:59.390Z"
+      },
+      {
+        "text": "It's okay to not be motivated. I'm not. But I'm showing up to the gym anyway. Because the only way to get closer to my dreams is to take the first step, no matter how hard it is.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-03-17T16:50:59.390Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "motivation",
       "consistency",
       "life",
@@ -499,11 +517,15 @@
       "life",
       "consistency",
       "motivation",
-      "life"
+      "life",
+      "sacrifice",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -521,22 +543,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 7,
       "motivational": 11,
-      "empathetic": 11,
+      "empathetic": 12,
       "casual": 4,
-      "reflective": 8
+      "reflective": 9
     },
     "format_distribution_7d": {
       "micro-lesson": 11,
-      "micro-story": 11,
+      "micro-story": 12,
       "quote-style": 7,
       "question": 4,
       "list": 4,
-      "progress-log": 4
+      "progress-log": 5
     }
   },
   "performance": {
@@ -547,7 +571,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-17T10:12:29.541Z"
+    "last_analyzed_at": "2026-03-17T16:50:57.612Z"
   },
   "content_library": {
     "proven_hooks": [],
