@@ -490,16 +490,43 @@
         ],
         "trigger": "social_proof_inverse",
         "posted_at": "2026-03-17T16:50:59.390Z"
+      },
+      {
+        "text": "You're not lazy, you're just not willing to be uncomfortable yet. Discipline is built in the gym, but it starts in your mind.",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-03-18T05:43:30.552Z"
+      },
+      {
+        "text": "I've been back at the gym for a week and it's been a struggle. But every rep, every set, is a reminder that I'm capable of more than I thought.",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-03-18T05:43:30.552Z"
+      },
+      {
+        "text": "Discipline is not about being perfect, it's about being consistent. 'You don't have to be great to start, but you have to start to be great' applies to every gym session.",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-03-18T05:43:30.552Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "consistency",
-      "life",
-      "consistency",
-      "motivation",
-      "life",
       "sacrifice",
       "pain",
       "dreams",
@@ -523,12 +550,15 @@
       "dreams",
       "sacrifice",
       "pain",
-      "dreams"
+      "dreams",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym"
     ],
     "recent_triggers_used": [
-      "specificity_shock",
-      "stakes_escalation",
-      "pattern_interrupt",
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
@@ -545,19 +575,22 @@
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
-      "social_proof_inverse"
+      "social_proof_inverse",
+      "identity_threat",
+      "relatability_gap",
+      "reframe"
     ],
     "tone_distribution_7d": {
-      "tough-love": 7,
-      "motivational": 11,
-      "empathetic": 12,
+      "tough-love": 8,
+      "motivational": 12,
+      "empathetic": 13,
       "casual": 4,
       "reflective": 9
     },
     "format_distribution_7d": {
-      "micro-lesson": 11,
-      "micro-story": 12,
-      "quote-style": 7,
+      "micro-lesson": 12,
+      "micro-story": 13,
+      "quote-style": 8,
       "question": 4,
       "list": 4,
       "progress-log": 5
@@ -571,7 +604,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-17T16:50:57.612Z"
+    "last_analyzed_at": "2026-03-18T05:43:28.296Z"
   },
   "content_library": {
     "proven_hooks": [],
@@ -615,7 +648,7 @@
     "retweeted_tweet_ids": [],
     "replied_tweet_ids": [],
     "daily": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "follows": 0,
       "likes": 0,
       "retweets": 0,

@@ -1,6 +1,6 @@
 [
   {
-    "text": "Being out of shape isn't what holds you back, it's the identity you've built around being out of shape. I'm 2 months back in the gym and still learning to show up.",
+    "text": "You're not lazy, you're just not willing to be uncomfortable yet. Discipline is built in the gym, but it starts in your mind.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -18,21 +18,19 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "discipline"
-    ],
-    "quality_score": 8.5,
+    "hashtags": [],
+    "quality_score": 8.2,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
       "emotional_impact": 0.9,
       "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "audience_fit": 0.8
     },
-    "decision_reason": "Directly challenges the reader's self-image"
+    "decision_reason": "Directly challenges the audience's self-perception"
   },
   {
-    "text": "Every rep counts, even when you don't want to show up. I'm on week 1 of getting back to the gym after 2 months off and it's a struggle, but I'm showing up.",
+    "text": "I've been back at the gym for a week and it's been a struggle. But every rep, every set, is a reminder that I'm capable of more than I thought.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -53,16 +51,16 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.8,
+      "clarity": 0.9,
       "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.7
     },
-    "decision_reason": "Shares a personal struggle to motivate"
+    "decision_reason": "Shares a personal struggle to create a connection with the audience"
   },
   {
-    "text": "Discipline isn't about the gym, it's about who you become when you show up, even on the days you don't want to. Still figuring that out myself.",
+    "text": "Discipline is not about being perfect, it's about being consistent. 'You don't have to be great to start, but you have to start to be great' applies to every gym session.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -73,7 +71,7 @@
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "comparing to others",
-      "desire": "being someone people notice changed"
+      "desire": "proof discipline pays off"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.9,
       "audience_fit": 0.8
     },
-    "decision_reason": "Reframes discipline in a broader context"
+    "decision_reason": "Provides a fresh perspective on discipline and consistency"
   }
 ]
