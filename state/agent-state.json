@@ -13,16 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "You think you're not a morning person? That's just an excuse. I've been trying to fix my sleep schedule for weeks and it's still a struggle. #discipline",
-        "tone": "tough-love",
-        "format": "micro-lesson",
-        "pillar": [
-          "discipline"
-        ],
-        "trigger": "identity_threat",
-        "posted_at": "2026-03-14T12:07:44.339Z"
-      },
-      {
         "text": "2 months off gym and I'm back. My first workout was brutal. But the feeling of pushing through is what gets me going. Consistency is key, even when it's hard.",
         "tone": "motivational",
         "format": "micro-story",
@@ -556,16 +546,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-03-18T10:36:23.970Z"
+      },
+      {
+        "text": "Woke up at 5:30am, hit the gym after 2 months off. The pain is suffocating, but my dreams are louder. Sacrificing comfort for progress, one rep at a time.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-03-18T16:45:25.747Z"
+      },
+      {
+        "text": "I see people posting their fitness journeys, but what about the struggles? The 5:30am wake-up calls, the sore muscles, the self-doubt? That's the real story.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-03-18T16:45:25.747Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "motivation",
       "consistency",
       "life",
@@ -589,11 +597,15 @@
       "consistency",
       "life",
       "motivation",
-      "life"
+      "life",
+      "sacrifice",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -611,22 +623,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 8,
       "motivational": 13,
-      "empathetic": 13,
+      "empathetic": 14,
       "casual": 5,
-      "reflective": 10
+      "reflective": 11
     },
     "format_distribution_7d": {
       "micro-lesson": 13,
-      "micro-story": 13,
+      "micro-story": 14,
       "quote-style": 8,
       "question": 5,
       "list": 5,
-      "progress-log": 5
+      "progress-log": 6
     }
   },
   "performance": {
@@ -637,7 +651,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-18T10:36:21.709Z"
+    "last_analyzed_at": "2026-03-18T16:45:23.840Z"
   },
   "content_library": {
     "proven_hooks": [],
