@@ -1,11 +1,11 @@
 [
   {
-    "text": "You have permission to start small and be inconsistent at first. Consistency is built over time, not overnight. I'm on day 7 of getting back to the gym and it's still a struggle",
+    "text": "starting small doesn't mean you're not serious. it means you're serious about consistency. i've been back at the gym for a week and it's a struggle, but every rep counts",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
-      "motivation",
-      "consistency"
+      "consistency",
+      "motivation"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -18,31 +18,29 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "#fitnessjourney"
-    ],
+    "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
       "clarity": 8.5,
       "originality": 7.8,
       "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Motivational tone with permission slip trigger to encourage new followers"
+    "decision_reason": "aligns with the beginning arc phase and targets the cold audience"
   },
   {
-    "text": "What's one thing you can do daily to build consistency? For me, it's drinking 17 ounces of water before my 5:30am gym session",
+    "text": "what's the smallest habit you can build daily to move closer to your goals? for me, it's drinking 17 ounces of water before my 5:30am gym session",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "consistency",
-      "life"
+      "life",
+      "consistency"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "lack of routine",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -54,15 +52,15 @@
     "quality_score": 8,
     "quality_breakdown": {
       "clarity": 8,
-      "originality": 7.5,
-      "emotional_impact": 7.8,
-      "virality_potential": 8,
-      "audience_fit": 8.2
+      "originality": 8,
+      "emotional_impact": 7.5,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "Casual tone with specificity shock trigger to encourage engagement"
+    "decision_reason": "targets the pain point of losing consistency and encourages engagement"
   },
   {
-    "text": "3 things I've learned in the past week: every rep counts, inaction has real consequences, and consistency is key. The stakes are high, but so are my dreams",
+    "text": "3 things i've learned this week: every rep counts, inaction has real consequences, and consistency is key. the stakes are high, but so are my dreams",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -83,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.8,
-      "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8.8,
+      "clarity": 8.5,
+      "originality": 8.2,
+      "emotional_impact": 9,
+      "virality_potential": 8,
       "audience_fit": 8.5
     },
-    "decision_reason": "Reflective tone with stakes escalation trigger to encourage reflection"
+    "decision_reason": "aligns with the beginning arc phase and highlights the importance of consistency"
   }
 ]
