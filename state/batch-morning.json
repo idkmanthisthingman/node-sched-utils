@@ -1,6 +1,6 @@
 [
   {
-    "text": "You call yourself a gym rat but can't even show up consistently. Time to reevaluate your identity and your excuses.",
+    "text": "You think you're a morning person but can't even get to the gym on time. Discipline isn't about being perfect, it's about being consistent. I've been back at the gym for a week and it's a struggle, but every rep counts",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -10,7 +10,7 @@
     "psychological_trigger": "identity_threat",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "inconsistency",
+      "pain_point": "feeling stuck",
       "desire": "visible physical progress"
     },
     "goal_alignment": {
@@ -19,19 +19,19 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8.8,
+      "virality_potential": 8.1,
+      "audience_fit": 8
     },
-    "decision_reason": "Directly challenges the audience's self-identity"
+    "decision_reason": "Targets cold audience with a tough-love tone and identity threat trigger to grab attention"
   },
   {
-    "text": "Woke up at 5:30am, struggled to get out of bed, but made it to the gym. Nobody talks about the daily battles, just the end results.",
-    "tone": "empathetic",
+    "text": "I woke up at 5:30am, struggled to get out of bed, but made it to the gym. That's what discipline looks like. Not the perfect workout, but the imperfect habit that gets you closer to your dreams",
+    "tone": "motivational",
     "format": "micro-story",
     "pillar": [
       "discipline",
@@ -40,8 +40,40 @@
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "struggling to start",
-      "desire": "belonging to a group that gets it"
+      "pain_point": "lacking consistency",
+      "desire": "purposeful daily routine"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [
+      "fitnessjourney"
+    ],
+    "quality_score": 8.5,
+    "quality_breakdown": {
+      "clarity": 8.8,
+      "originality": 8.2,
+      "emotional_impact": 9,
+      "virality_potential": 8.5,
+      "audience_fit": 8.2
+    },
+    "decision_reason": "Shares a personal story to connect with the audience and highlight the importance of discipline"
+  },
+  {
+    "text": "Discipline is not about being motivated, it's about being consistent. 'The only bad workout is the one that didn't happen'",
+    "tone": "empathetic",
+    "format": "quote-style",
+    "pillar": [
+      "discipline",
+      "gym"
+    ],
+    "psychological_trigger": "reframe",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "struggling with motivation",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,42 +83,12 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.5,
+      "clarity": 8.2,
+      "originality": 7.9,
       "emotional_impact": 8.5,
       "virality_potential": 8,
-      "audience_fit": 8
+      "audience_fit": 8.1
     },
-    "decision_reason": "Shares a personal struggle to create empathy"
-  },
-  {
-    "text": "Growth doesn't happen in the gym, it happens in the moments you want to quit but don't.",
-    "tone": "motivational",
-    "format": "quote-style",
-    "pillar": [
-      "discipline",
-      "gym"
-    ],
-    "psychological_trigger": "reframe",
-    "hook_template_id": null,
-    "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "proof discipline pays off"
-    },
-    "goal_alignment": {
-      "stage": "cold",
-      "objective": "follower_growth"
-    },
-    "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.5,
-    "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8.5,
-      "audience_fit": 8
-    },
-    "decision_reason": "Offers a new perspective on growth"
+    "decision_reason": "Uses a quote to reframe the audience's perspective on discipline and motivation"
   }
 ]

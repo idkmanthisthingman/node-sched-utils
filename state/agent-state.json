@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Your lack of discipline isn't because you're busy, it's because you're not prioritizing. I've been trying to get back into my gym routine after 2 months off and it's a constant struggle. #discipline",
-        "tone": "tough-love",
-        "format": "micro-lesson",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "identity_threat",
-        "posted_at": "2026-03-14T13:39:42.447Z"
-      },
-      {
-        "text": "First workout back at the gym was tough, but I showed up. That's all that mattered. Now it's about building consistency, one rep at a time.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-03-14T13:39:42.447Z"
-      },
-      {
-        "text": "Discipline is not about being perfect, it's about being persistent. Every sweat drop counts, even when it feels like you're not making progress.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-03-14T13:39:42.447Z"
-      },
-      {
         "text": "You think you're too tired for the gym? That's not an excuse, that's your identity. Change it. I did, after 2 months off. Still struggling to get back on track.",
         "tone": "tough-love",
         "format": "micro-lesson",
@@ -571,16 +538,43 @@
         ],
         "trigger": "social_proof_inverse",
         "posted_at": "2026-03-19T16:13:04.428Z"
+      },
+      {
+        "text": "You think you're a morning person but can't even get to the gym on time. Discipline isn't about being perfect, it's about being consistent. I've been back at the gym for a week and it's a struggle, but every rep counts",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-03-20T05:10:05.499Z"
+      },
+      {
+        "text": "I woke up at 5:30am, struggled to get out of bed, but made it to the gym. That's what discipline looks like. Not the perfect workout, but the imperfect habit that gets you closer to your dreams",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-03-20T05:10:05.499Z"
+      },
+      {
+        "text": "Discipline is not about being motivated, it's about being consistent. 'The only bad workout is the one that didn't happen'",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-03-20T05:10:05.499Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "discipline",
-      "gym",
-      "motivation",
-      "consistency",
-      "consistency",
-      "life",
       "motivation",
       "life",
       "sacrifice",
@@ -604,12 +598,15 @@
       "sacrifice",
       "dreams",
       "pain",
-      "dreams"
+      "dreams",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym"
     ],
     "recent_triggers_used": [
-      "specificity_shock",
-      "stakes_escalation",
-      "pattern_interrupt",
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
@@ -626,19 +623,22 @@
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
-      "social_proof_inverse"
+      "social_proof_inverse",
+      "identity_threat",
+      "relatability_gap",
+      "reframe"
     ],
     "tone_distribution_7d": {
-      "tough-love": 9,
-      "motivational": 15,
-      "empathetic": 16,
+      "tough-love": 10,
+      "motivational": 16,
+      "empathetic": 17,
       "casual": 6,
       "reflective": 13
     },
     "format_distribution_7d": {
-      "micro-lesson": 15,
-      "micro-story": 16,
-      "quote-style": 9,
+      "micro-lesson": 16,
+      "micro-story": 17,
+      "quote-style": 10,
       "question": 6,
       "list": 6,
       "progress-log": 7
@@ -652,7 +652,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-19T16:13:02.596Z"
+    "last_analyzed_at": "2026-03-20T05:10:03.025Z"
   },
   "content_library": {
     "proven_hooks": [],
@@ -696,7 +696,7 @@
     "retweeted_tweet_ids": [],
     "replied_tweet_ids": [],
     "daily": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "follows": 0,
       "likes": 0,
       "retweets": 0,
