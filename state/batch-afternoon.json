@@ -1,11 +1,11 @@
 [
   {
-    "text": "starting small doesn't mean you're not serious. it means you're serious about consistency. i've been back at the gym for a week and it's a struggle, but every rep counts",
+    "text": "it's okay to not be okay. you have permission to struggle and still show up. every rep counts, even when it feels like nothing is changing",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
-      "consistency",
-      "motivation"
+      "motivation",
+      "life"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -19,28 +19,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 9,
+      "originality": 8,
+      "emotional_impact": 9,
+      "virality_potential": 7.5,
+      "audience_fit": 9
     },
-    "decision_reason": "aligns with the beginning arc phase and targets the cold audience"
+    "decision_reason": "giving permission to struggle aligns with the audience's pain points"
   },
   {
-    "text": "what's the smallest habit you can build daily to move closer to your goals? for me, it's drinking 17 ounces of water before my 5:30am gym session",
+    "text": "what's the smallest action you can take daily to move closer to your goals? for me, it's showing up to the gym at 5:30am, even when i don't feel like it",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "life",
-      "consistency"
+      "consistency",
+      "life"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "lack of consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -51,21 +51,21 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 8,
-      "emotional_impact": 7.5,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 8.5,
+      "originality": 7.5,
+      "emotional_impact": 8,
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "targets the pain point of losing consistency and encourages engagement"
+    "decision_reason": "using a specific example from the narrative identity"
   },
   {
-    "text": "3 things i've learned this week: every rep counts, inaction has real consequences, and consistency is key. the stakes are high, but so are my dreams",
+    "text": "3 things i've learned from being back at the gym: every rep counts, inaction has real consequences, and consistency is key. the stakes are high, but so are my dreams",
     "tone": "reflective",
     "format": "list",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
@@ -81,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8.2,
+      "clarity": 9,
+      "originality": 8,
       "emotional_impact": 9,
       "virality_potential": 8,
       "audience_fit": 8.5
     },
-    "decision_reason": "aligns with the beginning arc phase and highlights the importance of consistency"
+    "decision_reason": "using the open storyline of going back to the gym"
   }
 ]
