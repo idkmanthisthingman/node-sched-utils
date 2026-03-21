@@ -1,11 +1,11 @@
 [
   {
-    "text": "it's okay to not be okay. you have permission to struggle and still show up. every rep counts, even when it feels like nothing is changing",
+    "text": "You have permission to start small, to struggle, and to show up imperfectly. Consistency is what matters, not motivation. #consistency",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -18,19 +18,21 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.5,
+    "hashtags": [
+      "consistency"
+    ],
+    "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 7.5,
-      "audience_fit": 9
+      "clarity": 0.9,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "giving permission to struggle aligns with the audience's pain points"
+    "decision_reason": "Directly addresses the struggle to start and the importance of consistency"
   },
   {
-    "text": "what's the smallest action you can take daily to move closer to your goals? for me, it's showing up to the gym at 5:30am, even when i don't feel like it",
+    "text": "What's the one thing you can do daily to build consistency? For me, it's waking up at 5:30am and getting to the gym, even when I don't feel like it",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -40,7 +42,7 @@
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "lack of consistency",
+      "pain_point": "losing consistency after 2-3 weeks",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,29 +51,29 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.5,
-      "emotional_impact": 8,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 0.8,
+      "originality": 0.6,
+      "emotional_impact": 0.7,
+      "virality_potential": 0.6,
+      "audience_fit": 0.8
     },
-    "decision_reason": "using a specific example from the narrative identity"
+    "decision_reason": "Engages the audience by asking a question and shares a personal habit"
   },
   {
-    "text": "3 things i've learned from being back at the gym: every rep counts, inaction has real consequences, and consistency is key. the stakes are high, but so are my dreams",
+    "text": "3 things I've learned since going back to the gym: inaction has real consequences, every rep counts, and consistency is key. The stakes are high, but so are my dreams",
     "tone": "reflective",
     "format": "list",
     "pillar": [
       "motivation",
-      "consistency"
+      "life"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "pain_point": "feeling stuck watching others advance",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +81,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.1,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "using the open storyline of going back to the gym"
+    "decision_reason": "Shares personal lessons learned and highlights the importance of taking action"
   }
 ]

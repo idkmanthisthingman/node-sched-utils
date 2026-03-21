@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "My morning routine isn't perfect, but it's mine. Woke up at 5:30, hated it, and still went to the gym. Building discipline one rep at a time, even when it feels like a sacrifice.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-03-15T05:48:11.783Z"
-      },
-      {
-        "text": "Discipline is not about the gym, it's about who you become when you show up. Every rep, every sweat drop, every morning.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-03-15T05:48:11.783Z"
-      },
-      {
-        "text": "It's okay to not be motivated. It's okay to struggle. You have permission to start small and be consistent. I did, after 2 months off the gym. Still struggling, but showing up.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-03-15T09:04:01.826Z"
-      },
-      {
         "text": "What's the smallest habit you can build daily to get closer to your goal? For me, it's waking up at 5:30 and getting to the gym, even when I hate it.",
         "tone": "casual",
         "format": "question",
@@ -569,16 +536,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-03-21T04:58:14.383Z"
+      },
+      {
+        "text": "You have permission to start small, to struggle, and to show up imperfectly. Consistency is what matters, not motivation. #consistency",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-03-21T08:01:03.494Z"
+      },
+      {
+        "text": "What's the one thing you can do daily to build consistency? For me, it's waking up at 5:30am and getting to the gym, even when I don't feel like it",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-03-21T08:01:03.494Z"
+      },
+      {
+        "text": "3 things I've learned since going back to the gym: inaction has real consequences, every rep counts, and consistency is key. The stakes are high, but so are my dreams",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-03-21T08:01:03.494Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "life",
-      "consistency",
-      "motivation",
-      "life",
-      "sacrifice",
-      "dreams",
       "pain",
       "dreams",
       "discipline",
@@ -602,12 +596,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "consistency",
+      "life",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -624,21 +621,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 11,
-      "motivational": 18,
+      "motivational": 19,
       "empathetic": 19,
-      "casual": 7,
-      "reflective": 15
+      "casual": 8,
+      "reflective": 16
     },
     "format_distribution_7d": {
-      "micro-lesson": 18,
+      "micro-lesson": 19,
       "micro-story": 19,
       "quote-style": 11,
-      "question": 7,
-      "list": 7,
+      "question": 8,
+      "list": 8,
       "progress-log": 8
     }
   },
@@ -650,7 +650,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-21T04:58:12.262Z"
+    "last_analyzed_at": "2026-03-21T08:01:01.159Z"
   },
   "content_library": {
     "proven_hooks": [],
