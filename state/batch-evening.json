@@ -1,10 +1,11 @@
 [
   {
-    "text": "I stumbled upon an old gym pic and it hit me: I've been making excuses for months. Back to the grind, literally. Sacrifice isn't easy, but it's necessary for my dreams",
+    "text": "I woke up at 5:30am, hit the gym, and felt like I was dying. But it's these small sacrifices that remind me why I started. My dreams are worth the pain.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
       "sacrifice",
+      "pain",
       "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
@@ -18,32 +19,31 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "#fitness"
-    ],
+    "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Meets pillars and tone requirements, uses pattern_interrupt trigger"
+    "decision_reason": "Meets requirements, score above threshold"
   },
   {
-    "text": "Progress log: 5:30am wake-ups for a week, back at the gym after 2 months off. It hurts, but I'm not alone. Most people who succeed aren't the most talented, they're just consistent",
+    "text": "Progress log: 1 week back at the gym. What most people won't tell you is that even the most consistent ones have off days. Social media only shows the highlight reel, but the truth is, it's the daily struggles that make the difference.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
+      "sacrifice",
       "pain",
-      "sacrifice"
+      "dreams"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
-      "desire": "purposeful daily routine"
+      "pain_point": "comparing themselves to others",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.9,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Meets pillars and tone requirements, uses social_proof_inverse trigger"
+    "decision_reason": "Meets requirements, score above threshold, references open storyline"
   }
 ]
