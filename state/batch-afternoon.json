@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to start small, to struggle, and to show up imperfectly. Consistency is what matters, not motivation. #consistency",
+    "text": "You have permission to start small and show up imperfectly. Consistency is what matters, not motivation. I'm still figuring it out, one rep at a time.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -18,21 +18,19 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "consistency"
-    ],
-    "quality_score": 7.8,
+    "hashtags": [],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8.8,
+      "virality_potential": 7.5,
+      "audience_fit": 8
     },
-    "decision_reason": "Directly addresses the struggle to start and the importance of consistency"
+    "decision_reason": "Permission slip trigger aligns with the motivation pillar"
   },
   {
-    "text": "What's the one thing you can do daily to build consistency? For me, it's waking up at 5:30am and getting to the gym, even when I don't feel like it",
+    "text": "What's the smallest win you can achieve daily to build momentum? For me, it's getting to the gym before 7am, even if it's just for 20 minutes.",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -42,7 +40,7 @@
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency after 2-3 weeks",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -51,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.5,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.6,
-      "emotional_impact": 0.7,
-      "virality_potential": 0.6,
-      "audience_fit": 0.8
+      "clarity": 8.2,
+      "originality": 7.5,
+      "emotional_impact": 8,
+      "virality_potential": 7.8,
+      "audience_fit": 8.2
     },
-    "decision_reason": "Engages the audience by asking a question and shares a personal habit"
+    "decision_reason": "Specificity shock trigger adds credibility to the consistency pillar"
   },
   {
-    "text": "3 things I've learned since going back to the gym: inaction has real consequences, every rep counts, and consistency is key. The stakes are high, but so are my dreams",
+    "text": "3 things I've learned since trying to fix my sleep schedule: every day counts, small sacrifices add up, and inaction has real consequences. My dreams are worth the pain.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -72,8 +70,8 @@
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck watching others advance",
-      "desire": "being someone people notice changed"
+      "pain_point": "feeling stuck",
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.1,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.8,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.2,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Shares personal lessons learned and highlights the importance of taking action"
+    "decision_reason": "Stakes escalation trigger emphasizes the importance of motivation"
   }
 ]
