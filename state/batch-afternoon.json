@@ -1,11 +1,11 @@
 [
   {
-    "text": "You have permission to prioritize your life, even when it feels like everything else is more important. Start small, be consistent, and watch your motivation grow.",
+    "text": "Giving yourself permission to start small is the first step to building consistency. Don't wait for motivation, create momentum.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.5,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
+      "clarity": 0.9,
+      "originality": 0.8,
       "emotional_impact": 0.8,
       "virality_potential": 0.7,
       "audience_fit": 0.9
     },
-    "decision_reason": "meets tone and trigger requirements"
+    "decision_reason": "Directly addresses feeling stuck and provides a clear call to action"
   },
   {
-    "text": "What's the smallest daily habit you can build to create momentum in your life? For me, it's showing up to the gym 15 minutes earlier each day.",
+    "text": "What's one thing you can do daily to create consistency in your life? For me, it's getting back to the gym after 2 months off.",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -40,7 +40,7 @@
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "losing consistency after 2-3 weeks",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -51,26 +51,26 @@
     "hashtags": [],
     "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.7,
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
       "virality_potential": 0.8,
       "audience_fit": 0.8
     },
-    "decision_reason": "meets tone and trigger requirements"
+    "decision_reason": "References an open storyline and invites engagement"
   },
   {
-    "text": "3 things I've learned from trying to get back on track: every missed day adds up, small sacrifices can lead to big changes, and inaction has real consequences. My life is worth the effort.",
+    "text": "3 ways inaction costs you: missed opportunities, lost momentum, and a harder journey back to consistency. Every day counts.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
       "motivation",
-      "consistency"
+      "life"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
+      "pain_point": "comparing to others",
       "desire": "being someone people notice changed"
     },
     "goal_alignment": {
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.2,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
-      "emotional_impact": 0.8,
+      "emotional_impact": 0.9,
       "virality_potential": 0.8,
       "audience_fit": 0.8
     },
-    "decision_reason": "meets tone and trigger requirements"
+    "decision_reason": "Highlights the cost of inaction and encourages reflection"
   }
 ]

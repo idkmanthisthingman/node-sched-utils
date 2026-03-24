@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "I've been back at the gym for a week and it's been a struggle. But every rep, every set, is a reminder that I'm capable of more than I thought.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-03-18T05:43:30.552Z"
-      },
-      {
-        "text": "Discipline is not about being perfect, it's about being consistent. 'You don't have to be great to start, but you have to start to be great' applies to every gym session.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-03-18T05:43:30.552Z"
-      },
-      {
-        "text": "You have permission to start small and be inconsistent at first. Consistency is built over time, not overnight. I'm on day 7 of getting back to the gym and it's still a struggle",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-03-18T10:36:23.969Z"
-      },
-      {
         "text": "What's one thing you can do daily to build consistency? For me, it's drinking 17 ounces of water before my 5:30am gym session",
         "tone": "casual",
         "format": "question",
@@ -569,16 +536,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-03-24T05:39:09.996Z"
+      },
+      {
+        "text": "Giving yourself permission to start small is the first step to building consistency. Don't wait for motivation, create momentum.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-03-24T10:12:51.514Z"
+      },
+      {
+        "text": "What's one thing you can do daily to create consistency in your life? For me, it's getting back to the gym after 2 months off.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-03-24T10:12:51.514Z"
+      },
+      {
+        "text": "3 ways inaction costs you: missed opportunities, lost momentum, and a harder journey back to consistency. Every day counts.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-03-24T10:12:51.514Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -602,12 +596,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "consistency",
+      "life",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -624,21 +621,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 14,
-      "motivational": 24,
+      "motivational": 25,
       "empathetic": 25,
-      "casual": 10,
-      "reflective": 21
+      "casual": 11,
+      "reflective": 22
     },
     "format_distribution_7d": {
-      "micro-lesson": 24,
+      "micro-lesson": 25,
       "micro-story": 25,
       "quote-style": 14,
-      "question": 10,
-      "list": 10,
+      "question": 11,
+      "list": 11,
       "progress-log": 11
     }
   },
@@ -650,7 +650,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-24T05:39:07.944Z"
+    "last_analyzed_at": "2026-03-24T10:12:49.438Z"
   },
   "content_library": {
     "proven_hooks": [],
