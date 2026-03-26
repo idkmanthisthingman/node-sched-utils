@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "what's the smallest action you can take daily to move closer to your goals? for me, it's showing up to the gym at 5:30am, even when i don't feel like it",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "consistency",
-          "life"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-03-20T09:27:54.627Z"
-      },
-      {
-        "text": "3 things i've learned from being back at the gym: every rep counts, inaction has real consequences, and consistency is key. the stakes are high, but so are my dreams",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-03-20T09:27:54.627Z"
-      },
-      {
         "text": "I stumbled upon an old gym pic and it hit me: I've been making excuses for months. Back to the grind, literally. Sacrifice isn't easy, but it's necessary for my dreams",
         "tone": "reflective",
         "format": "micro-story",
@@ -567,14 +545,32 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-03-26T10:36:34.369Z"
+      },
+      {
+        "text": "Went back to the gym after 2 months off. Every rep is a reminder that I'm still figuring things out. Sacrificing comfort for progress, one workout at a time.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-03-26T16:49:54.321Z"
+      },
+      {
+        "text": "I see you, struggling to chase your dreams. It's hard, and it hurts. But know that you're not alone. Every sacrifice, every painful step, is a step closer to making those dreams a reality.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-03-26T16:49:54.321Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "gym",
@@ -600,11 +596,13 @@
       "consistency",
       "life",
       "motivation",
-      "consistency"
+      "consistency",
+      "sacrifice",
+      "pain",
+      "sacrifice",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -622,22 +620,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 16,
       "motivational": 29,
-      "empathetic": 29,
+      "empathetic": 30,
       "casual": 13,
-      "reflective": 26
+      "reflective": 27
     },
     "format_distribution_7d": {
       "micro-lesson": 29,
-      "micro-story": 29,
+      "micro-story": 30,
       "quote-style": 16,
       "question": 13,
       "list": 13,
-      "progress-log": 13
+      "progress-log": 14
     }
   },
   "performance": {
@@ -648,7 +648,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-26T10:36:32.067Z"
+    "last_analyzed_at": "2026-03-26T16:49:52.556Z"
   },
   "content_library": {
     "proven_hooks": [],
