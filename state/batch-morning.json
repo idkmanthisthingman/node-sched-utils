@@ -1,6 +1,6 @@
 [
   {
-    "text": "You're not a morning person just because you wake up at 5:30. Discipline is about showing up when you don't feel like it. Been there, still struggling to fix my sleep schedule.",
+    "text": "You call yourself a gym person but can't show up consistently? That's not a gym person, that's a wanna-be. Show up even when you don't feel like it.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -8,6 +8,36 @@
       "gym"
     ],
     "psychological_trigger": "identity_threat",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "inconsistency",
+      "desire": "visible physical progress"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [],
+    "quality_score": 8.2,
+    "quality_breakdown": {
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8.8,
+      "virality_potential": 7.5,
+      "audience_fit": 8
+    },
+    "decision_reason": "Direct challenge to inconsistency"
+  },
+  {
+    "text": "Went back to the gym after 2 months off. It's been tough, but every rep is a reminder that I'm capable of more than I thought. Still figuring out my sleep schedule, though.",
+    "tone": "motivational",
+    "format": "micro-story",
+    "pillar": [
+      "discipline",
+      "gym"
+    ],
+    "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "feeling stuck",
@@ -19,48 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
-    "quality_breakdown": {
-      "clarity": 8,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8
-    },
-    "decision_reason": "tough-love tone and identity threat trigger to grab attention"
-  },
-  {
-    "text": "I went back to the gym after 2 months off. It's been tough, but every rep is a reminder that I'm capable of more than I thought. You can do the same, even when it feels impossible.",
-    "tone": "motivational",
-    "format": "micro-story",
-    "pillar": [
-      "discipline",
-      "gym"
-    ],
-    "psychological_trigger": "relatability_gap",
-    "hook_template_id": null,
-    "audience_fit": {
-      "pain_point": "losing consistency",
-      "desire": "purposeful daily routine"
-    },
-    "goal_alignment": {
-      "stage": "cold",
-      "objective": "follower_growth"
-    },
-    "arc_phase": "beginning",
-    "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 8.2,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 7.8,
+      "audience_fit": 8.2
     },
-    "decision_reason": "motivational tone and relatability gap trigger to inspire action"
+    "decision_reason": "Relatable struggle and ongoing storyline"
   },
   {
-    "text": "Growth happens in the moments you don't feel like showing up. That's where discipline meets determination. Keep pushing, even when it's hard.",
+    "text": "Growth isn't about being perfect, it's about being consistent. Every rep, every set, every sweat drop is a step closer to your goal.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -70,8 +70,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "being someone people notice changed"
+      "pain_point": "feeling like not doing enough",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 9,
+      "clarity": 8.8,
       "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "emotional_impact": 8.8,
+      "virality_potential": 8.2,
+      "audience_fit": 8.5
     },
-    "decision_reason": "empathetic tone and reframe trigger to provide a new perspective"
+    "decision_reason": "Empathetic and encouraging message"
   }
 ]
