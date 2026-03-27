@@ -1,11 +1,12 @@
 [
   {
-    "text": "Went back to the gym after 2 months off. Every rep is a reminder that I'm still figuring things out. Sacrificing comfort for progress, one workout at a time.",
+    "text": "Dropped my gym routine for 2 months. Now I'm back and it hurts. Every rep is a reminder that I'm still chasing my dreams, no matter the pain.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
       "sacrifice",
-      "pain"
+      "pain",
+      "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
     "hook_template_id": null,
@@ -18,32 +19,31 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "fitnessjourney"
-    ],
-    "quality_score": 8.2,
+    "hashtags": [],
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.5
     },
-    "decision_reason": "high originality and clarity"
+    "decision_reason": "Shares personal struggle and connects it to the audience's pain point"
   },
   {
-    "text": "I see you, struggling to chase your dreams. It's hard, and it hurts. But know that you're not alone. Every sacrifice, every painful step, is a step closer to making those dreams a reality.",
+    "text": "I see you, struggling to make progress. I'm right there with you. Every sacrifice, every painful step, is a step closer to making our dreams a reality. Don't give up, even when it feels like nobody else is making sacrifices like you are.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
       "sacrifice",
+      "pain",
       "dreams"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "feeling stuck",
-      "desire": "purposeful daily routine"
+      "desire": "belonging to a group that gets it"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 8.2,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 0.9,
+      "originality": 0.6,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.5
     },
-    "decision_reason": "high emotional impact and originality"
+    "decision_reason": "Acknowledges the audience's struggle and offers empathy and solidarity"
   }
 ]
