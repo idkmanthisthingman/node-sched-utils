@@ -1,11 +1,11 @@
 [
   {
-    "text": "You don't need to be motivated to start. You just need to give yourself permission to begin. Every small step counts, even when it feels like nothing is happening. #motivation",
+    "text": "You have permission to start small. Every tiny step towards your goal is a step away from where you are now. Don't wait for motivation, give yourself permission to begin.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
       "motivation",
-      "consistency"
+      "life"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -18,31 +18,29 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "motivation"
-    ],
+    "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "Aligns with the goal of follower growth and addresses the pain point of feeling stuck."
+    "decision_reason": "Simple and direct language to encourage starting small"
   },
   {
-    "text": "What's the smallest habit you can build today to create consistency in your life? For me, it's drinking a full glass of water as soon as I wake up. #consistency",
+    "text": "What's the one habit you can build today to create consistency in your life? For me, it's showing up at the gym even when I don't feel like it.",
     "tone": "casual",
     "format": "question",
     "pillar": [
       "consistency",
-      "motivation"
+      "life"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "struggling with consistency",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -50,32 +48,30 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "consistency"
-    ],
-    "quality_score": 8,
+    "hashtags": [],
+    "quality_score": 7.9,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.8,
-      "audience_fit": 0.8
+      "clarity": 8,
+      "originality": 7.5,
+      "emotional_impact": 7.8,
+      "virality_potential": 8,
+      "audience_fit": 8.2
     },
-    "decision_reason": "Encourages engagement and relates to the pillar of consistency."
+    "decision_reason": "Engaging question that encourages reflection on building habits"
   },
   {
-    "text": "3 things I've learned from trying to fix my sleep schedule: it's hard, it's worth it, and every small adjustment adds up. Don't give up on creating a better life for yourself.",
+    "text": "3 things I've learned from getting back to the gym after 2 months off: every rep hurts, every sweat drop matters, and not showing up has real consequences for my goals.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
-      "life",
+      "motivation",
       "consistency"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "struggling with sleep schedule",
-      "desire": "being someone people notice changed"
+      "pain_point": "feeling stuck watching others advance",
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -85,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.8,
+      "originality": 8.2,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "References an open storyline and emphasizes the importance of persistence."
+    "decision_reason": "Reflective list that shares personal lessons and escalates the importance of taking action"
   }
 ]

@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Went back to the gym after 2 months off. First week was brutal. But every rep, every set, is a reminder that I'm not defined by my excuses. I'm defined by my actions.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-03-22T05:22:41.050Z"
-      },
-      {
-        "text": " Discipline isn't about being perfect. It's about being better than you were yesterday. And that's a choice you can make every day, no matter how small it seems.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-03-22T05:22:41.050Z"
-      },
-      {
-        "text": "You have permission to start small and show up imperfectly. Consistency is what matters, not motivation. I'm still figuring it out, one rep at a time.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-03-22T08:02:21.965Z"
-      },
-      {
         "text": "What's the smallest win you can achieve daily to build momentum? For me, it's getting to the gym before 7am, even if it's just for 20 minutes.",
         "tone": "casual",
         "format": "question",
@@ -567,16 +534,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-03-28T05:25:07.046Z"
+      },
+      {
+        "text": "You have permission to start small. Every tiny step towards your goal is a step away from where you are now. Don't wait for motivation, give yourself permission to begin.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-03-28T09:08:16.428Z"
+      },
+      {
+        "text": "What's the one habit you can build today to create consistency in your life? For me, it's showing up at the gym even when I don't feel like it.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-03-28T09:08:16.429Z"
+      },
+      {
+        "text": "3 things I've learned from getting back to the gym after 2 months off: every rep hurts, every sweat drop matters, and not showing up has real consequences for my goals.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-03-28T09:08:16.429Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "consistency",
-      "sacrifice",
-      "pain",
-      "sacrifice",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -600,12 +594,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "life",
+      "consistency",
+      "life",
+      "motivation",
+      "consistency"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -622,21 +619,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 18,
-      "motivational": 32,
+      "motivational": 33,
       "empathetic": 33,
-      "casual": 14,
-      "reflective": 29
+      "casual": 15,
+      "reflective": 30
     },
     "format_distribution_7d": {
-      "micro-lesson": 32,
+      "micro-lesson": 33,
       "micro-story": 33,
       "quote-style": 18,
-      "question": 14,
-      "list": 14,
+      "question": 15,
+      "list": 15,
       "progress-log": 15
     }
   },
@@ -648,7 +648,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-28T05:25:04.688Z"
+    "last_analyzed_at": "2026-03-28T09:08:14.255Z"
   },
   "content_library": {
     "proven_hooks": [],
