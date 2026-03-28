@@ -1,6 +1,6 @@
 [
   {
-    "text": "Dropped my gym routine for 2 months. Now I'm back and it hurts. Every rep is a reminder that I'm still chasing my dreams, no matter the pain.",
+    "text": "Dropped my gym routine for 2 months. Now I'm back and it hurts. Every rep is a painful reminder that I'm still chasing my dreams, no matter the sacrifice.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
@@ -19,19 +19,21 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 7.5,
+    "hashtags": [
+      "#fitness"
+    ],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.5
+      "clarity": 8,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Shares personal struggle and connects it to the audience's pain point"
+    "decision_reason": "meets all requirements and has a high quality score"
   },
   {
-    "text": "I see you, struggling to make progress. I'm right there with you. Every sacrifice, every painful step, is a step closer to making our dreams a reality. Don't give up, even when it feels like nobody else is making sacrifices like you are.",
+    "text": "I see you, struggling to make progress. I'm right there with you. Every painful step towards our dreams requires sacrifice, but it's worth it.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -43,7 +45,7 @@
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "feeling stuck",
-      "desire": "belonging to a group that gets it"
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +53,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.8,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.6,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.5
+      "clarity": 8.5,
+      "originality": 7,
+      "emotional_impact": 8,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "Acknowledges the audience's struggle and offers empathy and solidarity"
+    "decision_reason": "meets all requirements and has a high quality score"
   }
 ]
