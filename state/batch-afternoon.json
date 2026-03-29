@@ -1,11 +1,11 @@
 [
   {
-    "text": "You have permission to start small. Every tiny step towards your goal is a step away from where you are now. Don't wait for motivation, give yourself permission to begin.",
+    "text": "You have permission to start small, even if it's just 10 min of exercise a day. Every tiny step towards your goal is a step away from where you are now.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 9,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 9
     },
-    "decision_reason": "Simple and direct language to encourage starting small"
+    "decision_reason": "Starting small is a key concept for new followers"
   },
   {
-    "text": "What's the one habit you can build today to create consistency in your life? For me, it's showing up at the gym even when I don't feel like it.",
+    "text": "What's one thing you can do daily to build consistency? For me, it's showing up at the gym, even when I don't feel like it.",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -49,28 +49,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.9,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8,
+      "clarity": 8.5,
       "originality": 7.5,
-      "emotional_impact": 7.8,
-      "virality_potential": 8,
-      "audience_fit": 8.2
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "Engaging question that encourages reflection on building habits"
+    "decision_reason": "Asking a question can encourage engagement"
   },
   {
-    "text": "3 things I've learned from getting back to the gym after 2 months off: every rep hurts, every sweat drop matters, and not showing up has real consequences for my goals.",
+    "text": "3 things I've learned from my first week back at the gym: every rep hurts, every sweat drop matters, and not showing up has real consequences for my goals. The stakes are higher than I thought.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
       "motivation",
-      "consistency"
+      "life"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck watching others advance",
+      "pain_point": "feeling stuck",
       "desire": "visible physical progress"
     },
     "goal_alignment": {
@@ -81,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.8,
-      "originality": 8.2,
+      "clarity": 9,
+      "originality": 8,
       "emotional_impact": 8.5,
-      "virality_potential": 8.8,
-      "audience_fit": 8.5
+      "virality_potential": 8.5,
+      "audience_fit": 9
     },
-    "decision_reason": "Reflective list that shares personal lessons and escalates the importance of taking action"
+    "decision_reason": "Sharing personal lessons can help build a connection with followers"
   }
 ]
