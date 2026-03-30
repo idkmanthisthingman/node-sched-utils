@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Woke up at 5:30am, dragged myself to the gym. It's not easy, but every rep is a reminder that I'm one step closer to my goal. Anyone else struggling to get back on track?",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-03-24T05:39:09.996Z"
-      },
-      {
-        "text": "Discipline is not about the ability to start, it's about the willingness to continue. Even when it hurts, especially when it hurts",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-03-24T05:39:09.996Z"
-      },
-      {
-        "text": "Giving yourself permission to start small is the first step to building consistency. Don't wait for motivation, create momentum.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-03-24T10:12:51.514Z"
-      },
-      {
         "text": "What's one thing you can do daily to create consistency in your life? For me, it's getting back to the gym after 2 months off.",
         "tone": "casual",
         "format": "question",
@@ -567,16 +534,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-03-30T06:27:13.834Z"
+      },
+      {
+        "text": "You have permission to take it one day at a time. Showing up, even when you don't feel like it, is a win. #motivation",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-03-30T11:19:33.062Z"
+      },
+      {
+        "text": "What's the smallest habit you can build today to create consistency in your life? For me, it's drinking a glass of water as soon as I wake up",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-03-30T11:19:33.062Z"
+      },
+      {
+        "text": "3 things I've learned from trying to fix my sleep schedule: it's hard, it's worth it, and every small step matters. Don't give up on your goals",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-03-30T11:19:33.062Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -600,12 +594,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "consistency",
+      "life",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -622,21 +619,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 20,
-      "motivational": 36,
+      "motivational": 37,
       "empathetic": 37,
-      "casual": 16,
-      "reflective": 33
+      "casual": 17,
+      "reflective": 34
     },
     "format_distribution_7d": {
-      "micro-lesson": 36,
+      "micro-lesson": 37,
       "micro-story": 37,
       "quote-style": 20,
-      "question": 16,
-      "list": 16,
+      "question": 17,
+      "list": 17,
       "progress-log": 17
     }
   },
@@ -648,7 +648,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-30T06:27:11.582Z"
+    "last_analyzed_at": "2026-03-30T11:19:30.881Z"
   },
   "content_library": {
     "proven_hooks": [],

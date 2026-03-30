@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to start small, even if it's just 10 min of exercise a day. Every tiny step towards your goal is a step away from where you are now.",
+    "text": "You have permission to take it one day at a time. Showing up, even when you don't feel like it, is a win. #motivation",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -18,19 +18,21 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.5,
+    "hashtags": [
+      "motivation"
+    ],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 9
+      "clarity": 0.9,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Starting small is a key concept for new followers"
+    "decision_reason": "Aligns with the motivation pillar and uses permission_slip trigger"
   },
   {
-    "text": "What's one thing you can do daily to build consistency? For me, it's showing up at the gym, even when I don't feel like it.",
+    "text": "What's the smallest habit you can build today to create consistency in your life? For me, it's drinking a glass of water as soon as I wake up",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -51,16 +53,16 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.5,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.8,
+      "emotional_impact": 0.7,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Asking a question can encourage engagement"
+    "decision_reason": "Asks a question and uses specificity_shock trigger"
   },
   {
-    "text": "3 things I've learned from my first week back at the gym: every rep hurts, every sweat drop matters, and not showing up has real consequences for my goals. The stakes are higher than I thought.",
+    "text": "3 things I've learned from trying to fix my sleep schedule: it's hard, it's worth it, and every small step matters. Don't give up on your goals",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -70,8 +72,8 @@
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "pain_point": "struggling with sleep",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,12 +83,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8.5,
-      "audience_fit": 9
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Sharing personal lessons can help build a connection with followers"
+    "decision_reason": "References an open storyline and uses stakes_escalation trigger"
   }
 ]
