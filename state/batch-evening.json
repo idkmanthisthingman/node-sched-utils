@@ -1,11 +1,11 @@
 [
   {
-    "text": "I stopped going to the gym for 2 months. Now I'm back and it hurts. But I'm not just fighting for a better body, I'm fighting for the discipline to chase my dreams, no matter the pain or sacrifice.",
+    "text": "Pain is my wake up call. 2 months off gym, now I'm back and it hurts. But every rep is a reminder that sacrifice is a part of chasing dreams",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
-      "sacrifice",
       "pain",
+      "sacrifice",
       "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
@@ -20,18 +20,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8,
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8.8,
+      "virality_potential": 7.2,
       "audience_fit": 8
     },
-    "decision_reason": "meets all requirements and has a clear, relatable narrative"
+    "decision_reason": "Meets all requirements and has a high quality score"
   },
   {
-    "text": "It's okay to struggle with getting back on track. I'm right there with you, trying to fix my sleep schedule and get back to the gym. Every small step towards our goals requires sacrifice, but it's worth it for the progress, no matter how slow.",
+    "text": "Struggling to get back on track with gym and sleep schedule. You're not alone, I'm right there with you. Every small step requires sacrifice, but it's worth it",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -42,8 +42,8 @@
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
-      "desire": "purposeful daily routine"
+      "pain_point": "feeling stuck",
+      "desire": "belonging to a group that gets it"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -53,12 +53,12 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.5,
+      "clarity": 8.2,
       "originality": 7.5,
       "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "virality_potential": 7.5,
+      "audience_fit": 8.2
     },
-    "decision_reason": "meets all requirements and provides a relatable, empathetic perspective"
+    "decision_reason": "Meets all requirements and has a high quality score"
   }
 ]
