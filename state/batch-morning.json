@@ -1,6 +1,6 @@
 [
   {
-    "text": "You call yourself a gym person but can't show up for 2 months? Time to reevaluate your identity. Every rep is a chance to rebuild.",
+    "text": "Woke up at 5:30, hated it. First week back at the gym and every rep is a fight. Who am I if I'm not the person I used to be?",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -22,16 +22,16 @@
     "quality_score": 8.5,
     "quality_breakdown": {
       "clarity": 8,
-      "originality": 8,
+      "originality": 8.5,
       "emotional_impact": 9,
       "virality_potential": 8,
-      "audience_fit": 8
+      "audience_fit": 8.5
     },
-    "decision_reason": "High contrast between claimed identity and actual behavior sparks reflection."
+    "decision_reason": "Directly addresses the struggle of getting back on track and questions the user's identity"
   },
   {
-    "text": "First week back at the gym and I'm reminded why I started. The pain is real, but so is the progress. Keep moving forward.",
-    "tone": "motivational",
+    "text": "You're not alone in this struggle. I'm right there with you, trying to get back to the gym and build discipline. Every small step matters, even when it feels like a chore.",
+    "tone": "empathetic",
     "format": "micro-story",
     "pillar": [
       "discipline",
@@ -40,8 +40,8 @@
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
-      "desire": "purposeful daily routine"
+      "pain_point": "feeling alone",
+      "desire": "belonging to a group that gets it"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,17 +51,17 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7,
-      "emotional_impact": 8,
-      "virality_potential": 8,
+      "clarity": 8.5,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 7.5,
       "audience_fit": 8
     },
-    "decision_reason": "Sharing personal struggles and progress fosters a sense of community and motivation."
+    "decision_reason": "Creates a sense of community and shared struggle"
   },
   {
-    "text": "Growth doesn't happen in the gym, it happens in the moments you want to quit but don't.",
-    "tone": "empathetic",
+    "text": "Progress isn't about being perfect, it's about being persistent. Every rep, every sweat drop, is a step closer to your goal.",
+    "tone": "motivational",
     "format": "quote-style",
     "pillar": [
       "discipline",
@@ -70,8 +70,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "knowing what to do but not doing it",
-      "desire": "being someone people notice changed"
+      "pain_point": "lack of motivation",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 9,
+      "clarity": 8.5,
       "originality": 8,
       "emotional_impact": 8,
       "virality_potential": 8,
-      "audience_fit": 8
+      "audience_fit": 8.2
     },
-    "decision_reason": "Reframing the source of growth highlights the importance of discipline in everyday moments."
+    "decision_reason": "Provides a motivational quote that reframes the user's perspective on progress"
   }
 ]
