@@ -1,6 +1,6 @@
 [
   {
-    "text": "Woke up at 5:30, hated it. First week back at the gym and every rep is a fight. Who am I if I'm not the person I used to be?",
+    "text": "You think you're tired now? Wait till you've been back at the gym for a month. Discipline isn't built in a day, it's forged in the fire of your excuses. #discipline",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -18,20 +18,22 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.5,
+    "hashtags": [
+      "discipline"
+    ],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 8.5,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Directly addresses the struggle of getting back on track and questions the user's identity"
+    "decision_reason": "High emotional impact and clarity"
   },
   {
-    "text": "You're not alone in this struggle. I'm right there with you, trying to get back to the gym and build discipline. Every small step matters, even when it feels like a chore.",
-    "tone": "empathetic",
+    "text": "First week back at the gym and I'm reminded why I started. It's not just about the body, it's about building the discipline to chase my dreams. Every rep is a step closer to my goals.",
+    "tone": "motivational",
     "format": "micro-story",
     "pillar": [
       "discipline",
@@ -40,8 +42,8 @@
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling alone",
-      "desire": "belonging to a group that gets it"
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,27 +53,26 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 7.5,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Creates a sense of community and shared struggle"
+    "decision_reason": "Relatable storyline and clear motivation"
   },
   {
-    "text": "Progress isn't about being perfect, it's about being persistent. Every rep, every sweat drop, is a step closer to your goal.",
-    "tone": "motivational",
+    "text": "Discipline is not about being perfect, it's about being consistent. 'You don't have to be great to start, but you have to start to be great.'",
+    "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
-      "discipline",
-      "gym"
+      "discipline"
     ],
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "lack of motivation",
-      "desire": "purposeful daily routine"
+      "pain_point": "feeling stuck",
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +80,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.1,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8,
-      "emotional_impact": 8,
-      "virality_potential": 8,
-      "audience_fit": 8.2
+      "clarity": 0.9,
+      "originality": 0.6,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Provides a motivational quote that reframes the user's perspective on progress"
+    "decision_reason": "Empathetic tone and reframed perspective"
   }
 ]
