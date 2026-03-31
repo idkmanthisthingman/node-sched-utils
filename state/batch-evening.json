@@ -1,11 +1,11 @@
 [
   {
-    "text": "Pain is my wake up call. 2 months off gym, now I'm back and it hurts. But every rep is a reminder that sacrifice is a part of chasing dreams",
+    "text": "I thought going back to the gym would be a victory, but it's been a humbling experience. My body hurts, but it's a reminder that sacrifice is a part of chasing dreams. Every rep is a step closer to my goals.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
-      "pain",
       "sacrifice",
+      "pain",
       "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
@@ -20,18 +20,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8.8,
-      "virality_potential": 7.2,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Meets all requirements and has a high quality score"
+    "decision_reason": "uses a relatable storyline to convey the importance of sacrifice in chasing dreams"
   },
   {
-    "text": "Struggling to get back on track with gym and sleep schedule. You're not alone, I'm right there with you. Every small step requires sacrifice, but it's worth it",
+    "text": "It's okay to not be okay, especially when you're trying to get back on track. I'm struggling to fix my sleep schedule and it's affecting my gym progress, but I see others pushing through similar struggles and it gives me hope.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -51,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8.2,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 7.5,
-      "audience_fit": 8.2
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Meets all requirements and has a high quality score"
+    "decision_reason": "uses empathy to connect with the audience and highlights the importance of community in overcoming struggles"
   }
 ]
