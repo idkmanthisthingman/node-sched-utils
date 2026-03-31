@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to take it one day at a time. Showing up, even when you don't feel like it, is a win. #motivation",
+    "text": "You have permission to start small. Building consistency is not about being perfect, it's about showing up every day. #motivation",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -21,22 +21,22 @@
     "hashtags": [
       "motivation"
     ],
-    "quality_score": 8.2,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
+      "clarity": 0.8,
       "originality": 0.7,
       "emotional_impact": 0.8,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Aligns with the motivation pillar and uses permission_slip trigger"
+    "decision_reason": "Starting small is a key concept for building consistency"
   },
   {
-    "text": "What's the smallest habit you can build today to create consistency in your life? For me, it's drinking a glass of water as soon as I wake up",
+    "text": "What's the one thing you can do today to move closer to your goal? For me, it's getting back to the gym after 2 months off.",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "consistency",
+      "motivation",
       "life"
     ],
     "psychological_trigger": "specificity_shock",
@@ -51,28 +51,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.2,
     "quality_breakdown": {
       "clarity": 0.8,
       "originality": 0.8,
-      "emotional_impact": 0.7,
+      "emotional_impact": 0.8,
       "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "audience_fit": 0.8
     },
-    "decision_reason": "Asks a question and uses specificity_shock trigger"
+    "decision_reason": "Asking a question encourages engagement and reflection"
   },
   {
-    "text": "3 things I've learned from trying to fix my sleep schedule: it's hard, it's worth it, and every small step matters. Don't give up on your goals",
+    "text": "3 things I've learned from trying to get back on track: it's okay to struggle, every small step matters, and consistency is key. Don't give up on your goals",
     "tone": "reflective",
     "format": "list",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "struggling with sleep",
+      "pain_point": "feeling stuck",
       "desire": "being someone people notice changed"
     },
     "goal_alignment": {
@@ -89,6 +89,6 @@
       "virality_potential": 0.8,
       "audience_fit": 0.9
     },
-    "decision_reason": "References an open storyline and uses stakes_escalation trigger"
+    "decision_reason": "Listing lessons learned provides a concise and relatable format"
   }
 ]
