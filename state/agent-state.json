@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Woke up at 5:30 AM, didn't want to go to the gym. But I did. Because the pain of regret is worse than the pain of a workout. Still struggling to fix my sleep schedule, though.",
-        "tone": "reflective",
-        "format": "micro-story",
-        "pillar": [
-          "sacrifice",
-          "pain"
-        ],
-        "trigger": "pattern_interrupt",
-        "posted_at": "2026-03-25T16:50:22.029Z"
-      },
-      {
-        "text": "Nobody posts about the days they don't feel like showing up to the gym. But I see you, and I feel you. You're not alone in this struggle. Keep showing up, even when it's hard.",
-        "tone": "empathetic",
-        "format": "progress-log",
-        "pillar": [
-          "dreams",
-          "sacrifice"
-        ],
-        "trigger": "social_proof_inverse",
-        "posted_at": "2026-03-25T16:50:22.029Z"
-      },
-      {
-        "text": "You're not a morning person just because you wake up at 5:30. Discipline is about showing up when you don't feel like it. Been there, still struggling to fix my sleep schedule.",
-        "tone": "tough-love",
-        "format": "micro-lesson",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "identity_threat",
-        "posted_at": "2026-03-26T05:56:50.164Z"
-      },
-      {
         "text": "I went back to the gym after 2 months off. It's been tough, but every rep is a reminder that I'm capable of more than I thought. You can do the same, even when it feels impossible.",
         "tone": "motivational",
         "format": "micro-story",
@@ -570,14 +537,41 @@
         ],
         "trigger": "social_proof_inverse",
         "posted_at": "2026-03-31T16:42:32.558Z"
+      },
+      {
+        "text": "You call yourself a morning person but hit snooze 5 times. That's not discipline, that's denial. Time to reevaluate who you are and what you want. #discipline",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-04-01T06:17:52.695Z"
+      },
+      {
+        "text": "First day back at the gym in 2 months and it feels like starting from scratch. But every rep is a reminder that I'm one step closer to my goals. Keep moving forward, no matter how small the step.",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "gym",
+          "discipline"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-04-01T06:17:52.695Z"
+      },
+      {
+        "text": "Discipline is not about being perfect, it's about being consistent. 'Every rep is a step closer to your goals, not a reflection of your worth.'",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-04-01T06:17:52.695Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "gym",
-      "motivation",
-      "consistency",
-      "consistency",
       "life",
       "motivation",
       "life",
@@ -603,12 +597,13 @@
       "dreams",
       "sacrifice",
       "pain",
-      "dreams"
+      "dreams",
+      "discipline",
+      "gym",
+      "discipline",
+      "discipline"
     ],
     "recent_triggers_used": [
-      "specificity_shock",
-      "stakes_escalation",
-      "pattern_interrupt",
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
@@ -625,19 +620,22 @@
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
-      "social_proof_inverse"
+      "social_proof_inverse",
+      "identity_threat",
+      "relatability_gap",
+      "reframe"
     ],
     "tone_distribution_7d": {
-      "tough-love": 21,
-      "motivational": 39,
-      "empathetic": 40,
+      "tough-love": 22,
+      "motivational": 40,
+      "empathetic": 41,
       "casual": 18,
       "reflective": 37
     },
     "format_distribution_7d": {
-      "micro-lesson": 39,
-      "micro-story": 40,
-      "quote-style": 21,
+      "micro-lesson": 40,
+      "micro-story": 41,
+      "quote-style": 22,
       "question": 18,
       "list": 18,
       "progress-log": 19
@@ -651,7 +649,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-03-31T16:42:29.428Z"
+    "last_analyzed_at": "2026-04-01T06:17:50.499Z"
   },
   "content_library": {
     "proven_hooks": [],
@@ -695,7 +693,7 @@
     "retweeted_tweet_ids": [],
     "replied_tweet_ids": [],
     "daily": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "follows": 0,
       "likes": 0,
       "retweets": 0,
