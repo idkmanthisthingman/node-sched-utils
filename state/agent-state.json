@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "I went back to the gym after 2 months off. It's been tough, but every rep is a reminder that I'm capable of more than I thought. You can do the same, even when it feels impossible.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-03-26T05:56:50.165Z"
-      },
-      {
-        "text": "Growth happens in the moments you don't feel like showing up. That's where discipline meets determination. Keep pushing, even when it's hard.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-03-26T05:56:50.165Z"
-      },
-      {
-        "text": "Give yourself permission to start small. It's okay to not have it all figured out. Every step, no matter how tiny, is a step closer to your goal. I'm still trying to fix my sleep schedule, but I'm showing up",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-03-26T10:36:34.369Z"
-      },
-      {
         "text": "What's one thing you can do today to build consistency? For me, it's making sure I'm at the gym, even if it's just for 20 minutes. Every bit counts, right?",
         "tone": "casual",
         "format": "question",
@@ -568,16 +535,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-01T06:17:52.695Z"
+      },
+      {
+        "text": "You have permission to not be perfect. Life is about progress, not perfection. Consistency is what gets you closer to your goals.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-01T10:42:17.172Z"
+      },
+      {
+        "text": "How many days in a row can you commit to a new habit before it becomes second nature? I'm trying to get back to the gym after 2 months off, and it's been 5 days so far.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-01T10:42:17.172Z"
+      },
+      {
+        "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. Don't give up on your goals, even when it feels like the smallest step forward is the hardest.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-01T10:42:17.172Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "life",
-      "motivation",
-      "life",
-      "pain",
-      "sacrifice",
-      "dreams",
       "sacrifice",
       "pain",
       "dreams",
@@ -601,12 +595,15 @@
       "discipline",
       "gym",
       "discipline",
-      "discipline"
+      "discipline",
+      "motivation",
+      "consistency",
+      "consistency",
+      "life",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -623,21 +620,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 22,
-      "motivational": 40,
+      "motivational": 41,
       "empathetic": 41,
-      "casual": 18,
-      "reflective": 37
+      "casual": 19,
+      "reflective": 38
     },
     "format_distribution_7d": {
-      "micro-lesson": 40,
+      "micro-lesson": 41,
       "micro-story": 41,
       "quote-style": 22,
-      "question": 18,
-      "list": 18,
+      "question": 19,
+      "list": 19,
       "progress-log": 19
     }
   },
@@ -649,7 +649,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-01T06:17:50.499Z"
+    "last_analyzed_at": "2026-04-01T10:42:14.901Z"
   },
   "content_library": {
     "proven_hooks": [],
