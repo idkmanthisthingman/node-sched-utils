@@ -1,6 +1,6 @@
 [
   {
-    "text": "I woke up at 5:30, hated it, but went to the gym anyway. It's a reminder that every rep is a step closer to my dreams, even when it feels like a sacrifice. 2 months off and I'm back to square one.",
+    "text": "Woke up at 5:30 AM, went to the gym, and felt like I was dying. But every rep is a reminder that I'm one step closer to my dreams, even if it feels like a sacrifice. #gym",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
@@ -19,19 +19,21 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.2,
+    "hashtags": [
+      "gym"
+    ],
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Shares a personal struggle and connects it to the audience's desire for progress"
+    "decision_reason": "meets all requirements and is engaging"
   },
   {
-    "text": "It's tough to see others pushing through struggles when you're not. I'm still trying to fix my sleep schedule and get back to the gym, but knowing others are in the same boat helps. Even successful people have off days, not just highlight reels.",
+    "text": "Nobody posts about the days they don't want to get out of bed. But that's where the real growth happens. I'm trying to get back on track after 2 months off, and it's okay to struggle. #consistency",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -42,23 +44,25 @@
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparison spirals",
-      "desire": "belonging to a group that gets it"
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8,
+    "hashtags": [
+      "consistency"
+    ],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Validates the audience's emotions and offers a sense of community"
+    "decision_reason": "meets all requirements and is empathetic"
   }
 ]
