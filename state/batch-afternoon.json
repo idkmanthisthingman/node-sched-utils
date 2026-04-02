@@ -1,11 +1,11 @@
 [
   {
-    "text": "You have permission to not be perfect. Life is about progress, not perfection. Consistency is what gets you closer to your goals.",
+    "text": "Getting back to the gym after 2 months off isn't easy, but it's a reminder that life is about progress, not perfection. You have permission to start over and try again.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
       "motivation",
-      "consistency"
+      "life"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -19,28 +19,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
+      "clarity": 0.9,
       "originality": 0.7,
       "emotional_impact": 0.8,
-      "virality_potential": 0.7,
+      "virality_potential": 0.6,
       "audience_fit": 0.8
     },
-    "decision_reason": "aligns with the goal of providing a motivational tone"
+    "decision_reason": "aligns with current storyline and audience pain points"
   },
   {
-    "text": "How many days in a row can you commit to a new habit before it becomes second nature? I'm trying to get back to the gym after 2 months off, and it's been 5 days so far.",
+    "text": "What's the smallest action you can take today to get closer to your goals? For me, it's getting back to the gym after 2 months off, one rep at a time.",
     "tone": "casual",
     "format": "question",
     "pillar": [
       "consistency",
-      "life"
+      "motivation"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "struggling to start new habits",
+      "pain_point": "lack of consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.8,
+    "quality_score": 7.9,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
+      "clarity": 0.8,
+      "originality": 0.6,
       "emotional_impact": 0.7,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "virality_potential": 0.7,
+      "audience_fit": 0.7
     },
-    "decision_reason": "uses a question format and references an open storyline"
+    "decision_reason": "encourages engagement and relatability"
   },
   {
-    "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. Don't give up on your goals, even when it feels like the smallest step forward is the hardest.",
+    "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. The cost of giving up is losing sight of your goals.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -70,8 +70,8 @@
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling like giving up",
-      "desire": "being someone people notice changed"
+      "pain_point": "feeling stuck",
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,7 +79,7 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.5,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
@@ -87,6 +87,6 @@
       "virality_potential": 0.8,
       "audience_fit": 0.9
     },
-    "decision_reason": "aligns with the goal of providing a reflective tone and using the list format"
+    "decision_reason": "provides value and encourages reflection"
   }
 ]
