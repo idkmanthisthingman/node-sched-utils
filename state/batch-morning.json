@@ -1,10 +1,11 @@
 [
   {
-    "text": "You call yourself a morning person but hit snooze 5 times. That's not discipline, that's denial. Time to reevaluate who you are and what you want. #discipline",
+    "text": "You think you're a gym person but haven't been in months. Time to reevaluate who you are and what you want. Discipline is not a trait, it's a choice.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
-      "discipline"
+      "discipline",
+      "gym"
     ],
     "psychological_trigger": "identity_threat",
     "hook_template_id": null,
@@ -17,32 +18,30 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "discipline"
-    ],
+    "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.9
     },
-    "decision_reason": "High clarity and emotional impact"
+    "decision_reason": "Directly addresses the audience's pain point of feeling stuck and challenges their identity as a gym person."
   },
   {
-    "text": "First day back at the gym in 2 months and it feels like starting from scratch. But every rep is a reminder that I'm one step closer to my goals. Keep moving forward, no matter how small the step.",
+    "text": "Going back to the gym after 2 months off isn't easy. But every rep is a reminder that I'm one step closer to my goals. Keep moving forward, no matter how small the step.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
-      "gym",
-      "discipline"
+      "discipline",
+      "gym"
     ],
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "losing consistency",
-      "desire": "visible physical progress"
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -52,26 +51,27 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "High emotional impact and audience fit"
+    "decision_reason": "Shares a personal experience of struggling to get back to the gym, making the audience feel less alone."
   },
   {
-    "text": "Discipline is not about being perfect, it's about being consistent. 'Every rep is a step closer to your goals, not a reflection of your worth.'",
+    "text": "The gym isn't just about physical growth, it's about building discipline. Every rep is a chance to reframe your mindset and prove to yourself that you're capable of more.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
-      "discipline"
+      "discipline",
+      "gym"
     ],
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparison spirals",
-      "desire": "purposeful daily routine"
+      "pain_point": "comparing to others",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8.5,
-      "audience_fit": 8.5
+      "clarity": 0.9,
+      "originality": 0.9,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "High emotional impact and originality"
+    "decision_reason": "Offers a fresh perspective on the gym, focusing on building discipline and reframing one's mindset."
   }
 ]
