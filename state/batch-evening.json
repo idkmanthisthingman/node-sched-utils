@@ -1,12 +1,11 @@
 [
   {
-    "text": "Woke up at 5:30 AM, went to the gym, and felt like I was dying. But every rep is a reminder that I'm one step closer to my dreams, even if it feels like a sacrifice. #gym",
+    "text": "I was supposed to wake up at 5:30 AM for the gym, but hit snooze 5 times. Now I'm running late and feeling like a failure. This is what getting back on track really looks like.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
       "sacrifice",
-      "pain",
-      "dreams"
+      "pain"
     ],
     "psychological_trigger": "pattern_interrupt",
     "hook_template_id": null,
@@ -19,50 +18,45 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "gym"
-    ],
-    "quality_score": 8,
+    "hashtags": [],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 8,
+      "emotional_impact": 8,
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "meets all requirements and is engaging"
+    "decision_reason": "meets the requirements for week 1, beginning phase"
   },
   {
-    "text": "Nobody posts about the days they don't want to get out of bed. But that's where the real growth happens. I'm trying to get back on track after 2 months off, and it's okay to struggle. #consistency",
+    "text": "Most people post gym selfies after a good workout. But what about the days you don't want to go? I've been back at the gym for a week now, and it's been a struggle. My dreams are worth the sacrifice, even when it feels like nobody else is making an effort.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
       "sacrifice",
-      "pain",
       "dreams"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
-      "desire": "purposeful daily routine"
+      "pain_point": "feeling like nobody around them takes life seriously",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "consistency"
-    ],
-    "quality_score": 8.2,
+    "hashtags": [],
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 9,
+      "originality": 8.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "meets all requirements and is empathetic"
+    "decision_reason": "meets the requirements for week 1, beginning phase"
   }
 ]

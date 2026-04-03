@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's the one habit you can build today to create consistency in your life? For me, it's showing up at the gym even when I don't feel like it.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "consistency",
-          "life"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-03-28T09:08:16.429Z"
-      },
-      {
-        "text": "3 things I've learned from getting back to the gym after 2 months off: every rep hurts, every sweat drop matters, and not showing up has real consequences for my goals.",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-03-28T09:08:16.429Z"
-      },
-      {
         "text": "Dropped my gym routine for 2 months. Now I'm back and it hurts. Every rep is a painful reminder that I'm still chasing my dreams, no matter the sacrifice.",
         "tone": "reflective",
         "format": "micro-story",
@@ -570,16 +548,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-03T10:06:48.661Z"
+      },
+      {
+        "text": "I was supposed to wake up at 5:30 AM for the gym, but hit snooze 5 times. Now I'm running late and feeling like a failure. This is what getting back on track really looks like.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-03T15:30:56.553Z"
+      },
+      {
+        "text": "Most people post gym selfies after a good workout. But what about the days you don't want to go? I've been back at the gym for a week now, and it's been a struggle. My dreams are worth the sacrifice, even when it feels like nobody else is making an effort.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-03T15:30:56.553Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
       "discipline",
       "gym",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "motivation",
       "life",
       "consistency",
@@ -603,11 +599,13 @@
       "consistency",
       "life",
       "motivation",
-      "consistency"
+      "consistency",
+      "sacrifice",
+      "pain",
+      "sacrifice",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -625,22 +623,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 24,
       "motivational": 45,
-      "empathetic": 45,
+      "empathetic": 46,
       "casual": 21,
-      "reflective": 42
+      "reflective": 43
     },
     "format_distribution_7d": {
       "micro-lesson": 45,
-      "micro-story": 45,
+      "micro-story": 46,
       "quote-style": 24,
       "question": 21,
       "list": 21,
-      "progress-log": 21
+      "progress-log": 22
     }
   },
   "performance": {
@@ -651,7 +651,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-03T10:06:46.190Z"
+    "last_analyzed_at": "2026-04-03T15:30:54.687Z"
   },
   "content_library": {
     "proven_hooks": [],
