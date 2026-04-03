@@ -1,6 +1,6 @@
 [
   {
-    "text": "You think you're a gym person but haven't been in months. Time to reevaluate who you are and what you want. Discipline is not a trait, it's a choice.",
+    "text": "You call yourself a gym person but haven't been in months. Time to face the truth: discipline is a choice, not a trait.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -21,16 +21,16 @@
     "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "Directly addresses the audience's pain point of feeling stuck and challenges their identity as a gym person."
+    "decision_reason": "High clarity and emotional impact"
   },
   {
-    "text": "Going back to the gym after 2 months off isn't easy. But every rep is a reminder that I'm one step closer to my goals. Keep moving forward, no matter how small the step.",
+    "text": "I'm on day 3 of getting back to the gym after 2 months off. It's not easy, but every rep is a step closer to my goals. Keep moving forward.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -41,7 +41,7 @@
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "losing consistency",
-      "desire": "purposeful daily routine"
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,16 +51,16 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "Shares a personal experience of struggling to get back to the gym, making the audience feel less alone."
+    "decision_reason": "Relatable storyline and high emotional impact"
   },
   {
-    "text": "The gym isn't just about physical growth, it's about building discipline. Every rep is a chance to reframe your mindset and prove to yourself that you're capable of more.",
+    "text": "Discipline isn't about being perfect, it's about being consistent. Every rep, every set, every sweat drop is a reminder that you're one step closer to your dreams.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -70,8 +70,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparing to others",
-      "desire": "being someone people notice changed"
+      "pain_point": "feeling stuck",
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.9,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 9,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.5,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Offers a fresh perspective on the gym, focusing on building discipline and reframing one's mindset."
+    "decision_reason": "High clarity and originality"
   }
 ]
