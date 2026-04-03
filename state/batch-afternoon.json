@@ -1,6 +1,6 @@
 [
   {
-    "text": "Getting back to the gym after 2 months off isn't easy, but it's a reminder that life is about progress, not perfection. You have permission to start over and try again.",
+    "text": "You have permission to start over, to try again, and to make mistakes. Every small step towards your goals is a step in the right direction. Keep moving forward.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -21,26 +21,26 @@
     "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.6,
-      "audience_fit": 0.8
+      "clarity": 9,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "aligns with current storyline and audience pain points"
+    "decision_reason": "High clarity and emotional impact."
   },
   {
-    "text": "What's the smallest action you can take today to get closer to your goals? For me, it's getting back to the gym after 2 months off, one rep at a time.",
+    "text": "What's the one thing you can do daily to build consistency? For me, it's waking up at 5:30 AM, even when I don't feel like it.",
     "tone": "casual",
     "format": "question",
     "pillar": [
       "consistency",
-      "motivation"
+      "life"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "lack of consistency",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,15 +49,15 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.9,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.6,
-      "emotional_impact": 0.7,
-      "virality_potential": 0.7,
-      "audience_fit": 0.7
+      "clarity": 8.5,
+      "originality": 7,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "encourages engagement and relatability"
+    "decision_reason": "Engaging question with a personal touch."
   },
   {
     "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. The cost of giving up is losing sight of your goals.",
@@ -65,7 +65,7 @@
     "format": "list",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
@@ -81,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 9,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.5,
+      "audience_fit": 8.5
     },
-    "decision_reason": "provides value and encourages reflection"
+    "decision_reason": "High quality score and relevant pillars."
   }
 ]
