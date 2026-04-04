@@ -1,6 +1,6 @@
 [
   {
-    "text": "You call yourself a gym person but haven't been in months. Time to face the truth: discipline is a choice, not a trait.",
+    "text": "You call yourself a fitness enthusiast but haven't seen the gym in months. It's time to face the truth: discipline is a choice, not a trait. I'm on day 5 of getting back to the gym after 2 months off.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -19,48 +19,50 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "High clarity and emotional impact"
+    "decision_reason": "Directly addressing the audience's potential identity crisis"
   },
   {
-    "text": "I'm on day 3 of getting back to the gym after 2 months off. It's not easy, but every rep is a step closer to my goals. Keep moving forward.",
+    "text": "Getting back to the gym isn't about being motivated, it's about being consistent. Every rep, every set, is a reminder that you're one step closer to your dreams, even when it feels like a sacrifice.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
-      "discipline",
-      "gym"
+      "gym",
+      "discipline"
     ],
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "losing consistency",
-      "desire": "being someone people notice changed"
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8,
+    "hashtags": [
+      "gym"
+    ],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Relatable storyline and high emotional impact"
+    "decision_reason": "Emphasizing the importance of consistency over motivation"
   },
   {
-    "text": "Discipline isn't about being perfect, it's about being consistent. Every rep, every set, every sweat drop is a reminder that you're one step closer to your dreams.",
+    "text": "Discipline is not the absence of struggle, but the persistence to show up even when it's hard. I'm still trying to fix my sleep schedule, but every morning I wake up for the gym is a win.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -70,8 +72,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "pain_point": "struggling with sleep",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +81,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.8,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8.5,
-      "audience_fit": 8.5
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.9,
+      "audience_fit": 0.9
     },
-    "decision_reason": "High clarity and originality"
+    "decision_reason": "Reframing discipline as persistence rather than ease"
   }
 ]
