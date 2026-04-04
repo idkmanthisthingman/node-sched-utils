@@ -1,11 +1,12 @@
 [
   {
-    "text": "I was supposed to wake up at 5:30 AM for the gym, but hit snooze 5 times. Now I'm running late and feeling like a failure. This is what getting back on track really looks like.",
+    "text": "I used to think gym days were for fitness enthusiasts. Now I'm back at it after 2 months off, and it's a struggle. But my dreams are worth the pain of getting back on track.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
       "sacrifice",
-      "pain"
+      "pain",
+      "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
     "hook_template_id": null,
@@ -19,29 +20,30 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8,
-      "emotional_impact": 8,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "meets the requirements for week 1, beginning phase"
+    "decision_reason": "Authentic sharing of struggle and motivation"
   },
   {
-    "text": "Most people post gym selfies after a good workout. But what about the days you don't want to go? I've been back at the gym for a week now, and it's been a struggle. My dreams are worth the sacrifice, even when it feels like nobody else is making an effort.",
+    "text": "It's okay to feel like giving up when the gym feels like a chore. I'm there too, trying to fix my sleep schedule and get back on track. Remember, every small step is a step closer to your dreams, even if it feels like a sacrifice.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
       "sacrifice",
+      "pain",
       "dreams"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling like nobody around them takes life seriously",
-      "desire": "being someone people notice changed"
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -49,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "meets the requirements for week 1, beginning phase"
+    "decision_reason": "Empathetic understanding and encouragement"
   }
 ]
