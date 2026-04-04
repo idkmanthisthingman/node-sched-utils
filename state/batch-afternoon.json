@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to start over, to try again, and to make mistakes. Every small step towards your goals is a step in the right direction. Keep moving forward.",
+    "text": "You have permission to start small, to try again, and to make mistakes. Every small step towards your goals is a step in the right direction. Keep moving forward.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.6,
+      "emotional_impact": 0.7,
+      "virality_potential": 0.6,
+      "audience_fit": 0.8
     },
-    "decision_reason": "High clarity and emotional impact."
+    "decision_reason": "Simple, clear, and motivational message to encourage followers"
   },
   {
-    "text": "What's the one thing you can do daily to build consistency? For me, it's waking up at 5:30 AM, even when I don't feel like it.",
+    "text": "What's one thing you can do daily to build consistency, even when you don't feel like it? For me, it's showing up to the gym, no matter what.",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -49,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.7,
+      "emotional_impact": 0.6,
+      "virality_potential": 0.7,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Engaging question with a personal touch."
+    "decision_reason": "Engaging question that relates to the audience's pain points"
   },
   {
-    "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. The cost of giving up is losing sight of your goals.",
+    "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. The cost of giving up is losing sight of your goals #fitnessjourney",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -78,15 +78,17 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.5,
+    "hashtags": [
+      "fitnessjourney"
+    ],
+    "quality_score": 8.1,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8.5,
-      "audience_fit": 8.5
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "High quality score and relevant pillars."
+    "decision_reason": "Reflective post that shares valuable lessons and relates to the audience's desires"
   }
 ]

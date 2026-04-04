@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "First week back at the gym and I'm reminded why I started. The pain is real, but so is the progress. Keep moving forward.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-03-29T05:57:46.935Z"
-      },
-      {
-        "text": "Growth doesn't happen in the gym, it happens in the moments you want to quit but don't.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-03-29T05:57:46.935Z"
-      },
-      {
-        "text": "You have permission to start small, even if it's just 10 min of exercise a day. Every tiny step towards your goal is a step away from where you are now.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-03-29T09:08:59.004Z"
-      },
-      {
         "text": "What's one thing you can do daily to build consistency? For me, it's showing up at the gym, even when I don't feel like it.",
         "tone": "casual",
         "format": "question",
@@ -568,16 +535,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-04T05:25:13.381Z"
+      },
+      {
+        "text": "You have permission to start small, to try again, and to make mistakes. Every small step towards your goals is a step in the right direction. Keep moving forward.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-04T09:24:39.142Z"
+      },
+      {
+        "text": "What's one thing you can do daily to build consistency, even when you don't feel like it? For me, it's showing up to the gym, no matter what.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-04T09:24:39.142Z"
+      },
+      {
+        "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. The cost of giving up is losing sight of your goals #fitnessjourney",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-04T09:24:39.142Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "life",
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
       "pain",
       "dreams",
       "discipline",
@@ -601,12 +595,15 @@
       "gym",
       "discipline",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "life",
+      "consistency",
+      "life",
+      "motivation",
+      "consistency"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -623,21 +620,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 25,
-      "motivational": 46,
+      "motivational": 47,
       "empathetic": 47,
-      "casual": 21,
-      "reflective": 43
+      "casual": 22,
+      "reflective": 44
     },
     "format_distribution_7d": {
-      "micro-lesson": 46,
+      "micro-lesson": 47,
       "micro-story": 47,
       "quote-style": 25,
-      "question": 21,
-      "list": 21,
+      "question": 22,
+      "list": 22,
       "progress-log": 22
     }
   },
@@ -649,7 +649,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-04T05:25:11.417Z"
+    "last_analyzed_at": "2026-04-04T09:24:37.029Z"
   },
   "content_library": {
     "proven_hooks": [],
