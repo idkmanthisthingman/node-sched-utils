@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's the smallest habit you can build today to create consistency in your life? For me, it's drinking a glass of water as soon as I wake up",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "consistency",
-          "life"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-03-30T11:19:33.062Z"
-      },
-      {
-        "text": "3 things I've learned from trying to fix my sleep schedule: it's hard, it's worth it, and every small step matters. Don't give up on your goals",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-03-30T11:19:33.062Z"
-      },
-      {
         "text": "Pain is my wake up call. 2 months off gym, now I'm back and it hurts. But every rep is a reminder that sacrifice is a part of chasing dreams",
         "tone": "reflective",
         "format": "micro-story",
@@ -568,16 +546,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-05T09:26:22.783Z"
+      },
+      {
+        "text": "I used to think I'd never go back to the gym. But after 2 months off, I realized my dreams were worth the pain of getting back on track. Now, every rep is a step closer to my goals.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-05T15:04:29.235Z"
+      },
+      {
+        "text": "Most people don't post about their struggles. But I'm 3 days into fixing my sleep schedule and it's been a sacrifice. I'm not alone, right? #consistency",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-05T15:04:29.235Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
       "discipline",
       "gym",
-      "gym",
-      "discipline",
-      "discipline",
-      "gym",
       "motivation",
       "life",
       "consistency",
@@ -601,11 +597,13 @@
       "consistency",
       "life",
       "motivation",
-      "life"
+      "life",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -623,22 +621,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 26,
       "motivational": 49,
-      "empathetic": 49,
+      "empathetic": 50,
       "casual": 23,
-      "reflective": 46
+      "reflective": 47
     },
     "format_distribution_7d": {
       "micro-lesson": 49,
-      "micro-story": 49,
+      "micro-story": 50,
       "quote-style": 26,
       "question": 23,
       "list": 23,
-      "progress-log": 23
+      "progress-log": 24
     }
   },
   "performance": {
@@ -649,7 +649,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-05T09:26:20.259Z"
+    "last_analyzed_at": "2026-04-05T15:04:27.226Z"
   },
   "content_library": {
     "proven_hooks": [],
