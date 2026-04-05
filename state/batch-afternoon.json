@@ -1,11 +1,11 @@
 [
   {
-    "text": "You have permission to start small, to try again, and to make mistakes. Every small step towards your goals is a step in the right direction. Keep moving forward.",
+    "text": "You have permission to take it one step at a time. Getting back on track with fitness and life doesn't require a huge leap, just small, consistent actions.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.6,
-      "emotional_impact": 0.7,
-      "virality_potential": 0.6,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 8,
+      "emotional_impact": 8,
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Simple, clear, and motivational message to encourage followers"
+    "decision_reason": "Encourages small, achievable actions"
   },
   {
-    "text": "What's one thing you can do daily to build consistency, even when you don't feel like it? For me, it's showing up to the gym, no matter what.",
+    "text": "What's the smallest action you can take today to build consistency in your daily routine? For me, it's showing up to the gym, even when I don't feel like it.",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -40,7 +40,7 @@
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "inconsistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,46 +49,44 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.8,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.7,
-      "emotional_impact": 0.6,
-      "virality_potential": 0.7,
-      "audience_fit": 0.9
+      "clarity": 8,
+      "originality": 7.5,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "Engaging question that relates to the audience's pain points"
+    "decision_reason": "Asks the reader to reflect on their own habits"
   },
   {
-    "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. The cost of giving up is losing sight of your goals #fitnessjourney",
+    "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. The cost of giving up is losing sight of my dreams.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
       "motivation",
-      "consistency"
+      "life"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "desire": "belonging to a group that gets it"
     },
     "goal_alignment": {
       "stage": "cold",
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "fitnessjourney"
-    ],
-    "quality_score": 8.1,
+    "hashtags": [],
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.5,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Reflective post that shares valuable lessons and relates to the audience's desires"
+    "decision_reason": "Highlights the importance of perseverance"
   }
 ]
