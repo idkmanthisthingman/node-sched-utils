@@ -1,6 +1,6 @@
 [
   {
-    "text": "You're not a morning person just because you wake up at 5:30 AM. Discipline is a choice, and showing up to the gym is just the start.",
+    "text": "Going to the gym isn't about being a fitness enthusiast, it's about discipline. Every rep is a reminder that I'm not who I used to be.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 8,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "Directly addresses the audience's potential misconception about discipline"
+    "decision_reason": "High clarity and originality"
   },
   {
-    "text": "First day back at the gym after 2 months off and I'm already feeling like quitting. But I know every rep is a step closer to my dreams.",
+    "text": "2 months off gym and I'm back. Not because I'm motivated, but because my dreams are worth the struggle. Small steps, daily.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -49,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.8
+      "clarity": 8,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "Shares a personal struggle to create a connection with the audience"
+    "decision_reason": "Relatable story and clear motivation"
   },
   {
-    "text": "Discipline is not about being perfect, it's about being consistent. 'Every sweat drop is a reminder that I'm one step closer to my goals.'",
+    "text": "'Discipline is the bridge between goals and accomplishment.' Still trying to fix my sleep schedule, but every gym session feels like a victory.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -70,8 +70,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling like giving up",
-      "desire": "proof discipline pays off"
+      "pain_point": "struggling with consistency",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.9,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 9,
+      "originality": 8.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.5,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Provides a fresh perspective on discipline to inspire the audience"
+    "decision_reason": "Empathetic tone and clear quote"
   }
 ]
