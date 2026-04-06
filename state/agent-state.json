@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's the one thing you can do today to move closer to your goal? For me, it's getting back to the gym after 2 months off.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-03-31T10:39:26.881Z"
-      },
-      {
-        "text": "3 things I've learned from trying to get back on track: it's okay to struggle, every small step matters, and consistency is key. Don't give up on your goals",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-03-31T10:39:26.881Z"
-      },
-      {
         "text": "I thought going back to the gym would be a victory, but it's been a humbling experience. My body hurts, but it's a reminder that sacrifice is a part of chasing dreams. Every rep is a step closer to my goals.",
         "tone": "reflective",
         "format": "micro-story",
@@ -567,16 +545,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-06T10:43:43.591Z"
+      },
+      {
+        "text": "Woke up at 5:30, struggled to get out of bed. Reminded myself every sacrifice is a step closer to my dreams. The pain is real, but so is the progress. #consistency",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-06T16:03:38.181Z"
+      },
+      {
+        "text": "It's okay to not be okay. I've been back at the gym for a week and it's been a struggle. But seeing others push through their own pain reminds me I'm not alone. #gym",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-06T16:03:38.181Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "pain",
-      "dreams",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "discipline",
       "gym",
       "motivation",
@@ -600,11 +596,15 @@
       "life",
       "consistency",
       "motivation",
-      "life"
+      "life",
+      "sacrifice",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -622,22 +622,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 27,
       "motivational": 51,
-      "empathetic": 51,
+      "empathetic": 52,
       "casual": 24,
-      "reflective": 48
+      "reflective": 49
     },
     "format_distribution_7d": {
       "micro-lesson": 51,
-      "micro-story": 51,
+      "micro-story": 52,
       "quote-style": 27,
       "question": 24,
       "list": 24,
-      "progress-log": 24
+      "progress-log": 25
     }
   },
   "performance": {
@@ -648,7 +650,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-06T10:43:41.178Z"
+    "last_analyzed_at": "2026-04-06T16:03:36.438Z"
   },
   "content_library": {
     "proven_hooks": [],
