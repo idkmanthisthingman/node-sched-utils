@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to take it one step at a time. Getting back on track with fitness and life doesn't require a huge leap, just small, consistent actions.",
+    "text": "you have permission to start small. showing up to the gym, even when you don't feel like it, is a step closer to your dreams #consistency",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -18,29 +18,31 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
+    "hashtags": [
+      "consistency"
+    ],
     "quality_score": 8.2,
     "quality_breakdown": {
       "clarity": 8.5,
-      "originality": 8,
+      "originality": 7.8,
       "emotional_impact": 8,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "virality_potential": 8.1,
+      "audience_fit": 8.3
     },
-    "decision_reason": "Encourages small, achievable actions"
+    "decision_reason": "meets all requirements and has a strong motivational tone"
   },
   {
-    "text": "What's the smallest action you can take today to build consistency in your daily routine? For me, it's showing up to the gym, even when I don't feel like it.",
+    "text": "what's the most mundane habit you've managed to stick to for a week? i'm trying to fix my sleep schedule and it's been a challenge",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "consistency",
-      "life"
+      "life",
+      "consistency"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "inconsistency",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,18 +51,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 7.9,
     "quality_breakdown": {
-      "clarity": 8,
+      "clarity": 8.1,
       "originality": 7.5,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "emotional_impact": 7.8,
+      "virality_potential": 8,
+      "audience_fit": 8.2
     },
-    "decision_reason": "Asks the reader to reflect on their own habits"
+    "decision_reason": "meets requirements and has a conversational tone"
   },
   {
-    "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. The cost of giving up is losing sight of my dreams.",
+    "text": "3 things i've learned from my first week back at the gym: every rep is a struggle, consistency is key, and quitting is not an option. the cost of giving up is losing sight of my dreams",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -71,7 +73,7 @@
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "feeling stuck",
-      "desire": "belonging to a group that gets it"
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,12 +83,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
+      "clarity": 8.8,
       "originality": 8,
       "emotional_impact": 8.5,
-      "virality_potential": 8.5,
-      "audience_fit": 8.5
+      "virality_potential": 8.6,
+      "audience_fit": 8.8
     },
-    "decision_reason": "Highlights the importance of perseverance"
+    "decision_reason": "meets requirements and has a strong reflective tone"
   }
 ]

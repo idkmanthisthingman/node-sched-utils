@@ -13,38 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "First week back at the gym and I'm reminded why I started. It's not just about the body, it's about building the discipline to chase my dreams. Every rep is a step closer to my goals.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-03-31T06:05:32.526Z"
-      },
-      {
-        "text": "Discipline is not about being perfect, it's about being consistent. 'You don't have to be great to start, but you have to start to be great.'",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-03-31T06:05:32.526Z"
-      },
-      {
-        "text": "You have permission to start small. Building consistency is not about being perfect, it's about showing up every day. #motivation",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-03-31T10:39:26.881Z"
-      },
-      {
         "text": "What's the one thing you can do today to move closer to your goal? For me, it's getting back to the gym after 2 months off.",
         "tone": "casual",
         "format": "question",
@@ -566,16 +534,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-06T06:22:27.823Z"
+      },
+      {
+        "text": "you have permission to start small. showing up to the gym, even when you don't feel like it, is a step closer to your dreams #consistency",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-06T10:43:43.591Z"
+      },
+      {
+        "text": "what's the most mundane habit you've managed to stick to for a week? i'm trying to fix my sleep schedule and it's been a challenge",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-06T10:43:43.591Z"
+      },
+      {
+        "text": "3 things i've learned from my first week back at the gym: every rep is a struggle, consistency is key, and quitting is not an option. the cost of giving up is losing sight of my dreams",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-06T10:43:43.591Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "consistency",
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
       "pain",
       "dreams",
       "discipline",
@@ -599,12 +594,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -621,21 +619,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 27,
-      "motivational": 50,
+      "motivational": 51,
       "empathetic": 51,
-      "casual": 23,
-      "reflective": 47
+      "casual": 24,
+      "reflective": 48
     },
     "format_distribution_7d": {
-      "micro-lesson": 50,
+      "micro-lesson": 51,
       "micro-story": 51,
       "quote-style": 27,
-      "question": 23,
-      "list": 23,
+      "question": 24,
+      "list": 24,
       "progress-log": 24
     }
   },
@@ -647,7 +648,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-06T06:22:25.846Z"
+    "last_analyzed_at": "2026-04-06T10:43:41.178Z"
   },
   "content_library": {
     "proven_hooks": [],
