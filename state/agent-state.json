@@ -13,38 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "First day back at the gym in 2 months and it feels like starting from scratch. But every rep is a reminder that I'm one step closer to my goals. Keep moving forward, no matter how small the step.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "gym",
-          "discipline"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-01T06:17:52.695Z"
-      },
-      {
-        "text": "Discipline is not about being perfect, it's about being consistent. 'Every rep is a step closer to your goals, not a reflection of your worth.'",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-01T06:17:52.695Z"
-      },
-      {
-        "text": "You have permission to not be perfect. Life is about progress, not perfection. Consistency is what gets you closer to your goals.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-01T10:42:17.172Z"
-      },
-      {
         "text": "How many days in a row can you commit to a new habit before it becomes second nature? I'm trying to get back to the gym after 2 months off, and it's been 5 days so far.",
         "tone": "casual",
         "format": "question",
@@ -568,16 +536,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-07T06:07:58.672Z"
+      },
+      {
+        "text": "you have permission to struggle. every gym session, every early morning, is a step closer to your dreams. even when it doesn't feel like it, you're moving forward",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-07T10:43:12.177Z"
+      },
+      {
+        "text": "what's one thing you can do today to move closer to your goals? for me, it's getting back to the gym after 2 months off. small steps, daily",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-07T10:43:12.177Z"
+      },
+      {
+        "text": "3 things i've learned from my first week back at the gym: every rep is a struggle, consistency is key, and the cost of giving up is losing sight of my dreams. don't let fear hold you back",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-07T10:43:12.177Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "life",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -601,12 +596,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "consistency"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -623,21 +621,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 28,
-      "motivational": 52,
+      "motivational": 53,
       "empathetic": 53,
-      "casual": 24,
-      "reflective": 49
+      "casual": 25,
+      "reflective": 50
     },
     "format_distribution_7d": {
-      "micro-lesson": 52,
+      "micro-lesson": 53,
       "micro-story": 53,
       "quote-style": 28,
-      "question": 24,
-      "list": 24,
+      "question": 25,
+      "list": 25,
       "progress-log": 25
     }
   },
@@ -649,7 +650,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-07T06:07:56.277Z"
+    "last_analyzed_at": "2026-04-07T10:43:10.122Z"
   },
   "content_library": {
     "proven_hooks": [],
