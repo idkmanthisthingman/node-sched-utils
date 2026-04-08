@@ -1,6 +1,6 @@
 [
   {
-    "text": "Dropped my gym bag on the floor and just stared at it. 2 months off and the thought of starting again feels like a nightmare. But the pain of not trying is worse than the pain of the first rep. #sacrifice",
+    "text": "Woke up at 5:30, hit the gym, and felt like I was dying. But the pain of not showing up would've been worse. Small wins, daily progress towards my dreams",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
@@ -19,20 +19,20 @@
     },
     "arc_phase": "beginning",
     "hashtags": [
-      "sacrifice"
+      "#sacrifice"
     ],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8.8,
+      "virality_potential": 7.5,
+      "audience_fit": 8
     },
-    "decision_reason": "High emotional impact and originality score"
+    "decision_reason": "meets clarity and emotional impact requirements"
   },
   {
-    "text": "People post their gym gains, but nobody talks about the mornings they didn't want to get up. I'm on week 1 of getting back to the gym and it's been a struggle. But every rep is a reminder that my dreams are worth the sacrifice. #pain",
+    "text": "People post gym selfies, but I'm still trying to get my sleep schedule right. It's not easy, but every rep is a reminder that my dreams are worth the struggle, even when nobody's watching",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -42,25 +42,23 @@
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "pain"
-    ],
+    "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.9,
-      "audience_fit": 0.9
+      "clarity": 8.8,
+      "originality": 8.2,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 8.2
     },
-    "decision_reason": "High clarity, emotional impact, and virality potential"
+    "decision_reason": "meets originality and audience fit requirements"
   }
 ]
