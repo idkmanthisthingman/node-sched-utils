@@ -1,6 +1,6 @@
 [
   {
-    "text": "you have permission to struggle. every gym session, every early morning, is a step closer to your dreams. even when it doesn't feel like it, you're moving forward",
+    "text": "You have permission to take it one day at a time. Getting back to the gym after 2 months off isn't easy, but every rep is a step closer to my dreams",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -18,32 +18,60 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "#consistency"
-    ],
-    "quality_score": 8.5,
+    "hashtags": [],
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.9
     },
-    "decision_reason": "aligns with the current arc phase and audience stage, while also providing a motivational tone"
+    "decision_reason": "aligns with the current storyline and provides a motivational tone"
   },
   {
-    "text": "what's one thing you can do today to move closer to your goals? for me, it's getting back to the gym after 2 months off. small steps, daily",
+    "text": "What's the smallest step you can take today to move closer to your goals? For me, it's getting to the gym 15 minutes earlier than usual",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "life",
-      "consistency"
+      "motivation",
+      "life"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "knowing what to do but not doing it",
+      "pain_point": "lack of consistency",
       "desire": "purposeful daily routine"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [],
+    "quality_score": 7.8,
+    "quality_breakdown": {
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.7,
+      "virality_potential": 0.8,
+      "audience_fit": 0.8
+    },
+    "decision_reason": "provides a casual tone and invites engagement"
+  },
+  {
+    "text": "3 things that happen when you prioritize consistency: you start to see progress, you build discipline, and you realize the cost of giving up is higher than the cost of keeping going",
+    "tone": "reflective",
+    "format": "list",
+    "pillar": [
+      "consistency",
+      "life"
+    ],
+    "psychological_trigger": "stakes_escalation",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "feeling stuck",
+      "desire": "proof discipline pays off"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -53,42 +81,12 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7,
-      "emotional_impact": 8,
-      "virality_potential": 9,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "uses a casual tone and a question format to engage the audience, while also referencing an open storyline"
-  },
-  {
-    "text": "3 things i've learned from my first week back at the gym: every rep is a struggle, consistency is key, and the cost of giving up is losing sight of my dreams. don't let fear hold you back",
-    "tone": "reflective",
-    "format": "list",
-    "pillar": [
-      "motivation",
-      "consistency"
-    ],
-    "psychological_trigger": "stakes_escalation",
-    "hook_template_id": null,
-    "audience_fit": {
-      "pain_point": "fear of failure",
-      "desire": "proof discipline pays off"
-    },
-    "goal_alignment": {
-      "stage": "cold",
-      "objective": "follower_growth"
-    },
-    "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.5,
-    "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8
-    },
-    "decision_reason": "uses a reflective tone and a list format to provide valuable insights, while also escalating the stakes for the audience"
+    "decision_reason": "provides a reflective tone and highlights the importance of consistency"
   }
 ]

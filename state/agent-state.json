@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Going back to the gym after 2 months off isn't easy. But every rep is a reminder that I'm one step closer to my goals. Keep moving forward, no matter how small the step.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-02T05:56:42.209Z"
-      },
-      {
-        "text": "The gym isn't just about physical growth, it's about building discipline. Every rep is a chance to reframe your mindset and prove to yourself that you're capable of more.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-02T05:56:42.209Z"
-      },
-      {
-        "text": "Getting back to the gym after 2 months off isn't easy, but it's a reminder that life is about progress, not perfection. You have permission to start over and try again.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-02T10:35:51.702Z"
-      },
-      {
         "text": "What's the smallest action you can take today to get closer to your goals? For me, it's getting back to the gym after 2 months off, one rep at a time.",
         "tone": "casual",
         "format": "question",
@@ -567,16 +534,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-08T06:09:30.861Z"
+      },
+      {
+        "text": "You have permission to take it one day at a time. Getting back to the gym after 2 months off isn't easy, but every rep is a step closer to my dreams",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-08T10:45:49.502Z"
+      },
+      {
+        "text": "What's the smallest step you can take today to move closer to your goals? For me, it's getting to the gym 15 minutes earlier than usual",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-08T10:45:49.502Z"
+      },
+      {
+        "text": "3 things that happen when you prioritize consistency: you start to see progress, you build discipline, and you realize the cost of giving up is higher than the cost of keeping going",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-08T10:45:49.502Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "life",
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
       "pain",
       "dreams",
       "discipline",
@@ -600,12 +594,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "motivation",
+      "life",
+      "consistency",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -622,21 +619,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 29,
-      "motivational": 54,
+      "motivational": 55,
       "empathetic": 55,
-      "casual": 25,
-      "reflective": 51
+      "casual": 26,
+      "reflective": 52
     },
     "format_distribution_7d": {
-      "micro-lesson": 54,
+      "micro-lesson": 55,
       "micro-story": 55,
       "quote-style": 29,
-      "question": 25,
-      "list": 25,
+      "question": 26,
+      "list": 26,
       "progress-log": 26
     }
   },
@@ -648,7 +648,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-08T06:09:28.726Z"
+    "last_analyzed_at": "2026-04-08T10:45:47.398Z"
   },
   "content_library": {
     "proven_hooks": [],
