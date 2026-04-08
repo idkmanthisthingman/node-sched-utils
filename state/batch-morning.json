@@ -1,6 +1,6 @@
 [
   {
-    "text": "You're not a morning person, you're just not a person who's found a reason to get up yet. My 2-month gym hiatus ended because my dreams were louder than my excuses.",
+    "text": "Your excuses are valid, but are they worth giving up on your dreams? Been back at the gym for a week and it's a constant battle between pain and progress. #discipline",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -18,20 +18,22 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.2,
+    "hashtags": [
+      "discipline"
+    ],
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 8.5,
-      "emotional_impact": 8,
-      "virality_potential": 7.5,
-      "audience_fit": 8.5
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "High originality and audience fit score"
+    "decision_reason": "directly addresses the audience's pain point of feeling stuck"
   },
   {
-    "text": "First week back at the gym and it's been a struggle. But every rep is a step closer to my dreams. I'm not alone in this, right?",
-    "tone": "empathetic",
+    "text": "first week back at the gym and i'm already seeing progress. not because it's easy, but because it's worth it. every rep is a step closer to my dreams",
+    "tone": "motivational",
     "format": "micro-story",
     "pillar": [
       "discipline",
@@ -40,8 +42,8 @@
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -49,19 +51,19 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 7,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.6,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "High emotional impact and clarity score"
+    "decision_reason": "encourages the audience to take action"
   },
   {
-    "text": "'Discipline is the bridge between goals and accomplishment.' Still trying to fix my sleep schedule, but every gym session feels like a victory.",
-    "tone": "motivational",
+    "text": "'the only bad workout is the one that didn't happen.' still trying to fix my sleep schedule, but every gym session feels like a victory",
+    "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
       "discipline",
@@ -70,8 +72,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "pain_point": "knowing what to do but not doing it",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +81,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 7.2,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.7,
+      "virality_potential": 0.6,
+      "audience_fit": 0.8
     },
-    "decision_reason": "High clarity and audience fit score"
+    "decision_reason": "provides a fresh perspective on working out"
   }
 ]
