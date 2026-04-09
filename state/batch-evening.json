@@ -1,11 +1,12 @@
 [
   {
-    "text": "Woke up at 5:30, hit the gym, and felt like I was dying. But the pain of not showing up would've been worse. Small wins, daily progress towards my dreams",
+    "text": "Two months off gym, now I'm back. Every rep is a reminder that my dreams are worth the pain. Still trying to fix my sleep schedule, but progress is progress.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
       "sacrifice",
-      "pain"
+      "pain",
+      "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
     "hook_template_id": null,
@@ -18,32 +19,31 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "#sacrifice"
-    ],
-    "quality_score": 8.2,
+    "hashtags": [],
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8.8,
-      "virality_potential": 7.5,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "meets clarity and emotional impact requirements"
+    "decision_reason": "meets all requirements and has a high quality score"
   },
   {
-    "text": "People post gym selfies, but I'm still trying to get my sleep schedule right. It's not easy, but every rep is a reminder that my dreams are worth the struggle, even when nobody's watching",
+    "text": "I see people posting their fitness journeys, but what about the sacrifices they made to get there? The early mornings, the soreness, the doubt. That's the part that matters, not just the end result.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
+      "sacrifice",
       "pain",
       "dreams"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
-      "desire": "purposeful daily routine"
+      "pain_point": "comparison spirals",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 8.8,
-      "originality": 8.2,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8.2
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "meets originality and audience fit requirements"
+    "decision_reason": "meets all requirements and has a high quality score"
   }
 ]
