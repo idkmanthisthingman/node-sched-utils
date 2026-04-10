@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to start small. Every gym session, every healthy meal, is a step closer to your dreams. Don't wait for motivation, create it.",
+    "text": "You have permission to take it one day at a time. Building consistency is hard, but it's worth it. Every small win adds up to a bigger victory in life.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -18,25 +18,23 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "#fitnessjourney"
-    ],
-    "quality_score": 8.2,
+    "hashtags": [],
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "directly addresses the audience's pain point and desire"
+    "decision_reason": "Motivational post to encourage taking small steps towards building consistency."
   },
   {
-    "text": "What's one thing you can do today to move closer to your goals? For me, it's getting back to the gym after 2 months off. Time to build consistency and make progress.",
+    "text": "What's the smallest habit you can build today that'll move you closer to your goals? For me, it's showing up to the gym 3 times a week, no matter how sore I am.",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "life",
+      "motivation",
       "consistency"
     ],
     "psychological_trigger": "specificity_shock",
@@ -51,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.9,
+    "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7.5,
-      "emotional_impact": 7.8,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.7,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "relatable and open-ended, encouraging audience engagement"
+    "decision_reason": "Casual post to encourage building small habits and sharing personal experiences."
   },
   {
-    "text": "3 things that happen when you prioritize consistency: you build discipline, you make progress, and you realize the cost of giving up is higher than the cost of keeping going. My journey back to the gym is just beginning.",
+    "text": "3 things that happen when you don't build consistency: you lose momentum, you forget your why, and you give up on your dreams. The cost of inaction is higher than the cost of keeping going.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -72,7 +70,7 @@
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "knowing what to do but not doing it",
+      "pain_point": "feeling stuck",
       "desire": "being someone people notice changed"
     },
     "goal_alignment": {
@@ -80,17 +78,15 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "#consistency"
-    ],
-    "quality_score": 8.5,
+    "hashtags": [],
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.8,
-      "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8.8,
-      "audience_fit": 8.2
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "highlights the importance of consistency and its benefits"
+    "decision_reason": "Reflective post to highlight the importance of building consistency and the costs of inaction."
   }
 ]
