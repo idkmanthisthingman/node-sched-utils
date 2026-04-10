@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's one thing you can do daily to build consistency, even when you don't feel like it? For me, it's showing up to the gym, no matter what.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "consistency",
-          "life"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-04T09:24:39.142Z"
-      },
-      {
-        "text": "3 things I've learned from trying to get back on track: every small step matters, consistency is key, and it's okay to struggle. The cost of giving up is losing sight of your goals #fitnessjourney",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-04T09:24:39.142Z"
-      },
-      {
         "text": "I used to think gym days were for fitness enthusiasts. Now I'm back at it after 2 months off, and it's a struggle. But my dreams are worth the pain of getting back on track.",
         "tone": "reflective",
         "format": "micro-story",
@@ -567,16 +545,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-10T10:40:39.898Z"
+      },
+      {
+        "text": "Woke up at 5:30, still trying to fix my sleep schedule. Went back to the gym after 2 months off, every rep is a reminder my dreams are worth the pain. Sacrifices aren't easy, but progress is progress.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-10T16:11:45.857Z"
+      },
+      {
+        "text": "People post their fitness progress, but nobody talks about the sacrifices they made to get there. I'm not just talking about the gym, I'm talking about the early mornings, the soreness, the doubt. That's the part that matters.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-10T16:11:45.857Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "discipline",
-      "gym",
-      "gym",
-      "discipline",
-      "discipline",
-      "gym",
       "motivation",
       "consistency",
       "life",
@@ -600,11 +596,15 @@
       "motivation",
       "consistency",
       "motivation",
-      "life"
+      "life",
+      "sacrifice",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -622,22 +622,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 31,
       "motivational": 59,
-      "empathetic": 59,
+      "empathetic": 60,
       "casual": 28,
-      "reflective": 56
+      "reflective": 57
     },
     "format_distribution_7d": {
       "micro-lesson": 59,
-      "micro-story": 59,
+      "micro-story": 60,
       "quote-style": 31,
       "question": 28,
       "list": 28,
-      "progress-log": 28
+      "progress-log": 29
     }
   },
   "performance": {
@@ -648,7 +650,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-10T10:40:38.090Z"
+    "last_analyzed_at": "2026-04-10T16:11:44.362Z"
   },
   "content_library": {
     "proven_hooks": [],
