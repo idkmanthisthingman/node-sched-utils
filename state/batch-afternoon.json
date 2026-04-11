@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to take it one day at a time. Building consistency is hard, but it's worth it. Every small win adds up to a bigger victory in life.",
+    "text": "You have permission to start small. Building consistency is key to unlocking motivation in life. Every tiny step forward is a win.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -19,22 +19,22 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
+      "clarity": 0.9,
+      "originality": 0.8,
       "emotional_impact": 0.8,
       "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "audience_fit": 0.9
     },
-    "decision_reason": "Motivational post to encourage taking small steps towards building consistency."
+    "decision_reason": "Directly addresses the pain point of feeling stuck and gives permission to start small."
   },
   {
-    "text": "What's the smallest habit you can build today that'll move you closer to your goals? For me, it's showing up to the gym 3 times a week, no matter how sore I am.",
+    "text": "I'm on day 5 of trying to fix my sleep schedule and it's been a struggle. Anyone else have to restart their routine from scratch?",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "motivation",
+      "life",
       "consistency"
     ],
     "psychological_trigger": "specificity_shock",
@@ -49,28 +49,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.8,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.7,
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
       "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "audience_fit": 0.8
     },
-    "decision_reason": "Casual post to encourage building small habits and sharing personal experiences."
+    "decision_reason": "References an ongoing storyline and invites engagement."
   },
   {
-    "text": "3 things that happen when you don't build consistency: you lose momentum, you forget your why, and you give up on your dreams. The cost of inaction is higher than the cost of keeping going.",
+    "text": "3 things that'll happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
+      "pain_point": "comparing to others",
       "desire": "being someone people notice changed"
     },
     "goal_alignment": {
@@ -79,7 +79,7 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.5,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
@@ -87,6 +87,6 @@
       "virality_potential": 0.8,
       "audience_fit": 0.9
     },
-    "decision_reason": "Reflective post to highlight the importance of building consistency and the costs of inaction."
+    "decision_reason": "Clearly outlines the consequences of not prioritizing consistency."
   }
 ]

@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "First day back at the gym after 2 months off and I'm already feeling like quitting. But I know every rep is a step closer to my dreams.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-05T06:03:03.112Z"
-      },
-      {
-        "text": "Discipline is not about being perfect, it's about being consistent. 'Every sweat drop is a reminder that I'm one step closer to my goals.'",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-05T06:03:03.112Z"
-      },
-      {
-        "text": "You have permission to take it one step at a time. Getting back on track with fitness and life doesn't require a huge leap, just small, consistent actions.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-05T09:26:22.782Z"
-      },
-      {
         "text": "What's the smallest action you can take today to build consistency in your daily routine? For me, it's showing up to the gym, even when I don't feel like it.",
         "tone": "casual",
         "format": "question",
@@ -567,16 +534,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-11T05:41:06.826Z"
+      },
+      {
+        "text": "You have permission to start small. Building consistency is key to unlocking motivation in life. Every tiny step forward is a win.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-11T09:28:58.091Z"
+      },
+      {
+        "text": "I'm on day 5 of trying to fix my sleep schedule and it's been a struggle. Anyone else have to restart their routine from scratch?",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-11T09:28:58.091Z"
+      },
+      {
+        "text": "3 things that'll happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-11T09:28:58.091Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -600,12 +594,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "consistency"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -622,21 +619,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 32,
-      "motivational": 60,
+      "motivational": 61,
       "empathetic": 61,
-      "casual": 28,
-      "reflective": 57
+      "casual": 29,
+      "reflective": 58
     },
     "format_distribution_7d": {
-      "micro-lesson": 60,
+      "micro-lesson": 61,
       "micro-story": 61,
       "quote-style": 32,
-      "question": 28,
-      "list": 28,
+      "question": 29,
+      "list": 29,
       "progress-log": 29
     }
   },
@@ -648,7 +648,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-11T05:41:04.508Z"
+    "last_analyzed_at": "2026-04-11T09:28:55.823Z"
   },
   "content_library": {
     "proven_hooks": [],
