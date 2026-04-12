@@ -1,11 +1,11 @@
 [
   {
-    "text": "Woke up at 5:30, still trying to fix my sleep schedule. Every rep at the gym is a reminder my dreams are worth the pain. Sacrifices aren't easy, but progress is progress.",
+    "text": "Went back to the gym after 2 months off. First week was brutal, but every painful rep reminds me that my dreams are worth the sacrifice. Small steps, big goals.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
-      "sacrifice",
       "pain",
+      "sacrifice",
       "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
@@ -22,16 +22,16 @@
     "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 8.5,
+      "originality": 8,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "References open storyline and uses tone to connect with the audience"
+    "decision_reason": "Meets all requirements and is engaging."
   },
   {
-    "text": "People post their fitness journeys, but what about those who are struggling to get back on track? I see you, and I'm with you. Every small step towards your dreams is a win, even when it feels like a loss.",
+    "text": "I see you, struggling to get back on track. It's hard to prioritize your life when everything else feels overwhelming. Remember, every small step towards your dreams is a win, even when it feels like a loss.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -42,8 +42,8 @@
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparing themselves to others",
-      "desire": "being someone people notice changed"
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -53,12 +53,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8,
+      "clarity": 9,
+      "originality": 8.5,
       "emotional_impact": 9,
-      "virality_potential": 8.5,
-      "audience_fit": 9
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Uses empathy to connect with the audience and acknowledges their struggles"
+    "decision_reason": "High emotional impact and originality."
   }
 ]
