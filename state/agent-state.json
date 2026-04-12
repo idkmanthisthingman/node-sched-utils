@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "2 months off gym and I'm back. Not because I'm motivated, but because my dreams are worth the struggle. Small steps, daily.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-06T06:22:27.823Z"
-      },
-      {
-        "text": "'Discipline is the bridge between goals and accomplishment.' Still trying to fix my sleep schedule, but every gym session feels like a victory.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-06T06:22:27.823Z"
-      },
-      {
-        "text": "you have permission to start small. showing up to the gym, even when you don't feel like it, is a step closer to your dreams #consistency",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-06T10:43:43.591Z"
-      },
-      {
         "text": "what's the most mundane habit you've managed to stick to for a week? i'm trying to fix my sleep schedule and it's been a challenge",
         "tone": "casual",
         "format": "question",
@@ -569,16 +536,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-12T06:14:50.528Z"
+      },
+      {
+        "text": "You have permission to prioritize your life, even when it feels like everything else is taking over. Start small, be consistent, and watch motivation follow.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-12T10:03:55.217Z"
+      },
+      {
+        "text": "What's the smallest habit you can build today to move closer to your goals? I'm trying to fix my sleep schedule, one 5:30 am wake-up at a time.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-12T10:03:55.217Z"
+      },
+      {
+        "text": "3 ways inconsistency holds you back: loses motivation, forgets goals, and gives up on dreams. The cost of not showing up is real. Don't let it happen to you.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "consistency",
+          "motivation"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-12T10:03:55.217Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -602,12 +596,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "life",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -624,21 +621,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 33,
-      "motivational": 62,
+      "motivational": 63,
       "empathetic": 63,
-      "casual": 29,
-      "reflective": 59
+      "casual": 30,
+      "reflective": 60
     },
     "format_distribution_7d": {
-      "micro-lesson": 62,
+      "micro-lesson": 63,
       "micro-story": 63,
       "quote-style": 33,
-      "question": 29,
-      "list": 29,
+      "question": 30,
+      "list": 30,
       "progress-log": 30
     }
   },
@@ -650,7 +650,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-12T06:14:48.455Z"
+    "last_analyzed_at": "2026-04-12T10:03:53.217Z"
   },
   "content_library": {
     "proven_hooks": [],
