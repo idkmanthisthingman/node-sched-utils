@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "what's one thing you can do today to move closer to your goals? for me, it's getting back to the gym after 2 months off. small steps, daily",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "life",
-          "consistency"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-07T10:43:12.177Z"
-      },
-      {
-        "text": "3 things i've learned from my first week back at the gym: every rep is a struggle, consistency is key, and the cost of giving up is losing sight of my dreams. don't let fear hold you back",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-07T10:43:12.177Z"
-      },
-      {
         "text": "Dropped my gym bag on the floor and just stared at it. 2 months off and the thought of starting again feels like a nightmare. But the pain of not trying is worse than the pain of the first rep. #sacrifice",
         "tone": "reflective",
         "format": "micro-story",
@@ -568,16 +546,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-13T11:55:52.984Z"
+      },
+      {
+        "text": "2 months off the gym and I thought I'd lost all progress. But every painful rep now is a reminder that my dreams are worth the sacrifice. Still getting back into it, one rep at a time.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "pain",
+          "sacrifice",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-13T16:50:38.275Z"
+      },
+      {
+        "text": "I see you, struggling to get back on track. It's hard to prioritize your life when everything else feels overwhelming. Remember, every small step towards your dreams, no matter how painful, is a win.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "pain",
+          "sacrifice",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-13T16:50:38.275Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "dreams",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
-      "discipline",
       "gym",
       "motivation",
       "life",
@@ -601,11 +597,15 @@
       "life",
       "consistency",
       "motivation",
-      "life"
+      "life",
+      "pain",
+      "sacrifice",
+      "dreams",
+      "pain",
+      "sacrifice",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -623,22 +623,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 34,
       "motivational": 65,
-      "empathetic": 65,
+      "empathetic": 66,
       "casual": 31,
-      "reflective": 62
+      "reflective": 63
     },
     "format_distribution_7d": {
       "micro-lesson": 65,
-      "micro-story": 65,
+      "micro-story": 66,
       "quote-style": 34,
       "question": 31,
       "list": 31,
-      "progress-log": 31
+      "progress-log": 32
     }
   },
   "performance": {
@@ -649,7 +651,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-13T11:55:50.660Z"
+    "last_analyzed_at": "2026-04-13T16:50:36.529Z"
   },
   "content_library": {
     "proven_hooks": [],
