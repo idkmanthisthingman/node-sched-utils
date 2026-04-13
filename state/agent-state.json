@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "First week back at the gym and it's been a struggle. But every rep is a step closer to my dreams. I'm not alone in this, right?",
-        "tone": "empathetic",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-07T06:07:58.672Z"
-      },
-      {
-        "text": "'Discipline is the bridge between goals and accomplishment.' Still trying to fix my sleep schedule, but every gym session feels like a victory.",
-        "tone": "motivational",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-07T06:07:58.672Z"
-      },
-      {
-        "text": "you have permission to struggle. every gym session, every early morning, is a step closer to your dreams. even when it doesn't feel like it, you're moving forward",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-07T10:43:12.177Z"
-      },
-      {
         "text": "what's one thing you can do today to move closer to your goals? for me, it's getting back to the gym after 2 months off. small steps, daily",
         "tone": "casual",
         "format": "question",
@@ -568,16 +535,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-13T07:38:45.509Z"
+      },
+      {
+        "text": "You have permission to start small and be inconsistent at first. It's okay to not have it all together, you'll get there. Consistency is a skill, not a trait.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-13T11:55:52.984Z"
+      },
+      {
+        "text": "What's the one thing you can do today to move closer to your goals? I'm trying to get back on track with my gym routine after 2 months off.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-13T11:55:52.984Z"
+      },
+      {
+        "text": "3 things that happen when you don't prioritize your life: you lose motivation, you forget your goals, and you give up on your dreams. The cost of inaction is real.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-13T11:55:52.984Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "consistency",
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
       "dreams",
       "discipline",
       "gym",
@@ -601,12 +595,15 @@
       "gym",
       "gym",
       "discipline",
-      "discipline"
+      "discipline",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -623,21 +620,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 34,
-      "motivational": 64,
+      "motivational": 65,
       "empathetic": 65,
-      "casual": 30,
-      "reflective": 61
+      "casual": 31,
+      "reflective": 62
     },
     "format_distribution_7d": {
-      "micro-lesson": 64,
+      "micro-lesson": 65,
       "micro-story": 65,
       "quote-style": 34,
-      "question": 30,
-      "list": 30,
+      "question": 31,
+      "list": 31,
       "progress-log": 31
     }
   },
@@ -649,7 +649,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-13T07:38:43.269Z"
+    "last_analyzed_at": "2026-04-13T11:55:50.660Z"
   },
   "content_library": {
     "proven_hooks": [],

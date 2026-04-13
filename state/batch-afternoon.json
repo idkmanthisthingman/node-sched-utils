@@ -1,11 +1,11 @@
 [
   {
-    "text": "You have permission to prioritize your life, even when it feels like everything else is taking over. Start small, be consistent, and watch motivation follow.",
+    "text": "You have permission to start small and be inconsistent at first. It's okay to not have it all together, you'll get there. Consistency is a skill, not a trait.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -19,29 +19,59 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
+      "clarity": 8,
+      "originality": 7,
+      "emotional_impact": 7.5,
+      "virality_potential": 7,
       "audience_fit": 8
     },
-    "decision_reason": "Motivational tone aligns with the goal of follower growth, and the permission slip trigger encourages action."
+    "decision_reason": "Addresses the audience's pain point of feeling stuck and gives them permission to start small."
   },
   {
-    "text": "What's the smallest habit you can build today to move closer to your goals? I'm trying to fix my sleep schedule, one 5:30 am wake-up at a time.",
+    "text": "What's the one thing you can do today to move closer to your goals? I'm trying to get back on track with my gym routine after 2 months off.",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "consistency",
-      "life"
+      "life",
+      "consistency"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "struggling with consistency",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
+    },
+    "goal_alignment": {
+      "stage": "cold",
+      "objective": "follower_growth"
+    },
+    "arc_phase": "beginning",
+    "hashtags": [],
+    "quality_score": 7.8,
+    "quality_breakdown": {
+      "clarity": 8.5,
+      "originality": 7.5,
+      "emotional_impact": 7,
+      "virality_potential": 8,
+      "audience_fit": 8
+    },
+    "decision_reason": "References an open storyline and asks a question to engage the audience."
+  },
+  {
+    "text": "3 things that happen when you don't prioritize your life: you lose motivation, you forget your goals, and you give up on your dreams. The cost of inaction is real.",
+    "tone": "reflective",
+    "format": "list",
+    "pillar": [
+      "motivation",
+      "life"
+    ],
+    "psychological_trigger": "stakes_escalation",
+    "hook_template_id": null,
+    "audience_fit": {
+      "pain_point": "feeling stuck",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -52,41 +82,11 @@
     "quality_score": 8,
     "quality_breakdown": {
       "clarity": 8,
-      "originality": 7.5,
+      "originality": 8,
       "emotional_impact": 8,
       "virality_potential": 8,
       "audience_fit": 8
     },
-    "decision_reason": "Casual tone and question format invite engagement, and the specificity shock trigger encourages tangible action."
-  },
-  {
-    "text": "3 ways inconsistency holds you back: loses motivation, forgets goals, and gives up on dreams. The cost of not showing up is real. Don't let it happen to you.",
-    "tone": "reflective",
-    "format": "list",
-    "pillar": [
-      "consistency",
-      "motivation"
-    ],
-    "psychological_trigger": "stakes_escalation",
-    "hook_template_id": null,
-    "audience_fit": {
-      "pain_point": "losing consistency after 2-3 weeks",
-      "desire": "proof discipline pays off"
-    },
-    "goal_alignment": {
-      "stage": "cold",
-      "objective": "follower_growth"
-    },
-    "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.5,
-    "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8.5,
-      "audience_fit": 8.5
-    },
-    "decision_reason": "Reflective tone and list format convey the importance of consistency, and the stakes escalation trigger emphasizes the cost of inaction."
+    "decision_reason": "Highlights the consequences of not taking action and aligns with the audience's desire for change."
   }
 ]
