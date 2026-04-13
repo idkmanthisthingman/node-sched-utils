@@ -1,6 +1,6 @@
 [
   {
-    "text": "You're not a beginner, you're just inconsistent. Discipline is what separates you from your excuses. Every rep at the gym is a chance to prove yourself.",
+    "text": "Your excuses are holding you back. I know because I've been there. Took 2 months off the gym and it felt like starting over. Discipline is what gets you back on track.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -10,7 +10,7 @@
     "psychological_trigger": "identity_threat",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
+      "pain_point": "inconsistency",
       "desire": "visible physical progress"
     },
     "goal_alignment": {
@@ -19,28 +19,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
+      "clarity": 0.8,
+      "originality": 0.7,
       "emotional_impact": 0.8,
       "virality_potential": 0.7,
-      "audience_fit": 0.9
+      "audience_fit": 0.8
     },
-    "decision_reason": "Directly addresses the audience's inconsistency and lack of discipline, using a tough-love tone to provoke action."
+    "decision_reason": "uses a relatable example to highlight the importance of discipline"
   },
   {
-    "text": "I'm on day 10 of getting back to the gym and it's been a grind. But every sweat drop reminds me that I'm one step closer to my dreams. What's driving you to keep pushing forward?",
+    "text": "Getting back to the gym after 2 months off isn't easy. But every rep is a reminder that I'm capable of more than I thought. Keep pushing, even when it's hard.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
-      "discipline",
-      "gym"
+      "gym",
+      "discipline"
     ],
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "feeling stuck",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,29 +49,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.6,
-      "audience_fit": 0.8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Shares a personal story of struggle and perseverance, using a motivational tone to inspire the audience to keep pushing forward."
+    "decision_reason": "uses a personal story to motivate and inspire"
   },
   {
-    "text": " Discipline is not about being perfect, it's about being present. Every rep, every sweat drop, is a chance to show up and prove to yourself that you're worthy of your dreams.",
+    "text": "Discipline isn't about being perfect, it's about being consistent. Every day is a new chance to get it right, even if you didn't yesterday.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
-      "discipline",
-      "gym"
+      "discipline"
     ],
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling unworthy",
-      "desire": "being someone people notice changed"
+      "pain_point": "inconsistency",
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,7 +78,7 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 7.9,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
@@ -87,6 +86,6 @@
       "virality_potential": 0.8,
       "audience_fit": 0.9
     },
-    "decision_reason": "Offers a compassionate and nuanced view of discipline, reframing it as a chance to show up and prove oneself worthy of their dreams."
+    "decision_reason": "offers a new perspective on discipline and consistency"
   }
 ]
