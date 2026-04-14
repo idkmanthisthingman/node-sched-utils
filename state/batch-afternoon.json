@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to start small and be inconsistent at first. It's okay to not have it all together, you'll get there. Consistency is a skill, not a trait.",
+    "text": "You have permission to not be motivated yet. Showing up is what matters. Consistency will come with time.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.5,
+    "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7,
-      "emotional_impact": 7.5,
-      "virality_potential": 7,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Addresses the audience's pain point of feeling stuck and gives them permission to start small."
+    "decision_reason": "aligns with the goal of follower growth and addresses the pain point of feeling stuck"
   },
   {
-    "text": "What's the one thing you can do today to move closer to your goals? I'm trying to get back on track with my gym routine after 2 months off.",
+    "text": "What's one thing you're doing daily to move closer to your goals? I'm trying to get back on track with my gym routine after 2 months off.",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -40,7 +40,7 @@
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "losing consistency after 2-3 weeks",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.8,
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.5,
-      "emotional_impact": 7,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.6,
+      "emotional_impact": 0.7,
+      "virality_potential": 0.8,
+      "audience_fit": 0.7
     },
-    "decision_reason": "References an open storyline and asks a question to engage the audience."
+    "decision_reason": "engages the audience and references an open storyline"
   },
   {
-    "text": "3 things that happen when you don't prioritize your life: you lose motivation, you forget your goals, and you give up on your dreams. The cost of inaction is real.",
+    "text": "3 things that will happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -70,8 +70,8 @@
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "being someone people notice changed"
+      "pain_point": "knowing what to do but not doing it",
+      "desire": "proof discipline pays off"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.1,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 8,
-      "emotional_impact": 8,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Highlights the consequences of not taking action and aligns with the audience's desire for change."
+    "decision_reason": "highlights the importance of consistency and motivation"
   }
 ]

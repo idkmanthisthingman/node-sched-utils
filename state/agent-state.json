@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "first week back at the gym and i'm already seeing progress. not because it's easy, but because it's worth it. every rep is a step closer to my dreams",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-08T06:09:30.861Z"
-      },
-      {
-        "text": "'the only bad workout is the one that didn't happen.' still trying to fix my sleep schedule, but every gym session feels like a victory",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-08T06:09:30.861Z"
-      },
-      {
-        "text": "You have permission to take it one day at a time. Getting back to the gym after 2 months off isn't easy, but every rep is a step closer to my dreams",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-08T10:45:49.502Z"
-      },
-      {
         "text": "What's the smallest step you can take today to move closer to your goals? For me, it's getting to the gym 15 minutes earlier than usual",
         "tone": "casual",
         "format": "question",
@@ -570,16 +537,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-14T06:26:53.332Z"
+      },
+      {
+        "text": "You have permission to not be motivated yet. Showing up is what matters. Consistency will come with time.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-14T11:37:56.358Z"
+      },
+      {
+        "text": "What's one thing you're doing daily to move closer to your goals? I'm trying to get back on track with my gym routine after 2 months off.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-14T11:37:56.358Z"
+      },
+      {
+        "text": "3 things that will happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-14T11:37:56.358Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "pain",
-      "sacrifice",
-      "dreams",
-      "sacrifice",
-      "pain",
       "dreams",
       "discipline",
       "gym",
@@ -603,12 +597,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -625,21 +622,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 35,
-      "motivational": 66,
+      "motivational": 67,
       "empathetic": 67,
-      "casual": 31,
-      "reflective": 63
+      "casual": 32,
+      "reflective": 64
     },
     "format_distribution_7d": {
-      "micro-lesson": 66,
+      "micro-lesson": 67,
       "micro-story": 67,
       "quote-style": 35,
-      "question": 31,
-      "list": 31,
+      "question": 32,
+      "list": 32,
       "progress-log": 32
     }
   },
@@ -651,7 +651,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-14T06:26:51.402Z"
+    "last_analyzed_at": "2026-04-14T11:37:54.584Z"
   },
   "content_library": {
     "proven_hooks": [],
