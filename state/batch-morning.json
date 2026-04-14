@@ -1,6 +1,6 @@
 [
   {
-    "text": "Your excuses are holding you back. I know because I've been there. Took 2 months off the gym and it felt like starting over. Discipline is what gets you back on track.",
+    "text": "Discipline isn't about being perfect, it's about showing up. 2 months off the gym and I'm still getting back into it, one painful rep at a time.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -10,7 +10,7 @@
     "psychological_trigger": "identity_threat",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "inconsistency",
+      "pain_point": "feeling stuck",
       "desire": "visible physical progress"
     },
     "goal_alignment": {
@@ -19,28 +19,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "uses a relatable example to highlight the importance of discipline"
+    "decision_reason": "aligns with audience's struggle to get back on track"
   },
   {
-    "text": "Getting back to the gym after 2 months off isn't easy. But every rep is a reminder that I'm capable of more than I thought. Keep pushing, even when it's hard.",
+    "text": "Your morning routine sets the tone for the day. I've been trying to wake up at 5:30 and get to the gym, but it's been a struggle. Every small win counts, even on the tough days.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
-      "gym",
-      "discipline"
+      "discipline",
+      "gym"
     ],
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,27 +49,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.8,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.2,
+      "originality": 7.5,
+      "emotional_impact": 8.2,
+      "virality_potential": 8,
+      "audience_fit": 8.2
     },
-    "decision_reason": "uses a personal story to motivate and inspire"
+    "decision_reason": "relatable storyline with an open-ended challenge"
   },
   {
-    "text": "Discipline isn't about being perfect, it's about being consistent. Every day is a new chance to get it right, even if you didn't yesterday.",
+    "text": "The gym isn't a place to escape, it's a place to face yourself. Every rep is a reminder that you're capable of more than you thought.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
-      "discipline"
+      "discipline",
+      "gym"
     ],
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "inconsistency",
+      "pain_point": "feeling stuck",
       "desire": "visible physical progress"
     },
     "goal_alignment": {
@@ -78,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.9,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.8,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "offers a new perspective on discipline and consistency"
+    "decision_reason": "provides a new perspective on the gym experience"
   }
 ]
