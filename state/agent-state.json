@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "We all struggle to get out of bed for that early morning gym session. But every rep is a step closer to our dreams. I'm on week 1 of getting back to the gym and it's a daily battle between pain and progress",
-        "tone": "empathetic",
-        "format": "micro-story",
-        "pillar": [
-          "gym",
-          "discipline"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-09T06:09:17.389Z"
-      },
-      {
-        "text": "Progress is not about being better than others, it's about being better than you were yesterday. Every gym session is a chance to reframe my mindset and push closer to my dreams",
-        "tone": "motivational",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-09T06:09:17.389Z"
-      },
-      {
-        "text": "You have permission to start small. Every gym session, every healthy meal, is a step closer to your dreams. Don't wait for motivation, create it.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-09T11:16:57.937Z"
-      },
-      {
         "text": "What's one thing you can do today to move closer to your goals? For me, it's getting back to the gym after 2 months off. Time to build consistency and make progress.",
         "tone": "casual",
         "format": "question",
@@ -572,16 +539,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-15T03:47:44.643Z"
+      },
+      {
+        "text": "You have permission to start small. Consistency is key, even if it's just 10 minutes a day. Every small win counts towards your goals.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-15T09:03:14.490Z"
+      },
+      {
+        "text": "I've been trying to get back to the gym after 2 months off. The first week, I could only do 3 sets of 8 reps. Now, I'm at 4 sets of 10. Progress is slow, but it's real.",
+        "tone": "casual",
+        "format": "micro-story",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-15T09:03:14.490Z"
+      },
+      {
+        "text": "3 things that will happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-15T09:03:14.490Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "pain",
-      "sacrifice",
-      "dreams",
-      "pain",
-      "sacrifice",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -605,12 +599,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -627,21 +624,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 36,
-      "motivational": 68,
+      "motivational": 69,
       "empathetic": 69,
-      "casual": 32,
-      "reflective": 65
+      "casual": 33,
+      "reflective": 66
     },
     "format_distribution_7d": {
-      "micro-lesson": 68,
-      "micro-story": 69,
+      "micro-lesson": 69,
+      "micro-story": 70,
       "quote-style": 36,
       "question": 32,
-      "list": 32,
+      "list": 33,
       "progress-log": 33
     }
   },
@@ -653,7 +653,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-15T03:47:42.167Z"
+    "last_analyzed_at": "2026-04-15T09:03:12.505Z"
   },
   "content_library": {
     "proven_hooks": [],
