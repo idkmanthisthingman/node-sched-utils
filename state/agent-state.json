@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's one thing you can do today to move closer to your goals? For me, it's getting back to the gym after 2 months off. Time to build consistency and make progress.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "life",
-          "consistency"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-09T11:16:57.938Z"
-      },
-      {
-        "text": "3 things that happen when you prioritize consistency: you build discipline, you make progress, and you realize the cost of giving up is higher than the cost of keeping going. My journey back to the gym is just beginning.",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-09T11:16:57.938Z"
-      },
-      {
         "text": "Two months off gym, now I'm back. Every rep is a reminder that my dreams are worth the pain. Still trying to fix my sleep schedule, but progress is progress.",
         "tone": "reflective",
         "format": "micro-story",
@@ -572,16 +550,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-15T09:03:14.490Z"
+      },
+      {
+        "text": "Painful reps and early mornings. Still trying to fix my sleep schedule after moving to a new place. 2 months off the gym was a setback, but every rep now reminds me my dreams are worth the sacrifice.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "pain",
+          "sacrifice",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-15T14:51:51.145Z"
+      },
+      {
+        "text": "I see you, struggling to get back on track. It's tough, but every small step towards your dreams, no matter how painful, is a win. My own journey back to the gym has been tough, but it's a reminder that showing up is what matters.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-15T14:51:51.146Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "motivation",
       "consistency",
       "life",
@@ -605,11 +601,15 @@
       "life",
       "consistency",
       "motivation",
-      "life"
+      "life",
+      "pain",
+      "sacrifice",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -627,22 +627,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 36,
       "motivational": 69,
-      "empathetic": 69,
+      "empathetic": 70,
       "casual": 33,
-      "reflective": 66
+      "reflective": 67
     },
     "format_distribution_7d": {
       "micro-lesson": 69,
-      "micro-story": 70,
+      "micro-story": 71,
       "quote-style": 36,
       "question": 32,
       "list": 33,
-      "progress-log": 33
+      "progress-log": 34
     }
   },
   "performance": {
@@ -653,7 +655,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-15T09:03:12.505Z"
+    "last_analyzed_at": "2026-04-15T14:51:49.359Z"
   },
   "content_library": {
     "proven_hooks": [],

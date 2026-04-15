@@ -1,11 +1,11 @@
 [
   {
-    "text": "I thought I'd lost all progress after 2 months off the gym. But every painful rep now reminds me my dreams are worth the sacrifice. Still, it's hard to prioritize when everything else feels overwhelming.",
+    "text": "Painful reps and early mornings. Still trying to fix my sleep schedule after moving to a new place. 2 months off the gym was a setback, but every rep now reminds me my dreams are worth the sacrifice.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
-      "sacrifice",
       "pain",
+      "sacrifice",
       "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
@@ -19,7 +19,9 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
+    "hashtags": [
+      "fitnessjourney"
+    ],
     "quality_score": 7.8,
     "quality_breakdown": {
       "clarity": 0.8,
@@ -28,10 +30,10 @@
       "virality_potential": 0.7,
       "audience_fit": 0.8
     },
-    "decision_reason": "Meets all requirements and is under 280 characters."
+    "decision_reason": "opening up about personal struggles to connect with the audience"
   },
   {
-    "text": "It's okay to struggle. I see you, trying to get back on track. Every small step towards your dreams, no matter how painful, is a win. My own journey back to the gym after 2 months off has been tough, but it's a reminder that showing up is what matters.",
+    "text": "I see you, struggling to get back on track. It's tough, but every small step towards your dreams, no matter how painful, is a win. My own journey back to the gym has been tough, but it's a reminder that showing up is what matters.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -43,7 +45,7 @@
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "losing consistency",
-      "desire": "proof discipline pays off"
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +53,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.1,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Empathetic tone and use of social proof inverse trigger to resonate with the audience."
+    "decision_reason": "showing empathy and understanding to attract like-minded individuals"
   }
 ]
