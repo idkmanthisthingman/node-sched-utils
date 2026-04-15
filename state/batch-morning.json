@@ -1,6 +1,6 @@
 [
   {
-    "text": "Discipline isn't about being perfect, it's about showing up. 2 months off the gym and I'm still getting back into it, one painful rep at a time.",
+    "text": "You think you're too old to start over or that 2 months off the gym means you've lost all progress. Newsflash: it's not about being new, it's about being consistent. Discipline is what separates those who try from those who succeed.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -22,15 +22,15 @@
     "quality_score": 8.2,
     "quality_breakdown": {
       "clarity": 8.5,
-      "originality": 7.8,
+      "originality": 8,
       "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "aligns with audience's struggle to get back on track"
+    "decision_reason": "Directly challenges the audience's self-perception"
   },
   {
-    "text": "Your morning routine sets the tone for the day. I've been trying to wake up at 5:30 and get to the gym, but it's been a struggle. Every small win counts, even on the tough days.",
+    "text": "Woke up at 5:30, headed to the gym. It's been 2 weeks since I got back on track after 2 months off. Every rep is a reminder that I'm not just building my body, I'm building my discipline. And that's what's going to change my life.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -40,7 +40,7 @@
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "lack of consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -51,16 +51,16 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.2,
-      "originality": 7.5,
-      "emotional_impact": 8.2,
-      "virality_potential": 8,
-      "audience_fit": 8.2
+      "clarity": 8,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 7.5,
+      "audience_fit": 8
     },
-    "decision_reason": "relatable storyline with an open-ended challenge"
+    "decision_reason": "Shares a personal, ongoing struggle to relate to the audience"
   },
   {
-    "text": "The gym isn't a place to escape, it's a place to face yourself. Every rep is a reminder that you're capable of more than you thought.",
+    "text": "Discipline is not the enemy of freedom, it's the bridge to it. Every rep, every set, every sweat drop is a step closer to the life you truly want. Don't see the gym as a chore, see it as a tool for liberation.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -71,7 +71,7 @@
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,12 +81,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.8,
-      "originality": 8,
+      "clarity": 9,
+      "originality": 8.5,
       "emotional_impact": 8.5,
-      "virality_potential": 8.8,
-      "audience_fit": 8.5
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "provides a new perspective on the gym experience"
+    "decision_reason": "Offers a fresh perspective on discipline and freedom"
   }
 ]
