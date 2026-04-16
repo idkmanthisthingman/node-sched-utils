@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "I still remember my first day back at the gym after 2 months off. I couldn't even do a single pull-up. But I showed up, and that's what mattered. Now, every rep is a reminder that progress is possible.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-10T06:22:34.109Z"
-      },
-      {
-        "text": "Progress isn't about being perfect, it's about being persistent. Every rep, every sweat drop, is a step closer to my dreams. I'm not where I want to be, but I'm farther than I was.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-10T06:22:34.109Z"
-      },
-      {
-        "text": "You have permission to take it one day at a time. Building consistency is hard, but it's worth it. Every small win adds up to a bigger victory in life.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-10T10:40:39.898Z"
-      },
-      {
         "text": "What's the smallest habit you can build today that'll move you closer to your goals? For me, it's showing up to the gym 3 times a week, no matter how sore I am.",
         "tone": "casual",
         "format": "question",
@@ -572,16 +539,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-16T03:53:50.373Z"
+      },
+      {
+        "text": "You have permission to start over, to fall behind and get back up. Consistency is key, even if it's just 10 minutes a day. Every small win counts towards your goals. I'm still getting back into my gym routine after 2 months off.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-16T09:02:56.808Z"
+      },
+      {
+        "text": "What's the smallest habit you can build today to move closer to your goals? Is it 5 push-ups, 1 page of reading, or 10 minutes of journaling? Start small, build consistency.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-16T09:02:56.808Z"
+      },
+      {
+        "text": "3 things that will happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real. Staying motivated is a choice, and it's time to make it.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-16T09:02:56.808Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -605,12 +599,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "motivation",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -627,21 +624,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 37,
-      "motivational": 70,
+      "motivational": 71,
       "empathetic": 71,
-      "casual": 33,
-      "reflective": 67
+      "casual": 34,
+      "reflective": 68
     },
     "format_distribution_7d": {
-      "micro-lesson": 70,
+      "micro-lesson": 71,
       "micro-story": 72,
       "quote-style": 37,
-      "question": 32,
-      "list": 33,
+      "question": 33,
+      "list": 34,
       "progress-log": 34
     }
   },
@@ -653,7 +653,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-16T03:53:48.159Z"
+    "last_analyzed_at": "2026-04-16T09:02:54.398Z"
   },
   "content_library": {
     "proven_hooks": [],
