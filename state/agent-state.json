@@ -13,41 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Two months off gym, now I'm back. Every rep is a reminder that my dreams are worth the pain. Still trying to fix my sleep schedule, but progress is progress.",
-        "tone": "reflective",
-        "format": "micro-story",
-        "pillar": [
-          "sacrifice",
-          "pain",
-          "dreams"
-        ],
-        "trigger": "pattern_interrupt",
-        "posted_at": "2026-04-09T17:36:50.045Z"
-      },
-      {
-        "text": "I see people posting their fitness journeys, but what about the sacrifices they made to get there? The early mornings, the soreness, the doubt. That's the part that matters, not just the end result.",
-        "tone": "empathetic",
-        "format": "progress-log",
-        "pillar": [
-          "sacrifice",
-          "pain",
-          "dreams"
-        ],
-        "trigger": "social_proof_inverse",
-        "posted_at": "2026-04-09T17:36:50.045Z"
-      },
-      {
-        "text": "Getting back to the gym after 2 months off isn't easy. It's a daily reminder that discipline is what separates me from my excuses. Every rep is a step closer to my dreams, no matter how small.",
-        "tone": "tough-love",
-        "format": "micro-lesson",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "identity_threat",
-        "posted_at": "2026-04-10T06:22:34.108Z"
-      },
-      {
         "text": "I still remember my first day back at the gym after 2 months off. I couldn't even do a single pull-up. But I showed up, and that's what mattered. Now, every rep is a reminder that progress is possible.",
         "tone": "motivational",
         "format": "micro-story",
@@ -574,16 +539,43 @@
         ],
         "trigger": "social_proof_inverse",
         "posted_at": "2026-04-15T14:51:51.146Z"
+      },
+      {
+        "text": "You call yourself a gym person but haven't shown up in months. Time to reevaluate your identity. Discipline isn't a trait, it's a choice. Every rep is a chance to prove it to yourself.",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-04-16T03:53:50.373Z"
+      },
+      {
+        "text": "I'm on week 3 of getting back to the gym after 2 months off. It's not easy, but every painful rep reminds me why I started. I'm not just building my body, I'm building my discipline, and that's what's going to change my life.",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-04-16T03:53:50.373Z"
+      },
+      {
+        "text": "Discipline is freedom, not a cage. Every rep, every sweat drop is a step closer to the life you truly want. The gym isn't a chore, it's a tool for liberation.",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-04-16T03:53:50.373Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "consistency",
-      "life",
-      "consistency",
-      "motivation",
-      "life",
       "sacrifice",
       "pain",
       "dreams",
@@ -607,12 +599,15 @@
       "dreams",
       "sacrifice",
       "pain",
-      "dreams"
+      "dreams",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym"
     ],
     "recent_triggers_used": [
-      "specificity_shock",
-      "stakes_escalation",
-      "pattern_interrupt",
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
@@ -629,19 +624,22 @@
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
-      "social_proof_inverse"
+      "social_proof_inverse",
+      "identity_threat",
+      "relatability_gap",
+      "reframe"
     ],
     "tone_distribution_7d": {
-      "tough-love": 36,
-      "motivational": 69,
-      "empathetic": 70,
+      "tough-love": 37,
+      "motivational": 70,
+      "empathetic": 71,
       "casual": 33,
       "reflective": 67
     },
     "format_distribution_7d": {
-      "micro-lesson": 69,
-      "micro-story": 71,
-      "quote-style": 36,
+      "micro-lesson": 70,
+      "micro-story": 72,
+      "quote-style": 37,
       "question": 32,
       "list": 33,
       "progress-log": 34
@@ -655,7 +653,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-15T14:51:49.359Z"
+    "last_analyzed_at": "2026-04-16T03:53:48.159Z"
   },
   "content_library": {
     "proven_hooks": [],
@@ -699,7 +697,7 @@
     "retweeted_tweet_ids": [],
     "replied_tweet_ids": [],
     "daily": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "follows": 0,
       "likes": 0,
       "retweets": 0,
