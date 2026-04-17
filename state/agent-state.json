@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "I still remember my first day back at the gym after 2 months off. I was out of breath, sore, and felt like giving up. But I showed up, and that's what mattered. Every small win adds up, even when it feels like a loss.",
-        "tone": "empathetic",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-11T05:41:06.826Z"
-      },
-      {
-        "text": "Discipline isn't about being perfect, it's about being persistent. Every rep, every sweat drop, is a step closer to your dreams. Don't let perfection hold you back from progress.",
-        "tone": "motivational",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-11T05:41:06.826Z"
-      },
-      {
-        "text": "You have permission to start small. Building consistency is key to unlocking motivation in life. Every tiny step forward is a win.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-11T09:28:58.091Z"
-      },
-      {
         "text": "I'm on day 5 of trying to fix my sleep schedule and it's been a struggle. Anyone else have to restart their routine from scratch?",
         "tone": "casual",
         "format": "question",
@@ -572,16 +539,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-17T03:50:44.521Z"
+      },
+      {
+        "text": "You have permission to start small and rebuild your life from scratch. Every painful rep and early morning is a step closer to your dreams. #consistency",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-17T09:02:21.755Z"
+      },
+      {
+        "text": "What's the most specific, smallest habit you can build today to move closer to your goals? I'm trying to get back to the gym after 2 months off, one painful rep at a time.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-17T09:02:21.755Z"
+      },
+      {
+        "text": "3 things that happen when you give up on your goals: you lose motivation, you forget your why, and you settle for a life that's not yours. The cost of inaction is real. I'm back at the gym, rebuilding my discipline one rep at a time.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-17T09:02:21.755Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "pain",
-      "sacrifice",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -605,12 +599,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -627,21 +624,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 38,
-      "motivational": 72,
+      "motivational": 73,
       "empathetic": 73,
-      "casual": 34,
-      "reflective": 69
+      "casual": 35,
+      "reflective": 70
     },
     "format_distribution_7d": {
-      "micro-lesson": 72,
+      "micro-lesson": 73,
       "micro-story": 74,
       "quote-style": 38,
-      "question": 33,
-      "list": 34,
+      "question": 34,
+      "list": 35,
       "progress-log": 35
     }
   },
@@ -653,7 +653,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-17T03:50:42.521Z"
+    "last_analyzed_at": "2026-04-17T09:02:19.534Z"
   },
   "content_library": {
     "proven_hooks": [],

@@ -1,6 +1,6 @@
 [
   {
-    "text": "You have permission to start over, to fall behind and get back up. Consistency is key, even if it's just 10 minutes a day. Every small win counts towards your goals. I'm still getting back into my gym routine after 2 months off.",
+    "text": "You have permission to start small and rebuild your life from scratch. Every painful rep and early morning is a step closer to your dreams. #consistency",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -18,29 +18,31 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8,
+    "hashtags": [
+      "consistency"
+    ],
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7,
-      "emotional_impact": 8.5,
-      "virality_potential": 7.5,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "High quality score and alignment with the audience's pain points"
+    "decision_reason": "Permission slip trigger to motivate and encourage small starts."
   },
   {
-    "text": "What's the smallest habit you can build today to move closer to your goals? Is it 5 push-ups, 1 page of reading, or 10 minutes of journaling? Start small, build consistency.",
+    "text": "What's the most specific, smallest habit you can build today to move closer to your goals? I'm trying to get back to the gym after 2 months off, one painful rep at a time.",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "motivation",
+      "life",
       "consistency"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "knowing what to do but not doing it",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,18 +51,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.5,
-      "emotional_impact": 8,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "High quality score, originality and alignment with the audience's desires"
+    "decision_reason": "Casual tone to engage and encourage sharing of small habits."
   },
   {
-    "text": "3 things that will happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real. Staying motivated is a choice, and it's time to make it.",
+    "text": "3 things that happen when you give up on your goals: you lose motivation, you forget your why, and you settle for a life that's not yours. The cost of inaction is real. I'm back at the gym, rebuilding my discipline one rep at a time.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -70,8 +72,8 @@
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency after 2-3 weeks",
-      "desire": "proof discipline pays off"
+      "pain_point": "feeling stuck",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,12 +83,12 @@
     "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8.5,
-      "audience_fit": 9
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "High quality score and effectiveness in conveying the importance of consistency"
+    "decision_reason": "Reflective tone to highlight the cost of inaction and encourage discipline."
   }
 ]
