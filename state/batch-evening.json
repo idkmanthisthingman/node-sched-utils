@@ -1,6 +1,6 @@
 [
   {
-    "text": "I stopped going to the gym for 2 months and it felt like a part of me died. Now I'm back and every painful rep reminds me that my dreams are worth the sacrifice.",
+    "text": "I've been back at the gym for a week now and every painful rep reminds me why I started. It's not about the gains, it's about the person I'm becoming. Sacrifice is hard, but it's worth it for my dreams",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
@@ -19,21 +19,19 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "#fitnessjourney"
-    ],
+    "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
       "clarity": 8.5,
       "originality": 7.8,
       "emotional_impact": 8.8,
-      "virality_potential": 8,
+      "virality_potential": 7.5,
       "audience_fit": 8
     },
-    "decision_reason": "meets requirements and is engaging"
+    "decision_reason": "meets tone, pillar, and trigger requirements"
   },
   {
-    "text": "it's okay to not be okay. I'm still trying to fix my sleep schedule and get back into the gym. every small step towards my dreams, no matter how painful, is a win.",
+    "text": "I see people posting their fitness journeys and it looks effortless. But I know the truth - every successful person I've met has had to make sacrifices that hurt. Like waking up at 5am to get a head start on their dreams #consistency",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -44,23 +42,25 @@
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "pain_point": "comparison spirals",
+      "desire": "proof discipline pays off"
     },
     "goal_alignment": {
       "stage": "cold",
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8,
+    "hashtags": [
+      "consistency"
+    ],
+    "quality_score": 8.5,
     "quality_breakdown": {
       "clarity": 8,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
+      "originality": 8.2,
+      "emotional_impact": 9,
       "virality_potential": 8,
-      "audience_fit": 8
+      "audience_fit": 8.5
     },
-    "decision_reason": "meets requirements and is relatable"
+    "decision_reason": "meets tone, pillar, and trigger requirements"
   }
 ]
