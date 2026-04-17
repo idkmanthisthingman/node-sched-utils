@@ -1,6 +1,6 @@
 [
   {
-    "text": "You call yourself a gym person but haven't shown up in months. Time to reevaluate your identity. Discipline isn't a trait, it's a choice. Every rep is a chance to prove it to yourself.",
+    "text": "You're not a gym person if you haven't been in months. Time to reevaluate your identity. Discipline isn't a trait, it's a choice",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -18,19 +18,21 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.2,
+    "hashtags": [
+      "discipline"
+    ],
+    "quality_score": 7.5,
     "quality_breakdown": {
       "clarity": 0.8,
       "originality": 0.7,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Directly addresses the audience's potential identity crisis and lack of discipline."
+    "decision_reason": "Targets pain point of feeling stuck"
   },
   {
-    "text": "I'm on week 3 of getting back to the gym after 2 months off. It's not easy, but every painful rep reminds me why I started. I'm not just building my body, I'm building my discipline, and that's what's going to change my life.",
+    "text": "I'm back at the gym after 2 months off. Every painful rep reminds me why I started. Building discipline, not just my body",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -48,19 +50,21 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.5,
+    "hashtags": [
+      "fitness"
+    ],
+    "quality_score": 7.8,
     "quality_breakdown": {
       "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
       "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "audience_fit": 0.8
     },
-    "decision_reason": "Shares a personal, relatable story to motivate the audience and highlight the importance of discipline."
+    "decision_reason": "References an open storyline"
   },
   {
-    "text": "Discipline is freedom, not a cage. Every rep, every sweat drop is a step closer to the life you truly want. The gym isn't a chore, it's a tool for liberation.",
+    "text": "Discipline is the bridge between dreams and reality. Every rep, every sweat drop is a step closer to the life you truly want",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -70,8 +74,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "pain_point": "knowing what to do but not doing it",
+      "desire": "proof discipline pays off"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +83,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 7.2,
     "quality_breakdown": {
       "clarity": 0.8,
-      "originality": 0.7,
+      "originality": 0.6,
       "emotional_impact": 0.8,
-      "virality_potential": 0.8,
-      "audience_fit": 0.8
+      "virality_potential": 0.7,
+      "audience_fit": 0.7
     },
-    "decision_reason": "Offers a fresh perspective on discipline and the gym, reframing them as tools for freedom and liberation."
+    "decision_reason": "Simple and impactful message"
   }
 ]
