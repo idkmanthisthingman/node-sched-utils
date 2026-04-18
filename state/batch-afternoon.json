@@ -1,11 +1,11 @@
 [
   {
-    "text": "You have permission to start small and rebuild your life from scratch. Every painful rep and early morning is a step closer to your dreams. #consistency",
+    "text": "You have permission to prioritize your goals over social media. Every minute you spend on your goals is a step closer to the life you want",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
       "motivation",
-      "consistency"
+      "life"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -18,31 +18,29 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "consistency"
-    ],
-    "quality_score": 8.2,
+    "hashtags": [],
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 9,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 9
     },
-    "decision_reason": "Permission slip trigger to motivate and encourage small starts."
+    "decision_reason": "Permission slip to prioritize goals"
   },
   {
-    "text": "What's the most specific, smallest habit you can build today to move closer to your goals? I'm trying to get back to the gym after 2 months off, one painful rep at a time.",
+    "text": "What's the smallest habit you can build today to move closer to your goals? I'm trying to get back to a consistent sleep schedule, one early morning at a time.",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "life",
-      "consistency"
+      "consistency",
+      "life"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "inconsistent routine",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -51,29 +49,29 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 7.5,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Casual tone to engage and encourage sharing of small habits."
+    "decision_reason": "Asking about smallest habit to build"
   },
   {
-    "text": "3 things that happen when you give up on your goals: you lose motivation, you forget your why, and you settle for a life that's not yours. The cost of inaction is real. I'm back at the gym, rebuilding my discipline one rep at a time.",
+    "text": "3 things that happen when you give up on your goals: you lose motivation, you forget your why, and you settle for a life that's not yours. The cost of inaction is real. I'm trying to stay consistent with my gym routine to avoid this",
     "tone": "reflective",
     "format": "list",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "being someone people notice changed"
+      "pain_point": "losing consistency",
+      "desire": "proof discipline pays off"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -81,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 9,
+      "originality": 8.5,
+      "emotional_impact": 9,
+      "virality_potential": 8.5,
+      "audience_fit": 9
     },
-    "decision_reason": "Reflective tone to highlight the cost of inaction and encourage discipline."
+    "decision_reason": "Listing consequences of giving up on goals"
   }
 ]
