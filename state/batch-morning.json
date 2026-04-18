@@ -1,6 +1,6 @@
 [
   {
-    "text": "You're not a gym person if you haven't been in months. Time to reevaluate your identity. Discipline isn't a trait, it's a choice",
+    "text": "You call yourself a gym person but haven't been in months. Time to reevaluate. Discipline isn't a trait, it's a choice.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -18,21 +18,19 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "discipline"
-    ],
-    "quality_score": 7.5,
+    "hashtags": [],
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 9,
+      "originality": 8,
+      "emotional_impact": 9,
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Targets pain point of feeling stuck"
+    "decision_reason": "Directly challenges the audience's self-identity"
   },
   {
-    "text": "I'm back at the gym after 2 months off. Every painful rep reminds me why I started. Building discipline, not just my body",
+    "text": "Back at the gym after 2 months off. Every rep is a reminder that I'm capable of more than I thought. Small steps towards a stronger me.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -50,21 +48,19 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "fitness"
-    ],
-    "quality_score": 7.8,
+    "hashtags": [],
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.8,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "References an open storyline"
+    "decision_reason": "Relatable story of getting back on track"
   },
   {
-    "text": "Discipline is the bridge between dreams and reality. Every rep, every sweat drop is a step closer to the life you truly want",
+    "text": "Discipline is not about being perfect, it's about being consistent. Every rep, every sweat drop is a step closer to the life you want.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -74,8 +70,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "knowing what to do but not doing it",
-      "desire": "proof discipline pays off"
+      "pain_point": "comparison spirals",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -83,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.6,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.7
+      "clarity": 9,
+      "originality": 8.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.5,
+      "audience_fit": 8.5
     },
-    "decision_reason": "Simple and impactful message"
+    "decision_reason": "Empathetic tone with a reframed perspective on discipline"
   }
 ]
