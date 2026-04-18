@@ -1,6 +1,6 @@
 [
   {
-    "text": "I've been back at the gym for a week now and every painful rep reminds me why I started. It's not about the gains, it's about the person I'm becoming. Sacrifice is hard, but it's worth it for my dreams",
+    "text": "Woke up at 5:30, hated it. But every painful morning is a step closer to my dreams. Sacrificing comfort for progress, one day at a time.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
@@ -24,14 +24,14 @@
     "quality_breakdown": {
       "clarity": 8.5,
       "originality": 7.8,
-      "emotional_impact": 8.8,
-      "virality_potential": 7.5,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
       "audience_fit": 8
     },
-    "decision_reason": "meets tone, pillar, and trigger requirements"
+    "decision_reason": "uses a unique morning routine to highlight sacrifice and dream pursuit"
   },
   {
-    "text": "I see people posting their fitness journeys and it looks effortless. But I know the truth - every successful person I've met has had to make sacrifices that hurt. Like waking up at 5am to get a head start on their dreams #consistency",
+    "text": "I see people posting their fitness journeys and it looks effortless. But I know the truth - every successful person I've met has had to make sacrifices that hurt. Like waking up at 5am to get a head start on their dreams",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -42,25 +42,23 @@
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparison spirals",
-      "desire": "proof discipline pays off"
+      "pain_point": "comparing to others",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "consistency"
-    ],
+    "hashtags": [],
     "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8,
+      "clarity": 8.8,
       "originality": 8.2,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "emotional_impact": 8.5,
+      "virality_potential": 8.8,
+      "audience_fit": 8.2
     },
-    "decision_reason": "meets tone, pillar, and trigger requirements"
+    "decision_reason": "exposes the truth behind seemingly effortless fitness journeys, encouraging empathy and understanding"
   }
 ]
