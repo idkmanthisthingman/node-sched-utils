@@ -1,11 +1,11 @@
 [
   {
-    "text": "You have permission to prioritize your goals over social media. Every minute you spend on your goals is a step closer to the life you want",
+    "text": "You have permission to start small. Every consistent habit, no matter how tiny, is a step closer to your goals. Don't let fear of not being enough hold you back.",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
       "motivation",
-      "life"
+      "consistency"
     ],
     "psychological_trigger": "permission_slip",
     "hook_template_id": null,
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 9
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "Permission slip to prioritize goals"
+    "decision_reason": "Meets all requirements and is concise"
   },
   {
-    "text": "What's the smallest habit you can build today to move closer to your goals? I'm trying to get back to a consistent sleep schedule, one early morning at a time.",
+    "text": "What's one thing you can do daily to build consistency? For me, it's getting back to the gym after 2 months off, one painful rep at a time.",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -40,7 +40,7 @@
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "inconsistent routine",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,28 +49,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 7.9,
     "quality_breakdown": {
-      "clarity": 8.5,
+      "clarity": 8,
       "originality": 7.5,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8.5
+      "emotional_impact": 7.8,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "Asking about smallest habit to build"
+    "decision_reason": "References an open storyline and is engaging"
   },
   {
-    "text": "3 things that happen when you give up on your goals: you lose motivation, you forget your why, and you settle for a life that's not yours. The cost of inaction is real. I'm trying to stay consistent with my gym routine to avoid this",
+    "text": "3 costs of inconsistency: losing motivation, forgetting your why, and settling for less. The price of giving up is too high. Stay consistent, no matter what.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
       "motivation",
-      "consistency"
+      "life"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "feeling stuck",
       "desire": "proof discipline pays off"
     },
     "goal_alignment": {
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.8,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8.5,
-      "emotional_impact": 9,
+      "clarity": 8.5,
+      "originality": 8,
+      "emotional_impact": 8.5,
       "virality_potential": 8.5,
-      "audience_fit": 9
+      "audience_fit": 8.5
     },
-    "decision_reason": "Listing consequences of giving up on goals"
+    "decision_reason": "Meets all requirements and is impactful"
   }
 ]

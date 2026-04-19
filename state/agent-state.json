@@ -13,38 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Getting back to the gym after 2 months off isn't easy. But every rep is a reminder that I'm capable of more than I thought. Keep pushing, even when it's hard.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "gym",
-          "discipline"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-13T07:38:45.509Z"
-      },
-      {
-        "text": "Discipline isn't about being perfect, it's about being consistent. Every day is a new chance to get it right, even if you didn't yesterday.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-13T07:38:45.509Z"
-      },
-      {
-        "text": "You have permission to start small and be inconsistent at first. It's okay to not have it all together, you'll get there. Consistency is a skill, not a trait.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-13T11:55:52.984Z"
-      },
-      {
         "text": "What's the one thing you can do today to move closer to your goals? I'm trying to get back on track with my gym routine after 2 months off.",
         "tone": "casual",
         "format": "question",
@@ -572,16 +540,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-19T03:54:50.202Z"
+      },
+      {
+        "text": "You have permission to start small. Every consistent habit, no matter how tiny, is a step closer to your goals. Don't let fear of not being enough hold you back.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-19T08:32:19.611Z"
+      },
+      {
+        "text": "What's one thing you can do daily to build consistency? For me, it's getting back to the gym after 2 months off, one painful rep at a time.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-19T08:32:19.611Z"
+      },
+      {
+        "text": "3 costs of inconsistency: losing motivation, forgetting your why, and settling for less. The price of giving up is too high. Stay consistent, no matter what.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-19T08:32:19.612Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -605,12 +600,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "consistency",
+      "life",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -627,21 +625,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 40,
-      "motivational": 76,
+      "motivational": 77,
       "empathetic": 77,
-      "casual": 36,
-      "reflective": 73
+      "casual": 37,
+      "reflective": 74
     },
     "format_distribution_7d": {
-      "micro-lesson": 76,
+      "micro-lesson": 77,
       "micro-story": 78,
       "quote-style": 40,
-      "question": 35,
-      "list": 36,
+      "question": 36,
+      "list": 37,
       "progress-log": 37
     }
   },
@@ -653,7 +654,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-19T03:54:47.783Z"
+    "last_analyzed_at": "2026-04-19T08:32:17.458Z"
   },
   "content_library": {
     "proven_hooks": [],
