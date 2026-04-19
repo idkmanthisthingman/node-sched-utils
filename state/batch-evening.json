@@ -1,12 +1,11 @@
 [
   {
-    "text": "Woke up at 5:30, hated it. But every painful morning is a step closer to my dreams. Sacrificing comfort for progress, one day at a time.",
+    "text": "I used to think sacrifices were a one-time thing. But the truth is, every day is a choice between comfort and progress. Been back at the gym for a week now, and it still hurts. But I'm showing up, one painful rep at a time.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
       "sacrifice",
-      "pain",
-      "dreams"
+      "pain"
     ],
     "psychological_trigger": "pattern_interrupt",
     "hook_template_id": null,
@@ -19,31 +18,32 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.2,
+    "hashtags": [
+      "discipline"
+    ],
+    "quality_score": 8.1,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.7
     },
-    "decision_reason": "uses a unique morning routine to highlight sacrifice and dream pursuit"
+    "decision_reason": "meets pillar and tone requirements, uses pattern_interrupt trigger"
   },
   {
-    "text": "I see people posting their fitness journeys and it looks effortless. But I know the truth - every successful person I've met has had to make sacrifices that hurt. Like waking up at 5am to get a head start on their dreams",
+    "text": "It's okay to not be okay. Your dreams are going to cost you something. Maybe it's sleep, maybe it's social life. But if you're willing to make the sacrifice, I'm right there with you. Let's figure this out together.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
       "sacrifice",
-      "pain",
       "dreams"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparing to others",
-      "desire": "being someone people notice changed"
+      "pain_point": "feeling alone",
+      "desire": "belonging to a group that gets it"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.3,
     "quality_breakdown": {
-      "clarity": 8.8,
-      "originality": 8.2,
-      "emotional_impact": 8.5,
-      "virality_potential": 8.8,
-      "audience_fit": 8.2
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "exposes the truth behind seemingly effortless fitness journeys, encouraging empathy and understanding"
+    "decision_reason": "meets pillar and tone requirements, uses social_proof_inverse trigger"
   }
 ]

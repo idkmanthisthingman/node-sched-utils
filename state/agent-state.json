@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's the one thing you can do today to move closer to your goals? I'm trying to get back on track with my gym routine after 2 months off.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "life",
-          "consistency"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-13T11:55:52.984Z"
-      },
-      {
-        "text": "3 things that happen when you don't prioritize your life: you lose motivation, you forget your goals, and you give up on your dreams. The cost of inaction is real.",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-13T11:55:52.984Z"
-      },
-      {
         "text": "2 months off the gym and I thought I'd lost all progress. But every painful rep now is a reminder that my dreams are worth the sacrifice. Still getting back into it, one rep at a time.",
         "tone": "reflective",
         "format": "micro-story",
@@ -573,16 +551,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-19T08:32:19.612Z"
+      },
+      {
+        "text": "I used to think sacrifices were a one-time thing. But the truth is, every day is a choice between comfort and progress. Been back at the gym for a week now, and it still hurts. But I'm showing up, one painful rep at a time.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-19T14:07:31.497Z"
+      },
+      {
+        "text": "It's okay to not be okay. Your dreams are going to cost you something. Maybe it's sleep, maybe it's social life. But if you're willing to make the sacrifice, I'm right there with you. Let's figure this out together.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-19T14:07:31.497Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
       "discipline",
       "gym",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "motivation",
       "life",
       "consistency",
@@ -606,11 +602,13 @@
       "consistency",
       "life",
       "motivation",
-      "life"
+      "life",
+      "sacrifice",
+      "pain",
+      "sacrifice",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -628,22 +626,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 40,
       "motivational": 77,
-      "empathetic": 77,
+      "empathetic": 78,
       "casual": 37,
-      "reflective": 74
+      "reflective": 75
     },
     "format_distribution_7d": {
       "micro-lesson": 77,
-      "micro-story": 78,
+      "micro-story": 79,
       "quote-style": 40,
       "question": 36,
       "list": 37,
-      "progress-log": 37
+      "progress-log": 38
     }
   },
   "performance": {
@@ -654,7 +654,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-19T08:32:17.458Z"
+    "last_analyzed_at": "2026-04-19T14:07:29.774Z"
   },
   "content_library": {
     "proven_hooks": [],
