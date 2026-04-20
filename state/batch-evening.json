@@ -1,11 +1,12 @@
 [
   {
-    "text": "I used to think sacrifices were a one-time thing. But the truth is, every day is a choice between comfort and progress. Been back at the gym for a week now, and it still hurts. But I'm showing up, one painful rep at a time.",
+    "text": "I'm on day 5 of fixing my sleep schedule and it still feels like a battle. But every morning I wake up at 5:30, it's a reminder that I'm one step closer to making my dreams a reality, no matter the pain.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
       "sacrifice",
-      "pain"
+      "pain",
+      "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
     "hook_template_id": null,
@@ -18,32 +19,31 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "discipline"
-    ],
-    "quality_score": 8.1,
+    "hashtags": [],
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.7
+      "clarity": 9,
+      "originality": 8,
+      "emotional_impact": 9,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "meets pillar and tone requirements, uses pattern_interrupt trigger"
+    "decision_reason": "Meets all requirements and is a strong, relatable post."
   },
   {
-    "text": "It's okay to not be okay. Your dreams are going to cost you something. Maybe it's sleep, maybe it's social life. But if you're willing to make the sacrifice, I'm right there with you. Let's figure this out together.",
+    "text": "Most people won't tell you that getting back in shape takes sacrifice. I've been back at the gym for a week and it hurts. But I'm doing it because I know the people who make it look easy are the ones who put in the work, even when it's hard.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
       "sacrifice",
+      "pain",
       "dreams"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling alone",
-      "desire": "belonging to a group that gets it"
+      "pain_point": "comparing themselves to others",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.3,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "meets pillar and tone requirements, uses social_proof_inverse trigger"
+    "decision_reason": "Empathetic tone and use of social_proof_inverse trigger make it a compelling post."
   }
 ]

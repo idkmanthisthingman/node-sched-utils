@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's one thing you're doing daily to move closer to your goals? I'm trying to get back on track with my gym routine after 2 months off.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "life",
-          "consistency"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-14T11:37:56.358Z"
-      },
-      {
-        "text": "3 things that will happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real.",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-14T11:37:56.358Z"
-      },
-      {
         "text": "I thought I'd lost all progress after 2 months off the gym. But every painful rep now reminds me my dreams are worth the sacrifice. Still, it's hard to prioritize when everything else feels overwhelming.",
         "tone": "reflective",
         "format": "micro-story",
@@ -571,16 +549,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-20T09:25:52.856Z"
+      },
+      {
+        "text": "I'm on day 5 of fixing my sleep schedule and it still feels like a battle. But every morning I wake up at 5:30, it's a reminder that I'm one step closer to making my dreams a reality, no matter the pain.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-20T15:00:06.208Z"
+      },
+      {
+        "text": "Most people won't tell you that getting back in shape takes sacrifice. I've been back at the gym for a week and it hurts. But I'm doing it because I know the people who make it look easy are the ones who put in the work, even when it's hard.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-20T15:00:06.208Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "pain",
-      "dreams",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "discipline",
       "gym",
       "motivation",
@@ -604,11 +600,15 @@
       "consistency",
       "life",
       "motivation",
-      "life"
+      "life",
+      "sacrifice",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -626,22 +626,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 41,
       "motivational": 79,
-      "empathetic": 79,
+      "empathetic": 80,
       "casual": 38,
-      "reflective": 76
+      "reflective": 77
     },
     "format_distribution_7d": {
       "micro-lesson": 79,
-      "micro-story": 80,
+      "micro-story": 81,
       "quote-style": 41,
       "question": 37,
       "list": 38,
-      "progress-log": 38
+      "progress-log": 39
     }
   },
   "performance": {
@@ -652,7 +654,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-20T09:25:50.764Z"
+    "last_analyzed_at": "2026-04-20T15:00:03.721Z"
   },
   "content_library": {
     "proven_hooks": [],
