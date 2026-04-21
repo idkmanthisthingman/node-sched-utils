@@ -1,6 +1,6 @@
 [
   {
-    "text": "You're allowed to not have it all together. Start with one consistent habit and build from there. For me, it's getting back to the gym after 2 months off.",
+    "text": "You're allowed to start small. Showing up to the gym for 10 minutes is better than not showing up at all. Consistency is key, even if it's just a few minutes a day. #fitnessjourney",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -18,19 +18,21 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [],
-    "quality_score": 8.2,
+    "hashtags": [
+      "fitnessjourney"
+    ],
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
+      "clarity": 0.8,
+      "originality": 0.7,
       "emotional_impact": 0.8,
       "virality_potential": 0.7,
-      "audience_fit": 0.9
+      "audience_fit": 0.8
     },
-    "decision_reason": "gives permission to start small"
+    "decision_reason": "Starting small and being consistent is a key message for beginners"
   },
   {
-    "text": "What's the smallest thing you can do daily to build consistency? I've found that doing 10 push-ups every morning sets the tone for the rest of the day.",
+    "text": "What's the most consistent habit you've built in the last 30 days? For me, it's waking up at 5:30 AM every day, even on weekends. The struggle is real, but it's worth it.",
     "tone": "casual",
     "format": "question",
     "pillar": [
@@ -40,8 +42,8 @@
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency after 2-3 weeks",
-      "desire": "-purposeful daily routine"
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -49,18 +51,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 7.8,
     "quality_breakdown": {
       "clarity": 0.9,
-      "originality": 0.7,
-      "emotional_impact": 0.7,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
       "virality_potential": 0.8,
-      "audience_fit": 0.8
+      "audience_fit": 0.9
     },
-    "decision_reason": "invites engagement and shares a personal habit"
+    "decision_reason": "Asking about consistent habits encourages engagement and builds community"
   },
   {
-    "text": "3 things I've learned from trying to fix my sleep schedule: it's hard, it's worth it, and every day is a new chance to start again. Don't give up on your goals.",
+    "text": "3 things I've learned from trying to get back in shape: it's not just about the physical pain, it's about the mental struggle. It's not just about the gym, it's about the lifestyle. It's not just about me, it's about the people who support me.",
     "tone": "reflective",
     "format": "list",
     "pillar": [
@@ -71,7 +73,7 @@
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "feeling stuck",
-      "desire": "being someone people notice changed"
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,7 +81,7 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
@@ -87,6 +89,6 @@
       "virality_potential": 0.8,
       "audience_fit": 0.9
     },
-    "decision_reason": "shares a personal struggle and lessons learned"
+    "decision_reason": "Reflecting on the lessons learned from getting back in shape encourages self-reflection and empathy"
   }
 ]

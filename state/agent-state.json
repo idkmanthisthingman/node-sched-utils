@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Woke up at 5:30, headed to the gym. It's been 2 weeks since I got back on track after 2 months off. Every rep is a reminder that I'm not just building my body, I'm building my discipline. And that's what's going to change my life.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-15T03:47:44.643Z"
-      },
-      {
-        "text": "Discipline is not the enemy of freedom, it's the bridge to it. Every rep, every set, every sweat drop is a step closer to the life you truly want. Don't see the gym as a chore, see it as a tool for liberation.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-15T03:47:44.643Z"
-      },
-      {
-        "text": "You have permission to start small. Consistency is key, even if it's just 10 minutes a day. Every small win counts towards your goals.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-15T09:03:14.490Z"
-      },
-      {
         "text": "I've been trying to get back to the gym after 2 months off. The first week, I could only do 3 sets of 8 reps. Now, I'm at 4 sets of 10. Progress is slow, but it's real.",
         "tone": "casual",
         "format": "micro-story",
@@ -571,16 +538,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-21T03:50:42.086Z"
+      },
+      {
+        "text": "You're allowed to start small. Showing up to the gym for 10 minutes is better than not showing up at all. Consistency is key, even if it's just a few minutes a day. #fitnessjourney",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-21T09:11:22.481Z"
+      },
+      {
+        "text": "What's the most consistent habit you've built in the last 30 days? For me, it's waking up at 5:30 AM every day, even on weekends. The struggle is real, but it's worth it.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "life"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-21T09:11:22.482Z"
+      },
+      {
+        "text": "3 things I've learned from trying to get back in shape: it's not just about the physical pain, it's about the mental struggle. It's not just about the gym, it's about the lifestyle. It's not just about me, it's about the people who support me.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-21T09:11:22.482Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "life",
-      "sacrifice",
-      "pain",
-      "sacrifice",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -604,12 +598,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "consistency",
+      "life",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -626,21 +623,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 42,
-      "motivational": 80,
+      "motivational": 81,
       "empathetic": 81,
-      "casual": 38,
-      "reflective": 77
+      "casual": 39,
+      "reflective": 78
     },
     "format_distribution_7d": {
-      "micro-lesson": 80,
+      "micro-lesson": 81,
       "micro-story": 82,
       "quote-style": 42,
-      "question": 37,
-      "list": 38,
+      "question": 38,
+      "list": 39,
       "progress-log": 39
     }
   },
@@ -652,7 +652,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-21T03:50:39.918Z"
+    "last_analyzed_at": "2026-04-21T09:11:20.204Z"
   },
   "content_library": {
     "proven_hooks": [],
