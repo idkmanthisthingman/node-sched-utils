@@ -1,6 +1,6 @@
 [
   {
-    "text": "You think you're not a gym person? Newsflash: discipline is a choice. I'm 2 months off and starting over. Every rep is a reminder I'm stronger than I think.",
+    "text": "Your lack of discipline isn't a secret. It's evident in every rep you skip and every morning you sleep in. I've been back at the gym for a week and it's been a fight. But I'm not giving up. Are you?",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8,
-      "virality_potential": 8.5,
+      "clarity": 9,
+      "originality": 8,
+      "emotional_impact": 9,
+      "virality_potential": 8,
       "audience_fit": 8
     },
-    "decision_reason": "Directly challenges the audience's self-perception"
+    "decision_reason": "Direct and confrontational tone to grab attention"
   },
   {
-    "text": "We all know the gym struggle is real. But here's the thing: every painful rep is a step closer to the life you want. Keep showing up, even when it hurts.",
+    "text": "I woke up at 5:30 this morning, dreading my gym session. But as I was doing my reps, I realized that every painful moment is a chance to grow. I'm not just building my body, I'm building my character.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -49,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8,
-      "originality": 7.5,
+      "clarity": 8.5,
+      "originality": 8,
       "emotional_impact": 8.5,
       "virality_potential": 8,
       "audience_fit": 8
     },
-    "decision_reason": "Acknowledges a shared struggle and encourages perseverance"
+    "decision_reason": "Relatable story to connect with the audience"
   },
   {
-    "text": "Discipline is not about being perfect, it's about being consistent. One rep at a time, one day at a time. I'm figuring it out, and you can too.",
+    "text": "Discipline is not about being perfect, it's about being consistent. 'The only bad workout is the one that didn't happen.' I'm taking it one rep at a time, and I'm not looking back.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -70,7 +70,7 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparing themselves to others",
+      "pain_point": "comparing to others",
       "desire": "being someone people notice changed"
     },
     "goal_alignment": {
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 9,
+      "clarity": 8,
       "originality": 8,
-      "emotional_impact": 8.5,
-      "virality_potential": 8.5,
-      "audience_fit": 8.5
+      "emotional_impact": 8,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "Offers a fresh perspective on discipline and consistency"
+    "decision_reason": "Empathetic tone to provide reassurance and a fresh perspective"
   }
 ]
