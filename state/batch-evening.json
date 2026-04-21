@@ -1,6 +1,6 @@
 [
   {
-    "text": "I'm on day 5 of fixing my sleep schedule and it still feels like a battle. But every morning I wake up at 5:30, it's a reminder that I'm one step closer to making my dreams a reality, no matter the pain.",
+    "text": "I thought getting back in shape would be easy. It's not. Every rep is a reminder that sacrifice and pain are real. But my dreams are worth it.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
@@ -20,18 +20,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 7.5,
     "quality_breakdown": {
-      "clarity": 9,
-      "originality": 8,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.7
     },
-    "decision_reason": "Meets all requirements and is a strong, relatable post."
+    "decision_reason": "meets all requirements and is concise"
   },
   {
-    "text": "Most people won't tell you that getting back in shape takes sacrifice. I've been back at the gym for a week and it hurts. But I'm doing it because I know the people who make it look easy are the ones who put in the work, even when it's hard.",
+    "text": "Most people won't tell you that the hardest part of getting back in shape is the mental struggle. I'm on day 7 and it still hurts. But I know I'm not alone. The people who make it look easy are the ones who put in the work, even when it's hard.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -42,8 +42,8 @@
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparing themselves to others",
-      "desire": "being someone people notice changed"
+      "pain_point": "feeling stuck",
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -51,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 7.8,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.8,
+      "audience_fit": 0.8
     },
-    "decision_reason": "Empathetic tone and use of social_proof_inverse trigger make it a compelling post."
+    "decision_reason": "meets all requirements and provides a relatable perspective"
   }
 ]

@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "I've been trying to get back to the gym after 2 months off. The first week, I could only do 3 sets of 8 reps. Now, I'm at 4 sets of 10. Progress is slow, but it's real.",
-        "tone": "casual",
-        "format": "micro-story",
-        "pillar": [
-          "life",
-          "consistency"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-15T09:03:14.490Z"
-      },
-      {
-        "text": "3 things that will happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real.",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-15T09:03:14.490Z"
-      },
-      {
         "text": "Painful reps and early mornings. Still trying to fix my sleep schedule after moving to a new place. 2 months off the gym was a setback, but every rep now reminds me my dreams are worth the sacrifice.",
         "tone": "reflective",
         "format": "micro-story",
@@ -571,16 +549,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-21T09:11:22.482Z"
+      },
+      {
+        "text": "I thought getting back in shape would be easy. It's not. Every rep is a reminder that sacrifice and pain are real. But my dreams are worth it.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-21T15:02:12.495Z"
+      },
+      {
+        "text": "Most people won't tell you that the hardest part of getting back in shape is the mental struggle. I'm on day 7 and it still hurts. But I know I'm not alone. The people who make it look easy are the ones who put in the work, even when it's hard.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-21T15:02:12.495Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "motivation",
       "consistency",
       "consistency",
@@ -604,11 +600,15 @@
       "consistency",
       "life",
       "motivation",
-      "life"
+      "life",
+      "sacrifice",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -626,22 +626,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 42,
       "motivational": 81,
-      "empathetic": 81,
+      "empathetic": 82,
       "casual": 39,
-      "reflective": 78
+      "reflective": 79
     },
     "format_distribution_7d": {
       "micro-lesson": 81,
-      "micro-story": 82,
+      "micro-story": 83,
       "quote-style": 42,
       "question": 38,
       "list": 39,
-      "progress-log": 39
+      "progress-log": 40
     }
   },
   "performance": {
@@ -652,7 +654,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-21T09:11:20.204Z"
+    "last_analyzed_at": "2026-04-21T15:02:04.154Z"
   },
   "content_library": {
     "proven_hooks": [],
