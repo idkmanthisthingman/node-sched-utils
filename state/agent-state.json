@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "I'm on week 3 of getting back to the gym after 2 months off. It's not easy, but every painful rep reminds me why I started. I'm not just building my body, I'm building my discipline, and that's what's going to change my life.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-16T03:53:50.373Z"
-      },
-      {
-        "text": "Discipline is freedom, not a cage. Every rep, every sweat drop is a step closer to the life you truly want. The gym isn't a chore, it's a tool for liberation.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-16T03:53:50.373Z"
-      },
-      {
-        "text": "You have permission to start over, to fall behind and get back up. Consistency is key, even if it's just 10 minutes a day. Every small win counts towards your goals. I'm still getting back into my gym routine after 2 months off.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-16T09:02:56.808Z"
-      },
-      {
         "text": "What's the smallest habit you can build today to move closer to your goals? Is it 5 push-ups, 1 page of reading, or 10 minutes of journaling? Start small, build consistency.",
         "tone": "casual",
         "format": "question",
@@ -571,16 +538,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-22T03:47:05.959Z"
+      },
+      {
+        "text": "You're allowed to have an off day. But don't let it turn into an off week. Consistency is what separates progress from excuses. I'm on week 2 of getting back to the gym and it's still a struggle, but I'm showing up.",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-22T09:05:51.873Z"
+      },
+      {
+        "text": "What's the smallest habit you can build today that'll move you closer to your goal? For me, it's doing 10 push-ups every morning. It's not much, but it's a start.",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "motivation"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-22T09:05:51.873Z"
+      },
+      {
+        "text": "3 things that happen when you don't prioritize your goals: you feel stuck, you lose motivation, and you regret the opportunities you missed. Don't let life pass you by. Take control and start making progress, no matter how small.",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "life",
+          "motivation"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-22T09:05:51.873Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -604,12 +598,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "consistency",
+      "motivation",
+      "life",
+      "motivation"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -626,21 +623,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 43,
-      "motivational": 82,
+      "motivational": 83,
       "empathetic": 83,
-      "casual": 39,
-      "reflective": 79
+      "casual": 40,
+      "reflective": 80
     },
     "format_distribution_7d": {
-      "micro-lesson": 82,
+      "micro-lesson": 83,
       "micro-story": 84,
       "quote-style": 43,
-      "question": 38,
-      "list": 39,
+      "question": 39,
+      "list": 40,
       "progress-log": 40
     }
   },
@@ -652,7 +652,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-22T03:47:03.878Z"
+    "last_analyzed_at": "2026-04-22T09:05:49.394Z"
   },
   "content_library": {
     "proven_hooks": [],
