@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's the smallest habit you can build today to move closer to your goals? Is it 5 push-ups, 1 page of reading, or 10 minutes of journaling? Start small, build consistency.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-16T09:02:56.808Z"
-      },
-      {
-        "text": "3 things that will happen if you don't prioritize consistency: you'll lose motivation, you'll forget your goals, and you'll give up on your dreams. The cost of inaction is real. Staying motivated is a choice, and it's time to make it.",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-16T09:02:56.808Z"
-      },
-      {
         "text": "I stopped going to the gym for 2 months and it felt like a part of me died. Now I'm back and every painful rep reminds me that my dreams are worth the sacrifice.",
         "tone": "reflective",
         "format": "micro-story",
@@ -571,16 +549,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-22T09:05:51.873Z"
+      },
+      {
+        "text": "Woke up at 5:30 AM, still trying to fix my sleep schedule. The pain of waking up early is real, but my dreams of a consistent routine keep me going. Sacrificing comfort for progress, one day at a time.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-22T14:54:27.607Z"
+      },
+      {
+        "text": "Most people won't tell you that getting back in shape requires sacrifice and pain. But I'll tell you - it's worth it. I'm on day 10 of my gym journey and I'm still struggling, but I see progress. Don't believe the social media perfection, believe the grind.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-22T14:54:27.607Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "motivation",
       "consistency",
       "consistency",
@@ -604,11 +600,15 @@
       "consistency",
       "motivation",
       "life",
-      "motivation"
+      "motivation",
+      "sacrifice",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -626,22 +626,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 43,
       "motivational": 83,
-      "empathetic": 83,
+      "empathetic": 84,
       "casual": 40,
-      "reflective": 80
+      "reflective": 81
     },
     "format_distribution_7d": {
       "micro-lesson": 83,
-      "micro-story": 84,
+      "micro-story": 85,
       "quote-style": 43,
       "question": 39,
       "list": 40,
-      "progress-log": 40
+      "progress-log": 41
     }
   },
   "performance": {
@@ -652,7 +654,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-22T09:05:49.394Z"
+    "last_analyzed_at": "2026-04-22T14:54:25.609Z"
   },
   "content_library": {
     "proven_hooks": [],
