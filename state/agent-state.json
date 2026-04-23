@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's the most specific, smallest habit you can build today to move closer to your goals? I'm trying to get back to the gym after 2 months off, one painful rep at a time.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "life",
-          "consistency"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-17T09:02:21.755Z"
-      },
-      {
-        "text": "3 things that happen when you give up on your goals: you lose motivation, you forget your why, and you settle for a life that's not yours. The cost of inaction is real. I'm back at the gym, rebuilding my discipline one rep at a time.",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-17T09:02:21.755Z"
-      },
-      {
         "text": "I've been back at the gym for a week now and every painful rep reminds me why I started. It's not about the gains, it's about the person I'm becoming. Sacrifice is hard, but it's worth it for my dreams",
         "tone": "reflective",
         "format": "micro-story",
@@ -571,16 +549,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-23T09:11:42.717Z"
+      },
+      {
+        "text": "Woke up at 5:30 AM, still trying to fix my sleep schedule. The pain of waking up early is real, but my dreams of a consistent routine keep me going. Sacrificing comfort for progress, one day at a time.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-23T15:23:30.882Z"
+      },
+      {
+        "text": "Most people post gym selfies, but nobody talks about the sacrifices they made to get there. I'm on day 14 of my gym journey and I'm still struggling, but I see progress. My dreams are worth the pain.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-23T15:23:30.882Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "motivation",
       "consistency",
       "consistency",
@@ -604,11 +600,15 @@
       "motivation",
       "life",
       "consistency",
-      "life"
+      "life",
+      "sacrifice",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -626,22 +626,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 44,
       "motivational": 85,
-      "empathetic": 85,
+      "empathetic": 86,
       "casual": 41,
-      "reflective": 82
+      "reflective": 83
     },
     "format_distribution_7d": {
       "micro-lesson": 85,
-      "micro-story": 86,
+      "micro-story": 87,
       "quote-style": 44,
       "question": 40,
       "list": 41,
-      "progress-log": 41
+      "progress-log": 42
     }
   },
   "performance": {
@@ -652,7 +654,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-23T09:11:40.249Z"
+    "last_analyzed_at": "2026-04-23T15:23:29.131Z"
   },
   "content_library": {
     "proven_hooks": [],

@@ -19,21 +19,19 @@
       "objective": "follower_growth"
     },
     "arc_phase": "beginning",
-    "hashtags": [
-      "fitnessjourney"
-    ],
-    "quality_score": 8.2,
+    "hashtags": [],
+    "quality_score": 7.5,
     "quality_breakdown": {
       "clarity": 0.8,
       "originality": 0.7,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "aligns with current state and pillar requirements"
+    "decision_reason": "meets all requirements and has a high quality score"
   },
   {
-    "text": "Most people won't tell you that getting back in shape requires sacrifice and pain. But I'll tell you - it's worth it. I'm on day 10 of my gym journey and I'm still struggling, but I see progress. Don't believe the social media perfection, believe the grind.",
+    "text": "Most people post gym selfies, but nobody talks about the sacrifices they made to get there. I'm on day 14 of my gym journey and I'm still struggling, but I see progress. My dreams are worth the pain.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -44,8 +42,8 @@
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparison spirals",
-      "desire": "proof discipline pays off"
+      "pain_point": "comparing themselves to others",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -53,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 7.8,
     "quality_breakdown": {
       "clarity": 0.9,
       "originality": 0.8,
       "emotional_impact": 0.8,
-      "virality_potential": 0.9,
-      "audience_fit": 0.8
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "meets pillar and trigger requirements, empathetic tone"
+    "decision_reason": "meets all requirements and has a high quality score"
   }
 ]
