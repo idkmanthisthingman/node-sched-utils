@@ -13,41 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "I've been back at the gym for a week now and every painful rep reminds me why I started. It's not about the gains, it's about the person I'm becoming. Sacrifice is hard, but it's worth it for my dreams",
-        "tone": "reflective",
-        "format": "micro-story",
-        "pillar": [
-          "sacrifice",
-          "pain",
-          "dreams"
-        ],
-        "trigger": "pattern_interrupt",
-        "posted_at": "2026-04-17T14:38:32.763Z"
-      },
-      {
-        "text": "I see people posting their fitness journeys and it looks effortless. But I know the truth - every successful person I've met has had to make sacrifices that hurt. Like waking up at 5am to get a head start on their dreams #consistency",
-        "tone": "empathetic",
-        "format": "progress-log",
-        "pillar": [
-          "sacrifice",
-          "pain",
-          "dreams"
-        ],
-        "trigger": "social_proof_inverse",
-        "posted_at": "2026-04-17T14:38:32.763Z"
-      },
-      {
-        "text": "You call yourself a gym person but haven't been in months. Time to reevaluate. Discipline isn't a trait, it's a choice.",
-        "tone": "tough-love",
-        "format": "micro-lesson",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "identity_threat",
-        "posted_at": "2026-04-18T03:36:15.346Z"
-      },
-      {
         "text": "Back at the gym after 2 months off. Every rep is a reminder that I'm capable of more than I thought. Small steps towards a stronger me.",
         "tone": "motivational",
         "format": "micro-story",
@@ -573,16 +538,43 @@
         ],
         "trigger": "social_proof_inverse",
         "posted_at": "2026-04-23T15:23:30.882Z"
+      },
+      {
+        "text": "Your excuses are holding you back. I'm on day 16 of my gym journey and I still hate waking up early. Discipline isn't about feeling like it, it's about showing up.",
+        "tone": "tough-love",
+        "format": "micro-lesson",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "identity_threat",
+        "posted_at": "2026-04-24T03:57:13.210Z"
+      },
+      {
+        "text": "I was struggling to get back to the gym after 2 months off. But every rep is a reminder that I'm one step closer to my goal. Small wins add up, and so does the pain.",
+        "tone": "motivational",
+        "format": "micro-story",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "relatability_gap",
+        "posted_at": "2026-04-24T03:57:13.210Z"
+      },
+      {
+        "text": "Growth happens in the moments you don't feel like showing up. That's where discipline kicks in. Keep pushing, even when it's hard.",
+        "tone": "empathetic",
+        "format": "quote-style",
+        "pillar": [
+          "discipline",
+          "gym"
+        ],
+        "trigger": "reframe",
+        "posted_at": "2026-04-24T03:57:13.210Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "consistency",
-      "consistency",
-      "motivation",
-      "life",
-      "motivation",
       "sacrifice",
       "pain",
       "dreams",
@@ -606,12 +598,15 @@
       "dreams",
       "sacrifice",
       "pain",
-      "dreams"
+      "dreams",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym",
+      "discipline",
+      "gym"
     ],
     "recent_triggers_used": [
-      "specificity_shock",
-      "stakes_escalation",
-      "pattern_interrupt",
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
@@ -628,19 +623,22 @@
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
-      "social_proof_inverse"
+      "social_proof_inverse",
+      "identity_threat",
+      "relatability_gap",
+      "reframe"
     ],
     "tone_distribution_7d": {
-      "tough-love": 44,
-      "motivational": 85,
-      "empathetic": 86,
+      "tough-love": 45,
+      "motivational": 86,
+      "empathetic": 87,
       "casual": 41,
       "reflective": 83
     },
     "format_distribution_7d": {
-      "micro-lesson": 85,
-      "micro-story": 87,
-      "quote-style": 44,
+      "micro-lesson": 86,
+      "micro-story": 88,
+      "quote-style": 45,
       "question": 40,
       "list": 41,
       "progress-log": 42
@@ -654,7 +652,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-23T15:23:29.131Z"
+    "last_analyzed_at": "2026-04-24T03:57:11.032Z"
   },
   "content_library": {
     "proven_hooks": [],
@@ -698,7 +696,7 @@
     "retweeted_tweet_ids": [],
     "replied_tweet_ids": [],
     "daily": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "follows": 0,
       "likes": 0,
       "retweets": 0,

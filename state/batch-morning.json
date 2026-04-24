@@ -1,6 +1,6 @@
 [
   {
-    "text": "You're not a morning person if you can't wake up for a 6am gym session. Time to reevaluate your priorities and face the identity crisis that's holding you back.",
+    "text": "Your excuses are holding you back. I'm on day 16 of my gym journey and I still hate waking up early. Discipline isn't about feeling like it, it's about showing up.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -19,18 +19,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.1,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8.2,
-      "virality_potential": 7.9,
-      "audience_fit": 8.1
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.9
     },
-    "decision_reason": "High clarity and emotional impact"
+    "decision_reason": "directly addresses the audience's pain point"
   },
   {
-    "text": "I've been back at the gym for 2 weeks and it's been a struggle. But every rep is a reminder that I'm one step closer to my goal. Small wins add up, and so does the pain.",
+    "text": "I was struggling to get back to the gym after 2 months off. But every rep is a reminder that I'm one step closer to my goal. Small wins add up, and so does the pain.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -51,16 +51,16 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.2,
-      "originality": 7.5,
-      "emotional_impact": 8.1,
-      "virality_potential": 7.8,
-      "audience_fit": 8.2
+      "clarity": 0.8,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.6,
+      "audience_fit": 0.8
     },
-    "decision_reason": "High audience fit and emotional impact"
+    "decision_reason": "shared personal experience to build connection"
   },
   {
-    "text": "Discipline is not about being perfect, it's about being consistent. Every rep, every set, every sweat drop is a reminder that progress is not a destination, but a reframe.",
+    "text": "Growth happens in the moments you don't feel like showing up. That's where discipline kicks in. Keep pushing, even when it's hard.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -70,8 +70,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "feeling stuck",
-      "desire": "visible physical progress"
+      "pain_point": "struggling with motivation",
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.1,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8,
-      "emotional_impact": 8.3,
-      "virality_potential": 8,
-      "audience_fit": 8.2
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.8
     },
-    "decision_reason": "High originality and emotional impact"
+    "decision_reason": "provides an encouraging perspective"
   }
 ]
