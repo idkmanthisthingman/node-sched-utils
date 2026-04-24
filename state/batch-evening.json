@@ -1,6 +1,6 @@
 [
   {
-    "text": "Woke up at 5:30 AM, still trying to fix my sleep schedule. The pain of waking up early is real, but my dreams of a consistent routine keep me going. Sacrificing comfort for progress, one day at a time.",
+    "text": "I used to think waking up at 5:30 AM was the hardest part of my day. Now I realize it's the smallest sacrifice for my dreams. The real pain is in the consistency, not just the act.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
@@ -20,18 +20,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.5,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 8,
+      "emotional_impact": 8,
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "meets all requirements and has a high quality score"
+    "decision_reason": "Meets all requirements and has a high quality score"
   },
   {
-    "text": "Most people post gym selfies, but nobody talks about the sacrifices they made to get there. I'm on day 14 of my gym journey and I'm still struggling, but I see progress. My dreams are worth the pain.",
+    "text": "Progress log: 18 days back at the gym. I'm not gonna lie, it's been tough. But seeing people who are further along in their journey makes me realize that the pain is worth it. They're not just gym rats, they're people who made sacrifices for their dreams.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
@@ -51,14 +51,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 7.8,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 8.5,
+      "emotional_impact": 9,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "meets all requirements and has a high quality score"
+    "decision_reason": "Meets all requirements and has a high quality score"
   }
 ]
