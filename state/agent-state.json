@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Back at the gym after 2 months off. Every rep is a reminder that I'm capable of more than I thought. Small steps towards a stronger me.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-18T03:36:15.346Z"
-      },
-      {
-        "text": "Discipline is not about being perfect, it's about being consistent. Every rep, every sweat drop is a step closer to the life you want.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-18T03:36:15.346Z"
-      },
-      {
-        "text": "You have permission to prioritize your goals over social media. Every minute you spend on your goals is a step closer to the life you want",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-18T08:08:06.533Z"
-      },
-      {
         "text": "What's the smallest habit you can build today to move closer to your goals? I'm trying to get back to a consistent sleep schedule, one early morning at a time.",
         "tone": "casual",
         "format": "question",
@@ -571,16 +538,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-24T03:57:13.210Z"
+      },
+      {
+        "text": "You're allowed to prioritize your goals over social events. In fact, you should. Consistency is key to achieving what you want. I'm still figuring out my routine, but I'm showing up #motivation",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-24T09:17:02.720Z"
+      },
+      {
+        "text": "What's one thing you can do daily to move closer to your goal? For me, it's 30 minutes of gym time, even on days I don't feel like it. 14 days in and I've seen a 10% increase in my endurance",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-24T09:17:02.720Z"
+      },
+      {
+        "text": "3 things that'll happen if you don't prioritize your goals: you'll feel stuck, you'll lose motivation, and you'll regret the opportunities you missed. My gym journey is a reminder that consistency is worth the struggle",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-24T09:17:02.720Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -604,12 +598,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -626,21 +623,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 45,
-      "motivational": 86,
+      "motivational": 87,
       "empathetic": 87,
-      "casual": 41,
-      "reflective": 83
+      "casual": 42,
+      "reflective": 84
     },
     "format_distribution_7d": {
-      "micro-lesson": 86,
+      "micro-lesson": 87,
       "micro-story": 88,
       "quote-style": 45,
-      "question": 40,
-      "list": 41,
+      "question": 41,
+      "list": 42,
       "progress-log": 42
     }
   },
@@ -652,7 +652,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-24T03:57:11.032Z"
+    "last_analyzed_at": "2026-04-24T09:17:00.150Z"
   },
   "content_library": {
     "proven_hooks": [],

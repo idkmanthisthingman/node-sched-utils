@@ -1,6 +1,6 @@
 [
   {
-    "text": "You're allowed to start small. In fact, you should. Consistency is what matters, not perfection. I'm still figuring out my routine, but I'm showing up",
+    "text": "You're allowed to prioritize your goals over social events. In fact, you should. Consistency is key to achieving what you want. I'm still figuring out my routine, but I'm showing up #motivation",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -19,30 +19,30 @@
     },
     "arc_phase": "beginning",
     "hashtags": [
-      "consistencyiskey"
+      "motivation"
     ],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
+      "clarity": 0.8,
       "originality": 0.7,
       "emotional_impact": 0.8,
-      "virality_potential": 0.8,
+      "virality_potential": 0.7,
       "audience_fit": 0.9
     },
-    "decision_reason": "permission slip trigger aligns with motivation pillar"
+    "decision_reason": "Encourages prioritization of goals"
   },
   {
-    "text": "What's the smallest habit you can build today that'll move you closer to your goal? For me, it's doing 10 push-ups every morning while trying to fix my sleep schedule",
+    "text": "What's one thing you can do daily to move closer to your goal? For me, it's 30 minutes of gym time, even on days I don't feel like it. 14 days in and I've seen a 10% increase in my endurance",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "motivation",
-      "life"
+      "life",
+      "consistency"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "knowing what to do but not doing it",
+      "pain_point": "losing consistency",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -54,19 +54,19 @@
     "quality_score": 8,
     "quality_breakdown": {
       "clarity": 0.8,
-      "originality": 0.8,
+      "originality": 0.6,
       "emotional_impact": 0.7,
-      "virality_potential": 0.7,
+      "virality_potential": 0.8,
       "audience_fit": 0.8
     },
-    "decision_reason": "specificity shock trigger adds authenticity to the question"
+    "decision_reason": "References a specific, measurable goal"
   },
   {
-    "text": "3 things that'll happen if you don't prioritize your goals: you'll feel stuck, you'll lose motivation, and you'll regret the opportunities you missed. Don't let life pass you by",
+    "text": "3 things that'll happen if you don't prioritize your goals: you'll feel stuck, you'll lose motivation, and you'll regret the opportunities you missed. My gym journey is a reminder that consistency is worth the struggle",
     "tone": "reflective",
     "format": "list",
     "pillar": [
-      "consistency",
+      "motivation",
       "life"
     ],
     "psychological_trigger": "stakes_escalation",
@@ -89,6 +89,6 @@
       "virality_potential": 0.8,
       "audience_fit": 0.9
     },
-    "decision_reason": "stakes escalation trigger raises the importance of consistency"
+    "decision_reason": "Highlights the consequences of inaction"
   }
 ]
