@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "Still trying to get back into a gym routine after 2 months off. It's not easy, but every rep is a reminder that I'm stronger than I think. One day at a time, one rep at a time.",
-        "tone": "empathetic",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-19T03:54:50.202Z"
-      },
-      {
-        "text": "Discipline isn't about motivation, it's about making a choice to show up even when you don't feel like it. Every painful rep is a step closer to the life you want.",
-        "tone": "motivational",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-19T03:54:50.202Z"
-      },
-      {
-        "text": "You have permission to start small. Every consistent habit, no matter how tiny, is a step closer to your goals. Don't let fear of not being enough hold you back.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-19T08:32:19.611Z"
-      },
-      {
         "text": "What's one thing you can do daily to build consistency? For me, it's getting back to the gym after 2 months off, one painful rep at a time.",
         "tone": "casual",
         "format": "question",
@@ -571,16 +538,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-25T03:39:33.800Z"
+      },
+      {
+        "text": "Giving yourself permission to say no to social events and yes to your goals is the first step to consistency. I'm still figuring out my routine, but prioritizing my goals is a must",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-25T08:31:33.672Z"
+      },
+      {
+        "text": "How many days in a row can you commit to one habit? For me, it's 30 days of waking up at 5:30 AM, even on weekends. The goal is to make it a habit, not just a routine",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-25T08:31:33.672Z"
+      },
+      {
+        "text": "3 things that happen when you don't prioritize consistency: you feel stuck, you lose motivation, and you miss opportunities. I'm experiencing this firsthand with my gym routine, but I'm not giving up",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "motivation",
+          "life"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-25T08:31:33.672Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
-      "pain",
-      "dreams",
       "discipline",
       "gym",
       "discipline",
@@ -604,12 +598,15 @@
       "discipline",
       "gym",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "life",
+      "consistency",
+      "motivation",
+      "life"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -626,21 +623,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 46,
-      "motivational": 88,
+      "motivational": 89,
       "empathetic": 89,
-      "casual": 42,
-      "reflective": 85
+      "casual": 43,
+      "reflective": 86
     },
     "format_distribution_7d": {
-      "micro-lesson": 88,
+      "micro-lesson": 89,
       "micro-story": 90,
       "quote-style": 46,
-      "question": 41,
-      "list": 42,
+      "question": 42,
+      "list": 43,
       "progress-log": 43
     }
   },
@@ -652,7 +652,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-25T03:39:31.676Z"
+    "last_analyzed_at": "2026-04-25T08:31:31.673Z"
   },
   "content_library": {
     "proven_hooks": [],
