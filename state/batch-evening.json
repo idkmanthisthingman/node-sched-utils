@@ -1,11 +1,10 @@
 [
   {
-    "text": "I used to think waking up at 5:30 AM was the hardest part of my day. Now I realize it's the smallest sacrifice for my dreams. The real pain is in the consistency, not just the act.",
+    "text": "I woke up at 5:30 AM today, still trying to fix my sleep schedule. The real sacrifice isn't the early wake-up, it's the late nights I have to skip to make it work. Worth it for my dreams, though.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
       "sacrifice",
-      "pain",
       "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
@@ -20,29 +19,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.1,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8,
-      "emotional_impact": 8,
-      "virality_potential": 8,
-      "audience_fit": 8.5
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.7,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Meets all requirements and has a high quality score"
+    "decision_reason": "aligns with the narrative identity and audience stage"
   },
   {
-    "text": "Progress log: 18 days back at the gym. I'm not gonna lie, it's been tough. But seeing people who are further along in their journey makes me realize that the pain is worth it. They're not just gym rats, they're people who made sacrifices for their dreams.",
+    "text": "It's hard to see people crushing their fitness goals when you're just starting out. But here's the truth: they're not special, they've just made sacrifices for their dreams. And the pain is real, but so is the progress. Keep going.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
-      "sacrifice",
       "pain",
-      "dreams"
+      "sacrifice"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparing themselves to others",
+      "pain_point": "comparison spirals",
       "desire": "being someone people notice changed"
     },
     "goal_alignment": {
@@ -51,14 +49,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8.3,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 8.5,
-      "emotional_impact": 9,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Meets all requirements and has a high quality score"
+    "decision_reason": "addresses a common pain point and desire"
   }
 ]

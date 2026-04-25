@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's one thing you can do daily to build consistency? For me, it's getting back to the gym after 2 months off, one painful rep at a time.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "consistency",
-          "life"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-19T08:32:19.611Z"
-      },
-      {
-        "text": "3 costs of inconsistency: losing motivation, forgetting your why, and settling for less. The price of giving up is too high. Stay consistent, no matter what.",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-19T08:32:19.612Z"
-      },
-      {
         "text": "I used to think sacrifices were a one-time thing. But the truth is, every day is a choice between comfort and progress. Been back at the gym for a week now, and it still hurts. But I'm showing up, one painful rep at a time.",
         "tone": "reflective",
         "format": "micro-story",
@@ -571,16 +549,34 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-25T08:31:33.672Z"
+      },
+      {
+        "text": "I woke up at 5:30 AM today, still trying to fix my sleep schedule. The real sacrifice isn't the early wake-up, it's the late nights I have to skip to make it work. Worth it for my dreams, though.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "sacrifice",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-25T14:10:59.615Z"
+      },
+      {
+        "text": "It's hard to see people crushing their fitness goals when you're just starting out. But here's the truth: they're not special, they've just made sacrifices for their dreams. And the pain is real, but so is the progress. Keep going.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "pain",
+          "sacrifice"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-25T14:10:59.615Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
       "discipline",
       "gym",
-      "discipline",
-      "gym",
-      "discipline",
-      "gym",
       "motivation",
       "consistency",
       "life",
@@ -604,11 +600,13 @@
       "life",
       "consistency",
       "motivation",
-      "life"
+      "life",
+      "sacrifice",
+      "dreams",
+      "pain",
+      "sacrifice"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -626,22 +624,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 46,
       "motivational": 89,
-      "empathetic": 89,
+      "empathetic": 90,
       "casual": 43,
-      "reflective": 86
+      "reflective": 87
     },
     "format_distribution_7d": {
       "micro-lesson": 89,
-      "micro-story": 90,
+      "micro-story": 91,
       "quote-style": 46,
       "question": 42,
       "list": 43,
-      "progress-log": 43
+      "progress-log": 44
     }
   },
   "performance": {
@@ -652,7 +652,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-25T08:31:31.673Z"
+    "last_analyzed_at": "2026-04-25T14:10:57.693Z"
   },
   "content_library": {
     "proven_hooks": [],
