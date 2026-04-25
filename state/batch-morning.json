@@ -1,6 +1,6 @@
 [
   {
-    "text": "Your excuses are holding you back. I'm on day 16 of my gym journey and I still hate waking up early. Discipline isn't about feeling like it, it's about showing up.",
+    "text": "You think you're too old to start over? Newsflash: discipline has no age limit. I'm back at the gym after 2 months off and it's been a struggle, but every rep is a reminder I'm not done yet",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
@@ -21,16 +21,16 @@
     "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8.8,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "directly addresses the audience's pain point"
+    "decision_reason": "High emotional impact and clarity"
   },
   {
-    "text": "I was struggling to get back to the gym after 2 months off. But every rep is a reminder that I'm one step closer to my goal. Small wins add up, and so does the pain.",
+    "text": "Still trying to get back into my gym routine after 2 months off. It's tough, but seeing progress, no matter how small, keeps me going. Every sweat drop is a reminder that I'm one step closer to my goal",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
@@ -51,16 +51,16 @@
     "hashtags": [],
     "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.7,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.6,
-      "audience_fit": 0.8
+      "clarity": 8.2,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 7.8,
+      "audience_fit": 8.2
     },
-    "decision_reason": "shared personal experience to build connection"
+    "decision_reason": "Relatable storyline and high emotional impact"
   },
   {
-    "text": "Growth happens in the moments you don't feel like showing up. That's where discipline kicks in. Keep pushing, even when it's hard.",
+    "text": "Discipline isn't about being perfect, it's about being consistent. 'You don't have to be great to start, but you have to start to be great' applies to every gym session, even when you don't feel like it",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -70,8 +70,8 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "struggling with motivation",
-      "desire": "being someone people notice changed"
+      "pain_point": "knowing what to do but not doing it",
+      "desire": "visible physical progress"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.1,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8.8,
+      "originality": 8,
+      "emotional_impact": 8.8,
+      "virality_potential": 8.5,
+      "audience_fit": 8.5
     },
-    "decision_reason": "provides an encouraging perspective"
+    "decision_reason": "High clarity and originality"
   }
 ]
