@@ -13,39 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "We all know the gym struggle is real. But here's the thing: every painful rep is a step closer to the life you want. Keep showing up, even when it hurts.",
-        "tone": "motivational",
-        "format": "micro-story",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "relatability_gap",
-        "posted_at": "2026-04-20T03:57:46.738Z"
-      },
-      {
-        "text": "Discipline is not about being perfect, it's about being consistent. One rep at a time, one day at a time. I'm figuring it out, and you can too.",
-        "tone": "empathetic",
-        "format": "quote-style",
-        "pillar": [
-          "discipline",
-          "gym"
-        ],
-        "trigger": "reframe",
-        "posted_at": "2026-04-20T03:57:46.738Z"
-      },
-      {
-        "text": "You're allowed to not have it all together. Start with one consistent habit and build from there. For me, it's getting back to the gym after 2 months off.",
-        "tone": "motivational",
-        "format": "micro-lesson",
-        "pillar": [
-          "motivation",
-          "consistency"
-        ],
-        "trigger": "permission_slip",
-        "posted_at": "2026-04-20T09:25:52.856Z"
-      },
-      {
         "text": "What's the smallest thing you can do daily to build consistency? I've found that doing 10 push-ups every morning sets the tone for the rest of the day.",
         "tone": "casual",
         "format": "question",
@@ -571,16 +538,43 @@
         ],
         "trigger": "reframe",
         "posted_at": "2026-04-26T04:01:58.947Z"
+      },
+      {
+        "text": "Giving yourself permission to prioritize your goals over social events is key to consistency. I'm still figuring out my routine, but it's worth the sacrifice for my dreams",
+        "tone": "motivational",
+        "format": "micro-lesson",
+        "pillar": [
+          "motivation",
+          "consistency"
+        ],
+        "trigger": "permission_slip",
+        "posted_at": "2026-04-26T08:43:32.687Z"
+      },
+      {
+        "text": "What's the smallest habit you can commit to daily? For me, it's 10 minutes of exercise. 10 minutes a day can be the start of a consistent routine",
+        "tone": "casual",
+        "format": "question",
+        "pillar": [
+          "consistency",
+          "motivation"
+        ],
+        "trigger": "specificity_shock",
+        "posted_at": "2026-04-26T08:43:32.687Z"
+      },
+      {
+        "text": "3 things that happen when you give up on consistency: you lose momentum, you feel guilty, and you drift away from your goals. Don't let that be you",
+        "tone": "reflective",
+        "format": "list",
+        "pillar": [
+          "life",
+          "consistency"
+        ],
+        "trigger": "stakes_escalation",
+        "posted_at": "2026-04-26T08:43:32.687Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "motivation",
-      "life",
-      "sacrifice",
-      "pain",
-      "dreams",
-      "sacrifice",
       "pain",
       "dreams",
       "discipline",
@@ -604,12 +598,15 @@
       "gym",
       "discipline",
       "discipline",
-      "gym"
+      "gym",
+      "motivation",
+      "consistency",
+      "consistency",
+      "motivation",
+      "life",
+      "consistency"
     ],
     "recent_triggers_used": [
-      "social_proof_inverse",
-      "identity_threat",
-      "relatability_gap",
       "reframe",
       "permission_slip",
       "specificity_shock",
@@ -626,21 +623,24 @@
       "social_proof_inverse",
       "identity_threat",
       "relatability_gap",
-      "reframe"
+      "reframe",
+      "permission_slip",
+      "specificity_shock",
+      "stakes_escalation"
     ],
     "tone_distribution_7d": {
       "tough-love": 47,
-      "motivational": 90,
+      "motivational": 91,
       "empathetic": 91,
-      "casual": 43,
-      "reflective": 87
+      "casual": 44,
+      "reflective": 88
     },
     "format_distribution_7d": {
-      "micro-lesson": 90,
+      "micro-lesson": 91,
       "micro-story": 92,
       "quote-style": 47,
-      "question": 42,
-      "list": 43,
+      "question": 43,
+      "list": 44,
       "progress-log": 44
     }
   },
@@ -652,7 +652,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-26T04:01:56.992Z"
+    "last_analyzed_at": "2026-04-26T08:43:30.074Z"
   },
   "content_library": {
     "proven_hooks": [],

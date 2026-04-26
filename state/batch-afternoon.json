@@ -1,6 +1,6 @@
 [
   {
-    "text": "Giving yourself permission to say no to social events and yes to your goals is the first step to consistency. I'm still figuring out my routine, but prioritizing my goals is a must",
+    "text": "Giving yourself permission to prioritize your goals over social events is key to consistency. I'm still figuring out my routine, but it's worth the sacrifice for my dreams",
     "tone": "motivational",
     "format": "micro-lesson",
     "pillar": [
@@ -19,28 +19,28 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.8
+      "clarity": 8.5,
+      "originality": 7.8,
+      "emotional_impact": 8,
+      "virality_potential": 8.5,
+      "audience_fit": 8
     },
-    "decision_reason": "High clarity and originality score"
+    "decision_reason": "Aligns with the audience's desire for visible physical progress and feeling stuck"
   },
   {
-    "text": "How many days in a row can you commit to one habit? For me, it's 30 days of waking up at 5:30 AM, even on weekends. The goal is to make it a habit, not just a routine",
+    "text": "What's the smallest habit you can commit to daily? For me, it's 10 minutes of exercise. 10 minutes a day can be the start of a consistent routine",
     "tone": "casual",
     "format": "question",
     "pillar": [
-      "life",
-      "consistency"
+      "consistency",
+      "motivation"
     ],
     "psychological_trigger": "specificity_shock",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "losing consistency",
+      "pain_point": "losing consistency after 2-3 weeks",
       "desire": "purposeful daily routine"
     },
     "goal_alignment": {
@@ -49,29 +49,29 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.1,
+    "quality_score": 7.9,
     "quality_breakdown": {
-      "clarity": 0.8,
-      "originality": 0.9,
-      "emotional_impact": 0.7,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8,
+      "originality": 7.5,
+      "emotional_impact": 7.8,
+      "virality_potential": 8,
+      "audience_fit": 8
     },
-    "decision_reason": "High originality and audience fit score"
+    "decision_reason": "Encourages the audience to think about their daily habits and routines"
   },
   {
-    "text": "3 things that happen when you don't prioritize consistency: you feel stuck, you lose motivation, and you miss opportunities. I'm experiencing this firsthand with my gym routine, but I'm not giving up",
+    "text": "3 things that happen when you give up on consistency: you lose momentum, you feel guilty, and you drift away from your goals. Don't let that be you",
     "tone": "reflective",
     "format": "list",
     "pillar": [
-      "motivation",
-      "life"
+      "life",
+      "consistency"
     ],
     "psychological_trigger": "stakes_escalation",
     "hook_template_id": null,
     "audience_fit": {
       "pain_point": "feeling stuck",
-      "desire": "proof discipline pays off"
+      "desire": "being someone people notice changed"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.2,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.8
+      "clarity": 8.8,
+      "originality": 8,
+      "emotional_impact": 8.5,
+      "virality_potential": 8.8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "High emotional impact and clarity score"
+    "decision_reason": "Highlights the consequences of giving up on consistency and encourages the audience to take action"
   }
 ]
