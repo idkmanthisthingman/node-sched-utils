@@ -13,28 +13,6 @@
   "content": {
     "recent_posts": [
       {
-        "text": "What's the smallest thing you can do daily to build consistency? I've found that doing 10 push-ups every morning sets the tone for the rest of the day.",
-        "tone": "casual",
-        "format": "question",
-        "pillar": [
-          "consistency",
-          "life"
-        ],
-        "trigger": "specificity_shock",
-        "posted_at": "2026-04-20T09:25:52.856Z"
-      },
-      {
-        "text": "3 things I've learned from trying to fix my sleep schedule: it's hard, it's worth it, and every day is a new chance to start again. Don't give up on your goals.",
-        "tone": "reflective",
-        "format": "list",
-        "pillar": [
-          "motivation",
-          "life"
-        ],
-        "trigger": "stakes_escalation",
-        "posted_at": "2026-04-20T09:25:52.856Z"
-      },
-      {
         "text": "I'm on day 5 of fixing my sleep schedule and it still feels like a battle. But every morning I wake up at 5:30, it's a reminder that I'm one step closer to making my dreams a reality, no matter the pain.",
         "tone": "reflective",
         "format": "micro-story",
@@ -571,15 +549,33 @@
         ],
         "trigger": "stakes_escalation",
         "posted_at": "2026-04-26T08:43:32.687Z"
+      },
+      {
+        "text": "I went back to the gym after 2 months off. The pain is real, but so is the progress. It's not about being perfect, it's about being there. Every struggle is a step closer to my dreams.",
+        "tone": "reflective",
+        "format": "micro-story",
+        "pillar": [
+          "pain",
+          "dreams"
+        ],
+        "trigger": "pattern_interrupt",
+        "posted_at": "2026-04-26T14:12:09.577Z"
+      },
+      {
+        "text": "You're not alone in feeling like giving up on your fitness goals. It's okay to feel the pain and struggle. But know that every rep, every set, is a sacrifice worth making for your dreams.",
+        "tone": "empathetic",
+        "format": "progress-log",
+        "pillar": [
+          "sacrifice",
+          "pain",
+          "dreams"
+        ],
+        "trigger": "social_proof_inverse",
+        "posted_at": "2026-04-26T14:12:09.577Z"
       }
     ],
     "recent_hooks": [],
     "recent_topics": [
-      "pain",
-      "dreams",
-      "discipline",
-      "gym",
-      "discipline",
       "gym",
       "discipline",
       "gym",
@@ -604,11 +600,14 @@
       "consistency",
       "motivation",
       "life",
-      "consistency"
+      "consistency",
+      "pain",
+      "dreams",
+      "sacrifice",
+      "pain",
+      "dreams"
     ],
     "recent_triggers_used": [
-      "reframe",
-      "permission_slip",
       "specificity_shock",
       "stakes_escalation",
       "pattern_interrupt",
@@ -626,22 +625,24 @@
       "reframe",
       "permission_slip",
       "specificity_shock",
-      "stakes_escalation"
+      "stakes_escalation",
+      "pattern_interrupt",
+      "social_proof_inverse"
     ],
     "tone_distribution_7d": {
       "tough-love": 47,
       "motivational": 91,
-      "empathetic": 91,
+      "empathetic": 92,
       "casual": 44,
-      "reflective": 88
+      "reflective": 89
     },
     "format_distribution_7d": {
       "micro-lesson": 91,
-      "micro-story": 92,
+      "micro-story": 93,
       "quote-style": 47,
       "question": 43,
       "list": 44,
-      "progress-log": 44
+      "progress-log": 45
     }
   },
   "performance": {
@@ -652,7 +653,7 @@
     "weak_patterns": [],
     "active_ab_tests": [],
     "follower_count": 0,
-    "last_analyzed_at": "2026-04-26T08:43:30.074Z"
+    "last_analyzed_at": "2026-04-26T14:12:07.679Z"
   },
   "content_library": {
     "proven_hooks": [],

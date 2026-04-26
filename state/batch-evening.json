@@ -1,10 +1,10 @@
 [
   {
-    "text": "I woke up at 5:30 AM today, still trying to fix my sleep schedule. The real sacrifice isn't the early wake-up, it's the late nights I have to skip to make it work. Worth it for my dreams, though.",
+    "text": "I went back to the gym after 2 months off. The pain is real, but so is the progress. It's not about being perfect, it's about being there. Every struggle is a step closer to my dreams.",
     "tone": "reflective",
     "format": "micro-story",
     "pillar": [
-      "sacrifice",
+      "pain",
       "dreams"
     ],
     "psychological_trigger": "pattern_interrupt",
@@ -19,29 +19,30 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.1,
+    "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.8,
-      "virality_potential": 0.7,
-      "audience_fit": 0.9
+      "clarity": 8,
+      "originality": 7.5,
+      "emotional_impact": 8.5,
+      "virality_potential": 8,
+      "audience_fit": 8.5
     },
-    "decision_reason": "aligns with the narrative identity and audience stage"
+    "decision_reason": "Sharing a personal experience to connect with the audience"
   },
   {
-    "text": "It's hard to see people crushing their fitness goals when you're just starting out. But here's the truth: they're not special, they've just made sacrifices for their dreams. And the pain is real, but so is the progress. Keep going.",
+    "text": "You're not alone in feeling like giving up on your fitness goals. It's okay to feel the pain and struggle. But know that every rep, every set, is a sacrifice worth making for your dreams.",
     "tone": "empathetic",
     "format": "progress-log",
     "pillar": [
+      "sacrifice",
       "pain",
-      "sacrifice"
+      "dreams"
     ],
     "psychological_trigger": "social_proof_inverse",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "comparison spirals",
-      "desire": "being someone people notice changed"
+      "pain_point": "losing consistency",
+      "desire": "purposeful daily routine"
     },
     "goal_alignment": {
       "stage": "cold",
@@ -49,14 +50,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.3,
+    "quality_score": 8.5,
     "quality_breakdown": {
-      "clarity": 0.9,
-      "originality": 0.8,
-      "emotional_impact": 0.9,
-      "virality_potential": 0.8,
-      "audience_fit": 0.9
+      "clarity": 8.5,
+      "originality": 8,
+      "emotional_impact": 9,
+      "virality_potential": 8.5,
+      "audience_fit": 9
     },
-    "decision_reason": "addresses a common pain point and desire"
+    "decision_reason": "Validating the audience's emotions to build trust"
   }
 ]
