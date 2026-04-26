@@ -1,11 +1,11 @@
 [
   {
-    "text": "You think you're too old to start over? Newsflash: discipline has no age limit. I'm back at the gym after 2 months off and it's been a struggle, but every rep is a reminder I'm not done yet",
+    "text": "You call yourself a gym-goer but haven't been in months. That's not a hobby, that's a hobby's corpse. Revive it with one painful rep at a time.",
     "tone": "tough-love",
     "format": "micro-lesson",
     "pillar": [
-      "discipline",
-      "gym"
+      "gym",
+      "discipline"
     ],
     "psychological_trigger": "identity_threat",
     "hook_template_id": null,
@@ -21,21 +21,21 @@
     "hashtags": [],
     "quality_score": 8.2,
     "quality_breakdown": {
-      "clarity": 8.5,
-      "originality": 7.8,
-      "emotional_impact": 8.8,
-      "virality_potential": 8,
-      "audience_fit": 8
+      "clarity": 0.9,
+      "originality": 0.8,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.8,
+      "audience_fit": 0.8
     },
-    "decision_reason": "High emotional impact and clarity"
+    "decision_reason": "High clarity and emotional impact"
   },
   {
-    "text": "Still trying to get back into my gym routine after 2 months off. It's tough, but seeing progress, no matter how small, keeps me going. Every sweat drop is a reminder that I'm one step closer to my goal",
+    "text": "I went back to the gym after 2 months off. It's not about being perfect, it's about being there. Every struggle is a step closer to progress.",
     "tone": "motivational",
     "format": "micro-story",
     "pillar": [
-      "discipline",
-      "gym"
+      "gym",
+      "discipline"
     ],
     "psychological_trigger": "relatability_gap",
     "hook_template_id": null,
@@ -49,18 +49,18 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8,
+    "quality_score": 8.1,
     "quality_breakdown": {
-      "clarity": 8.2,
-      "originality": 7.5,
-      "emotional_impact": 8.5,
-      "virality_potential": 7.8,
-      "audience_fit": 8.2
+      "clarity": 0.9,
+      "originality": 0.7,
+      "emotional_impact": 0.9,
+      "virality_potential": 0.7,
+      "audience_fit": 0.9
     },
-    "decision_reason": "Relatable storyline and high emotional impact"
+    "decision_reason": "High audience fit and emotional impact"
   },
   {
-    "text": "Discipline isn't about being perfect, it's about being consistent. 'You don't have to be great to start, but you have to start to be great' applies to every gym session, even when you don't feel like it",
+    "text": "Discipline is not about the first rep, it's about the 100th. When you're done, you're not done. You're just getting started.",
     "tone": "empathetic",
     "format": "quote-style",
     "pillar": [
@@ -70,7 +70,7 @@
     "psychological_trigger": "reframe",
     "hook_template_id": null,
     "audience_fit": {
-      "pain_point": "knowing what to do but not doing it",
+      "pain_point": "feeling stuck",
       "desire": "visible physical progress"
     },
     "goal_alignment": {
@@ -79,14 +79,14 @@
     },
     "arc_phase": "beginning",
     "hashtags": [],
-    "quality_score": 8.5,
+    "quality_score": 8,
     "quality_breakdown": {
-      "clarity": 8.8,
-      "originality": 8,
-      "emotional_impact": 8.8,
-      "virality_potential": 8.5,
-      "audience_fit": 8.5
+      "clarity": 0.8,
+      "originality": 0.8,
+      "emotional_impact": 0.8,
+      "virality_potential": 0.8,
+      "audience_fit": 0.8
     },
-    "decision_reason": "High clarity and originality"
+    "decision_reason": "High quality score and originality"
   }
 ]
